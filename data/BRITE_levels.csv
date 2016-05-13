@@ -1,0 +1,4397 @@
+kegg,brite_level
+K00184,NA
+K00185,NA
+K00183,NA
+K00180,Enzymes [BR:ko01000]
+K01361,Enzymes [BR:ko01000]
+K01360,Enzymes [BR:ko01000]
+K01362,Enzymes [BR:ko01000]
+K09173,Transcription factors [BR:ko03000]
+K06972,Enzymes [BR:ko01000]
+K11909,Secretion system [BR:ko02044]
+K04641,G protein-coupled receptors [BR:ko04030]
+K04640,GTP-binding proteins [BR:ko04031]
+K04643,G protein-coupled receptors [BR:ko04030]
+K04642,G protein-coupled receptors [BR:ko04030]
+K00590,Enzymes [BR:ko01000]
+K05841,Enzymes [BR:ko01000]
+K05844,Enzymes [BR:ko01000]
+K08566,Enzymes [BR:ko01000]
+K15548,Transporters [BR:ko02000]
+K15549,Transporters [BR:ko02000]
+K04081,Chaperones and folding catalysts [BR:ko03110]
+K05565,Transporters [BR:ko02000]
+K04087,KEGG modules [BR:ko00002]
+K04086,Chaperones and folding catalysts [BR:ko03110]
+K04084,Enzymes [BR:ko01000]
+K15540,NA
+K04088,KEGG modules [BR:ko00002]
+K15545,Transcription factors [BR:ko03000]
+K00504,Enzymes [BR:ko01000]
+K15547,Transporters [BR:ko02000]
+K14774,Ribosome biogenesis [BR:ko03009]
+K09281,Transcription factors [BR:ko03000]
+K14775,Ribosome biogenesis [BR:ko03009]
+K00986,Enzymes [BR:ko01000]
+K00987,Enzymes [BR:ko01000]
+K00984,Enzymes [BR:ko01000]
+K01102,Enzymes [BR:ko01000]
+K00982,Enzymes [BR:ko01000]
+K01104,Enzymes [BR:ko01000]
+K01299,Enzymes [BR:ko01000]
+K05593,Enzymes [BR:ko01000]
+K05590,Enzymes [BR:ko01000]
+K05591,Enzymes [BR:ko01000]
+K05596,Transcription factors [BR:ko03000]
+K05594,NA
+K05595,Transporters [BR:ko02000]
+K01290,Enzymes [BR:ko01000]
+K01293,Enzymes [BR:ko01000]
+K01292,Enzymes [BR:ko01000]
+K01295,Enzymes [BR:ko01000]
+K01297,Enzymes [BR:ko01000]
+K01296,Enzymes [BR:ko01000]
+K15325,Transfer RNA biogenesis [BR:ko03016]
+K15326,Transfer RNA biogenesis [BR:ko03016]
+K15327,Polyketide biosynthesis proteins [BR:ko01008]
+K15320,Enzymes [BR:ko01000]
+K14772,Ribosome biogenesis [BR:ko03009]
+K15322,Transfer RNA biogenesis [BR:ko03016]
+K10058,Lectins [BR:ko04091]
+K14540,Ribosome biogenesis [BR:ko03009]
+K15328,Polyketide biosynthesis proteins [BR:ko01008]
+K15329,Polyketide biosynthesis proteins [BR:ko01008]
+K13173,Spliceosome [BR:ko03041]
+K10442,Ubiquitin system [BR:ko04121]
+K00219,Enzymes [BR:ko01000]
+K02039,NA
+K01741,Enzymes [BR:ko01000]
+K13170,Spliceosome [BR:ko03041]
+K02663,Secretion system [BR:ko02044]
+K02031,KEGG modules [BR:ko00002]
+K02032,KEGG modules [BR:ko00002]
+K02033,KEGG modules [BR:ko00002]
+K02034,KEGG modules [BR:ko00002]
+K05562,Transporters [BR:ko02000]
+K09522,Chaperones and folding catalysts [BR:ko03110]
+K08116,Proteoglycans [BR:ko00535]
+K08023,NA
+K09249,KEGG modules [BR:ko00002]
+K14437,Enzymes [BR:ko01000]
+K14436,Enzymes [BR:ko01000]
+K14435,Enzymes [BR:ko01000]
+K08188,Transporters [BR:ko02000]
+K08189,Transporters [BR:ko02000]
+K08186,Transporters [BR:ko02000]
+K13657,Enzymes [BR:ko01000]
+K08184,Transporters [BR:ko02000]
+K08185,Transporters [BR:ko02000]
+K08182,Transporters [BR:ko02000]
+K08183,Transporters [BR:ko02000]
+K13650,Prokaryotic defense system [BR:ko02048]
+K08181,Transporters [BR:ko02000]
+K15430,Enzymes [BR:ko01000]
+K14128,Enzymes [BR:ko01000]
+K15433,Transfer RNA biogenesis [BR:ko03016]
+K08344,Transporters [BR:ko02000]
+K15435,Enzymes [BR:ko01000]
+K05118,Enzymes [BR:ko01000]
+K06813,Cell adhesion molecules and their ligands [BR:ko04516]
+K14121,NA
+K14120,NA
+K14123,NA
+K14122,NA
+K14125,NA
+K14124,NA
+K14127,Enzymes [BR:ko01000]
+K14126,Enzymes [BR:ko01000]
+K05336,Transporters [BR:ko02000]
+K05337,NA
+K06811,Cell adhesion molecules and their ligands [BR:ko04516]
+K02100,Transporters [BR:ko02000]
+K02101,NA
+K02450,KEGG modules [BR:ko00002]
+K02451,KEGG modules [BR:ko00002]
+K03455,NA
+K03457,NA
+K03451,NA
+K03450,Transporters [BR:ko02000]
+K03981,Enzymes [BR:ko01000]
+K11250,Transporters [BR:ko02000]
+K02058,KEGG modules [BR:ko00002]
+K11493,Messenger RNA biogenesis [BR:ko03019]
+K07089,NA
+K03855,NA
+K03854,Enzymes [BR:ko01000]
+K03521,NA
+K02589,NA
+K14057,Transcription factors [BR:ko03000]
+K03522,Exosome [BR:ko04147]
+K14051,Enzymes [BR:ko01000]
+K14050,Enzymes [BR:ko01000]
+K14053,Transporters [BR:ko02000]
+K14052,Transporters [BR:ko02000]
+K03529,Chromosome [BR:ko03036]
+K13011,Lipopolysaccharide biosynthesis proteins [BR:ko01005]
+K13012,Lipopolysaccharide biosynthesis proteins [BR:ko01005]
+K13013,Lipopolysaccharide biosynthesis proteins [BR:ko01005]
+K14059,NA
+K02857,Enzymes [BR:ko01000]
+K02854,Transcription factors [BR:ko03000]
+K02855,Transcription factors [BR:ko03000]
+K04888,Ion channels [BR:ko04040]
+K04883,Ion channels [BR:ko04040]
+K04882,Ion channels [BR:ko04040]
+K04881,Ion channels [BR:ko04040]
+K04880,Ion channels [BR:ko04040]
+K04887,Ion channels [BR:ko04040]
+K04886,Ion channels [BR:ko04040]
+K04885,Ion channels [BR:ko04040]
+K04884,Ion channels [BR:ko04040]
+K09761,Enzymes [BR:ko01000]
+K09760,NA
+K09762,NA
+K09765,NA
+K09764,NA
+K09767,NA
+K09766,NA
+K09769,NA
+K09768,NA
+K11491,Chromosome [BR:ko03036]
+K01381,Enzymes [BR:ko01000]
+K13274,Enzymes [BR:ko01000]
+K13275,Enzymes [BR:ko01000]
+K13276,Enzymes [BR:ko01000]
+K13277,Enzymes [BR:ko01000]
+K06995,NA
+K04082,Chaperones and folding catalysts [BR:ko03110]
+K03892,Transcription factors [BR:ko03000]
+K13278,Enzymes [BR:ko01000]
+K15280,Transporters [BR:ko02000]
+K03299,Transporters [BR:ko02000]
+K03298,Transporters [BR:ko02000]
+K07034,NA
+K03293,NA
+K03292,NA
+K03291,Transporters [BR:ko02000]
+K03290,Transporters [BR:ko02000]
+K03297,Transporters [BR:ko02000]
+K03296,NA
+K03294,NA
+K11658,Chromosome [BR:ko03036]
+K11659,Chromosome [BR:ko03036]
+K11650,Transcription machinery [BR:ko03021]
+K11651,Transcription machinery [BR:ko03021]
+K11652,Transcription machinery [BR:ko03021]
+K11653,Transcription machinery [BR:ko03021]
+K11654,Enzymes [BR:ko01000]
+K08961,Enzymes [BR:ko01000]
+K11657,Chromosome [BR:ko03036]
+K11497,Chromosome [BR:ko03036]
+K13872,Transporters [BR:ko02000]
+K07558,Enzymes [BR:ko01000]
+K13870,Transporters [BR:ko02000]
+K13871,Protein phosphatases and associated proteins [BR:ko01009]
+K06139,NA
+K06138,NA
+K09614,Enzymes [BR:ko01000]
+K06137,Enzymes [BR:ko01000]
+K06136,NA
+K09611,Enzymes [BR:ko01000]
+K09749,NA
+K09613,Enzymes [BR:ko01000]
+K09612,Enzymes [BR:ko01000]
+K03187,NA
+K12276,Secretion system [BR:ko02044]
+K09748,Ribosome biogenesis [BR:ko03009]
+K12273,Secretion system [BR:ko02044]
+K15546,Transcription factors [BR:ko03000]
+K12271,Secretion system [BR:ko02044]
+K12270,Secretion system [BR:ko02044]
+K02057,KEGG modules [BR:ko00002]
+K12279,Secretion system [BR:ko02044]
+K12278,Secretion system [BR:ko02044]
+K07557,Enzymes [BR:ko01000]
+K09424,Transcription factors [BR:ko03000]
+K12690,Secretion system [BR:ko02044]
+K11495,Chromosome [BR:ko03036]
+K07552,Transporters [BR:ko02000]
+K07221,Transporters [BR:ko02000]
+K09741,Transfer RNA biogenesis [BR:ko03016]
+K07032,NA
+K09740,NA
+K07608,Cytoskeleton proteins [BR:ko04812]
+K07609,Cytoskeleton proteins [BR:ko04812]
+K07358,NA
+K07604,Cytoskeleton proteins [BR:ko04812]
+K07605,Cytoskeleton proteins [BR:ko04812]
+K07354,Bacterial motility proteins [BR:ko02035]
+K00989,Enzymes [BR:ko01000]
+K07352,Bacterial motility proteins [BR:ko02035]
+K07353,Bacterial motility proteins [BR:ko02035]
+K07350,Secretion system [BR:ko02044]
+K07351,Bacterial motility proteins [BR:ko02035]
+K09909,NA
+K09908,NA
+K12050,Secretion system [BR:ko02044]
+K12057,Secretion system [BR:ko02044]
+K12056,Secretion system [BR:ko02044]
+K12055,Secretion system [BR:ko02044]
+K12054,Secretion system [BR:ko02044]
+K09901,NA
+K09900,NA
+K12059,Secretion system [BR:ko02044]
+K09902,NA
+K09904,NA
+K09907,NA
+K09906,Enzymes [BR:ko01000]
+K07994,Enzymes [BR:ko01000]
+K11501,Chromosome [BR:ko03036]
+K11502,Chromosome [BR:ko03036]
+K15287,Transporters [BR:ko02000]
+K12441,Lipid biosynthesis proteins [BR:ko01004]
+K07991,Enzymes [BR:ko01000]
+K06919,NA
+K06918,NA
+K06917,Enzymes [BR:ko01000]
+K06916,Chromosome [BR:ko03036]
+K06915,NA
+K07998,Enzymes [BR:ko01000]
+K07999,Enzymes [BR:ko01000]
+K06911,NA
+K06910,NA
+K06311,Transporters [BR:ko02000]
+K00773,Enzymes [BR:ko01000]
+K13118,Spliceosome [BR:ko03041]
+K08740,DNA repair and recombination proteins [BR:ko03400]
+K08741,DNA repair and recombination proteins [BR:ko03400]
+K00776,Enzymes [BR:ko01000]
+K06313,NA
+K14787,Ribosome biogenesis [BR:ko03009]
+K08986,NA
+K08987,NA
+K08984,NA
+K08985,NA
+K08982,NA
+K02824,Transporters [BR:ko02000]
+K08981,NA
+K08988,NA
+K06314,Transcription factors [BR:ko03000]
+K06822,NA
+K11436,Enzymes [BR:ko01000]
+K11437,Enzymes [BR:ko01000]
+K06351,NA
+K06350,NA
+K06825,Cell adhesion molecules and their ligands [BR:ko04516]
+K10433,Cytoskeleton proteins [BR:ko04812]
+K10431,Cytoskeleton proteins [BR:ko04812]
+K10430,Cytoskeleton proteins [BR:ko04812]
+K06359,Enzymes [BR:ko01000]
+K10436,Chromosome [BR:ko03036]
+K10434,Cytoskeleton proteins [BR:ko04812]
+K10708,Enzymes [BR:ko01000]
+K11801,Ubiquitin system [BR:ko04121]
+K11499,Chromosome [BR:ko03036]
+K10748,DNA replication proteins [BR:ko03032]
+K08408,G protein-coupled receptors [BR:ko04030]
+K08172,Transporters [BR:ko02000]
+K15153,Transcription machinery [BR:ko03021]
+K11343,Chromosome [BR:ko03036]
+K05818,Transcription factors [BR:ko03000]
+K11341,Chromosome [BR:ko03036]
+K11346,Chromosome [BR:ko03036]
+K15155,Transcription machinery [BR:ko03021]
+K15154,Transcription machinery [BR:ko03021]
+K10696,Enzymes [BR:ko01000]
+K00179,Enzymes [BR:ko01000]
+K00862,Enzymes [BR:ko01000]
+K10693,Enzymes [BR:ko01000]
+K05937,NA
+K06921,NA
+K06721,Cellular antigens [BR:ko04090]
+K07176,NA
+K07177,NA
+K10325,Ubiquitin system [BR:ko04121]
+K07175,NA
+K07172,Prokaryotic defense system [BR:ko02048]
+K07170,NA
+K07171,Enzymes [BR:ko01000]
+K00375,Transcription factors [BR:ko03000]
+K10329,Ubiquitin system [BR:ko04121]
+K10328,Ubiquitin system [BR:ko04121]
+K09167,NA
+K01359,Enzymes [BR:ko01000]
+K09165,NA
+K09163,NA
+K09162,Enzymes [BR:ko01000]
+K09161,NA
+K09160,NA
+K01355,Enzymes [BR:ko01000]
+K01356,KEGG modules [BR:ko00002]
+K08576,Enzymes [BR:ko01000]
+K05615,Transporters [BR:ko02000]
+K14339,Enzymes [BR:ko01000]
+K03807,NA
+K14335,Enzymes [BR:ko01000]
+K10104,Cell adhesion molecules and their ligands [BR:ko04516]
+K14330,Enzymes [BR:ko01000]
+K15321,Polyketide biosynthesis proteins [BR:ko01008]
+K15550,Transporters [BR:ko02000]
+K12985,Enzymes [BR:ko01000]
+K15323,Transfer RNA biogenesis [BR:ko03016]
+K15559,Transcription machinery [BR:ko03021]
+K13103,Spliceosome [BR:ko03041]
+K00518,Enzymes [BR:ko01000]
+K12987,Enzymes [BR:ko01000]
+K04078,Chaperones and folding catalysts [BR:ko03110]
+K15081,DNA repair and recombination proteins [BR:ko03400]
+K05970,Enzymes [BR:ko01000]
+K15083,DNA repair and recombination proteins [BR:ko03400]
+K15082,DNA repair and recombination proteins [BR:ko03400]
+K15084,Transporters [BR:ko02000]
+K04070,Enzymes [BR:ko01000]
+K12299,Transporters [BR:ko02000]
+K03155,DNA repair and recombination proteins [BR:ko03400]
+K00996,Enzymes [BR:ko01000]
+K05589,Chromosome [BR:ko03036]
+K03622,NA
+K03623,NA
+K15333,Enzymes [BR:ko01000]
+K15332,Enzymes [BR:ko01000]
+K15331,Enzymes [BR:ko01000]
+K15337,Polyketide biosynthesis proteins [BR:ko01008]
+K15336,Enzymes [BR:ko01000]
+K15335,Enzymes [BR:ko01000]
+K15334,Enzymes [BR:ko01000]
+K05619,Enzymes [BR:ko01000]
+K15339,Enzymes [BR:ko01000]
+K15338,Enzymes [BR:ko01000]
+K03591,Chromosome [BR:ko03036]
+K05039,Transporters [BR:ko02000]
+K14591,NA
+K01002,Enzymes [BR:ko01000]
+K04525,NA
+K14848,Ribosome biogenesis [BR:ko03009]
+K14849,Protein phosphatases and associated proteins [BR:ko01009]
+K14847,Ribosome biogenesis [BR:ko03009]
+K14844,Messenger RNA biogenesis [BR:ko03019]
+K14845,Transcription machinery [BR:ko03021]
+K14842,Ribosome biogenesis [BR:ko03009]
+K14843,Ribosome biogenesis [BR:ko03009]
+K14841,Ribosome biogenesis [BR:ko03009]
+K10401,Cytoskeleton proteins [BR:ko04812]
+K09581,Enzymes [BR:ko01000]
+K09583,Enzymes [BR:ko01000]
+K10855,Enzymes [BR:ko01000]
+K14114,NA
+K14115,NA
+K14440,Enzymes [BR:ko01000]
+K15716,Enzymes [BR:ko01000]
+K14110,NA
+K14111,NA
+K14444,Transporters [BR:ko02000]
+K14445,Transporters [BR:ko02000]
+K08195,Transporters [BR:ko02000]
+K01567,Enzymes [BR:ko01000]
+K08197,Transporters [BR:ko02000]
+K08196,Transporters [BR:ko02000]
+K13641,Transcription factors [BR:ko03000]
+K13640,Transcription factors [BR:ko03000]
+K13643,Transcription factors [BR:ko03000]
+K13642,Transcription factors [BR:ko03000]
+K14684,Transporters [BR:ko02000]
+K14680,Enzymes [BR:ko01000]
+K15429,Enzymes [BR:ko01000]
+K01133,Enzymes [BR:ko01000]
+K15427,Enzymes [BR:ko01000]
+K08356,Enzymes [BR:ko01000]
+K08355,Enzymes [BR:ko01000]
+K15424,Protein phosphatases and associated proteins [BR:ko01009]
+K01138,Enzymes [BR:ko01000]
+K14689,Transporters [BR:ko02000]
+K15421,NA
+K02445,Transporters [BR:ko02000]
+K02444,Transcription factors [BR:ko03000]
+K10799,Enzymes [BR:ko01000]
+K02441,NA
+K02440,Transporters [BR:ko02000]
+K02443,Transcription factors [BR:ko03000]
+K02442,NA
+K02448,NA
+K03466,Chromosome [BR:ko03036]
+K08659,Enzymes [BR:ko01000]
+K02597,NA
+K02596,NA
+K13005,Enzymes [BR:ko01000]
+K13004,Enzymes [BR:ko01000]
+K02593,NA
+K13002,Enzymes [BR:ko01000]
+K13001,Enzymes [BR:ko01000]
+K02590,NA
+K03867,Enzymes [BR:ko01000]
+K11814,KEGG modules [BR:ko00002]
+K13009,Enzymes [BR:ko01000]
+K02598,Transporters [BR:ko02000]
+K14060,NA
+K14061,NA
+K14062,Transporters [BR:ko02000]
+K14063,Transcription factors [BR:ko03000]
+K14064,NA
+K14065,NA
+K02021,Transporters [BR:ko02000]
+K10819,NA
+K03516,Bacterial motility proteins [BR:ko02035]
+K05020,Transporters [BR:ko02000]
+K02029,KEGG modules [BR:ko00002]
+K02846,Enzymes [BR:ko01000]
+K08841,Enzymes [BR:ko01000]
+K11542,Protein phosphatases and associated proteins [BR:ko01009]
+K05026,Ion channels [BR:ko04040]
+K06954,NA
+K02035,KEGG modules [BR:ko00002]
+K07070,NA
+K02053,KEGG modules [BR:ko00002]
+K06039,NA
+K10362,Cytoskeleton proteins [BR:ko04812]
+K02205,Transporters [BR:ko02000]
+K02103,Transcription factors [BR:ko03000]
+K06033,Enzymes [BR:ko01000]
+K06958,Messenger RNA biogenesis [BR:ko03019]
+K09738,NA
+K07136,NA
+K09739,Enzymes [BR:ko01000]
+K06408,NA
+K09736,NA
+K12998,Enzymes [BR:ko01000]
+K12999,Enzymes [BR:ko01000]
+K13462,NA
+K12992,Enzymes [BR:ko01000]
+K12993,Enzymes [BR:ko01000]
+K12990,Enzymes [BR:ko01000]
+K12991,Enzymes [BR:ko01000]
+K12996,Enzymes [BR:ko01000]
+K12997,Enzymes [BR:ko01000]
+K12994,Enzymes [BR:ko01000]
+K12995,Enzymes [BR:ko01000]
+K02834,Ribosome biogenesis [BR:ko03009]
+K08979,NA
+K08978,Transporters [BR:ko02000]
+K03088,Transcription machinery [BR:ko03021]
+K03089,Transcription machinery [BR:ko03021]
+K03086,Transcription machinery [BR:ko03021]
+K08972,NA
+K08971,NA
+K08970,Transporters [BR:ko02000]
+K08977,NA
+K08976,NA
+K08975,NA
+K08974,NA
+K13869,Transporters [BR:ko02000]
+K13861,Transporters [BR:ko02000]
+K13865,Transporters [BR:ko02000]
+K13864,Transporters [BR:ko02000]
+K13866,Transporters [BR:ko02000]
+K09628,Enzymes [BR:ko01000]
+K03653,Enzymes [BR:ko01000]
+K05724,NA
+K09623,Enzymes [BR:ko01000]
+K03651,NA
+K09627,Enzymes [BR:ko01000]
+K12202,Secretion system [BR:ko02044]
+K03645,DNA replication proteins [BR:ko03032]
+K03646,Transporters [BR:ko02000]
+K03647,NA
+K03640,Transporters [BR:ko02000]
+K03641,Transporters [BR:ko02000]
+K03642,NA
+K03643,Transporters [BR:ko02000]
+K12209,Secretion system [BR:ko02044]
+K03656,Enzymes [BR:ko01000]
+K07457,NA
+K06693,Proteasome [BR:ko03051]
+K06694,Proteasome [BR:ko03051]
+K06695,Proteasome [BR:ko03051]
+K09127,Prokaryotic defense system [BR:ko02048]
+K03449,Transporters [BR:ko02000]
+K14643,Enzymes [BR:ko01000]
+K07317,Enzymes [BR:ko01000]
+K12428,Lipid biosynthesis proteins [BR:ko01004]
+K12429,Lipid biosynthesis proteins [BR:ko01004]
+K12422,Enzymes [BR:ko01000]
+K12423,Lipid biosynthesis proteins [BR:ko01004]
+K07181,NA
+K12421,Lipid biosynthesis proteins [BR:ko01004]
+K12426,Lipid biosynthesis proteins [BR:ko01004]
+K12427,Lipid biosynthesis proteins [BR:ko01004]
+K02682,Secretion system [BR:ko02044]
+K12425,Lipid biosynthesis proteins [BR:ko01004]
+K06214,Secretion system [BR:ko02044]
+K09935,NA
+K09936,Transporters [BR:ko02000]
+K09937,NA
+K07349,Secretion system [BR:ko02044]
+K07348,Secretion system [BR:ko02044]
+K09932,NA
+K06213,Transporters [BR:ko02000]
+K07344,Secretion system [BR:ko02044]
+K07346,Chaperones and folding catalysts [BR:ko03110]
+K07341,Prokaryotic defense system [BR:ko02048]
+K07340,NA
+K07343,NA
+K11647,Enzymes [BR:ko01000]
+K13656,Enzymes [BR:ko01000]
+K10386,Cytoskeleton proteins [BR:ko04812]
+K06580,Transporters [BR:ko02000]
+K11642,Enzymes [BR:ko01000]
+K10124,Transporters [BR:ko02000]
+K15166,Transcription machinery [BR:ko03021]
+K13654,Transcription factors [BR:ko03000]
+K11649,Transcription machinery [BR:ko03021]
+K11648,Protein phosphatases and associated proteins [BR:ko01009]
+K06968,Enzymes [BR:ko01000]
+K06969,Enzymes [BR:ko01000]
+K06962,NA
+K06963,Transfer RNA biogenesis [BR:ko03016]
+K06960,NA
+K06961,Ribosome biogenesis [BR:ko03009]
+K06966,NA
+K06967,Enzymes [BR:ko01000]
+K06964,NA
+K13653,Transcription factors [BR:ko03000]
+K12736,Enzymes [BR:ko01000]
+K12737,Enzymes [BR:ko01000]
+K12734,Enzymes [BR:ko01000]
+K12735,Enzymes [BR:ko01000]
+K00749,Enzymes [BR:ko01000]
+K00745,Enzymes [BR:ko01000]
+K14438,Enzymes [BR:ko01000]
+K15168,Transcription machinery [BR:ko03021]
+K14789,Ribosome biogenesis [BR:ko03009]
+K07507,Transporters [BR:ko02000]
+K08994,NA
+K08997,NA
+K07504,NA
+K07503,Enzymes [BR:ko01000]
+K07502,NA
+K08993,NA
+K08992,NA
+K05817,Transcription factors [BR:ko03000]
+K08999,NA
+K08998,NA
+K06360,Enzymes [BR:ko01000]
+K06361,Enzymes [BR:ko01000]
+K06362,Enzymes [BR:ko01000]
+K09803,NA
+K06364,Enzymes [BR:ko01000]
+K11426,Chromosome [BR:ko03036]
+K06366,Enzymes [BR:ko01000]
+K06367,Enzymes [BR:ko01000]
+K06368,Enzymes [BR:ko01000]
+K06369,Enzymes [BR:ko01000]
+K11744,NA
+K10770,Enzymes [BR:ko01000]
+K15436,Transfer RNA biogenesis [BR:ko03016]
+K10778,Enzymes [BR:ko01000]
+K10779,Enzymes [BR:ko01000]
+K15437,Transfer RNA biogenesis [BR:ko03016]
+K09377,Transcription factors [BR:ko03000]
+K14824,Ribosome biogenesis [BR:ko03009]
+K11815,KEGG modules [BR:ko00002]
+K07762,Enzymes [BR:ko01000]
+K07761,Enzymes [BR:ko01000]
+K05502,Enzymes [BR:ko01000]
+K07767,Enzymes [BR:ko01000]
+K07766,Enzymes [BR:ko01000]
+K05927,Enzymes [BR:ko01000]
+K05925,Enzymes [BR:ko01000]
+K05922,Enzymes [BR:ko01000]
+K07165,NA
+K00349,Enzymes [BR:ko01000]
+K07167,NA
+K07166,NA
+K10356,Protein phosphatases and associated proteins [BR:ko01009]
+K10357,Messenger RNA biogenesis [BR:ko03019]
+K07163,NA
+K10355,Cytoskeleton proteins [BR:ko04812]
+K10358,Cytoskeleton proteins [BR:ko04812]
+K10359,Cytoskeleton proteins [BR:ko04812]
+K00344,Enzymes [BR:ko01000]
+K07168,NA
+K00346,Enzymes [BR:ko01000]
+K00347,Enzymes [BR:ko01000]
+K09116,NA
+K09117,NA
+K03595,Ribosome biogenesis [BR:ko03009]
+K09118,NA
+K09119,Transfer RNA biogenesis [BR:ko03016]
+K12431,Lipid biosynthesis proteins [BR:ko01004]
+K05820,Transporters [BR:ko02000]
+K12430,Lipid biosynthesis proteins [BR:ko01004]
+K03459,Transporters [BR:ko02000]
+K10171,Cellular antigens [BR:ko04090]
+K03458,NA
+K15522,Enzymes [BR:ko01000]
+K15523,Enzymes [BR:ko01000]
+K15520,Enzymes [BR:ko01000]
+K15521,Enzymes [BR:ko01000]
+K00520,Enzymes [BR:ko01000]
+K00521,Enzymes [BR:ko01000]
+K15524,Enzymes [BR:ko01000]
+K15525,Enzymes [BR:ko01000]
+K15529,Enzymes [BR:ko01000]
+K00528,Enzymes [BR:ko01000]
+K01436,Enzymes [BR:ko01000]
+K04069,Enzymes [BR:ko01000]
+K04068,Enzymes [BR:ko01000]
+K11136,Enzymes [BR:ko01000]
+K04065,NA
+K05389,Ion channels [BR:ko04040]
+K04061,Secretion system [BR:ko02044]
+K08296,Enzymes [BR:ko01000]
+K04063,NA
+K02027,KEGG modules [BR:ko00002]
+K09923,NA
+K09922,NA
+K06201,NA
+K09223,Transcription factors [BR:ko03000]
+K09920,NA
+K14213,Enzymes [BR:ko01000]
+K03453,NA
+K09927,NA
+K09022,Enzymes [BR:ko01000]
+K09925,NA
+K08219,Transporters [BR:ko02000]
+K03152,Peptidases [BR:ko01002]
+K08217,Transporters [BR:ko02000]
+K08214,Transporters [BR:ko02000]
+K06204,Transcription factors [BR:ko03000]
+K07459,NA
+K08211,Transporters [BR:ko02000]
+K01347,Enzymes [BR:ko01000]
+K14786,Ribosome biogenesis [BR:ko03009]
+K15183,Protein phosphatases and associated proteins [BR:ko01009]
+K01342,Enzymes [BR:ko01000]
+K01341,Enzymes [BR:ko01000]
+K15632,Enzymes [BR:ko01000]
+K15631,Enzymes [BR:ko01000]
+K01268,Enzymes [BR:ko01000]
+K04844,Enzymes [BR:ko01000]
+K14859,Ribosome biogenesis [BR:ko03009]
+K14858,Ribosome biogenesis [BR:ko03009]
+K14589,Enzymes [BR:ko01000]
+K14588,NA
+K14855,Ribosome biogenesis [BR:ko03009]
+K14854,Ribosome biogenesis [BR:ko03009]
+K02688,Transcription factors [BR:ko03000]
+K14856,Ribosome biogenesis [BR:ko03009]
+K14851,Ribosome biogenesis [BR:ko03009]
+K14850,Enzymes [BR:ko01000]
+K14853,Ribosome biogenesis [BR:ko03009]
+K14781,Enzymes [BR:ko01000]
+K12068,Secretion system [BR:ko02044]
+K11924,Transcription factors [BR:ko03000]
+K02024,Transporters [BR:ko02000]
+K14103,NA
+K14102,NA
+K14101,NA
+K14100,NA
+K14107,NA
+K14106,NA
+K14105,NA
+K14104,NA
+K13670,Enzymes [BR:ko01000]
+K13671,Enzymes [BR:ko01000]
+K14109,NA
+K14108,NA
+K11739,NA
+K04335,Secretion system [BR:ko02044]
+K04334,Secretion system [BR:ko02044]
+K04337,Secretion system [BR:ko02044]
+K04336,Secretion system [BR:ko02044]
+K14697,Transporters [BR:ko02000]
+K14696,Transporters [BR:ko02000]
+K04333,Transcription factors [BR:ko03000]
+K01124,Enzymes [BR:ko01000]
+K01829,Enzymes [BR:ko01000]
+K15453,Enzymes [BR:ko01000]
+K08320,Enzymes [BR:ko01000]
+K01128,Enzymes [BR:ko01000]
+K08326,Enzymes [BR:ko01000]
+K04338,Secretion system [BR:ko02044]
+K15454,Enzymes [BR:ko01000]
+K15455,Transfer RNA biogenesis [BR:ko03016]
+K02470,Enzymes [BR:ko01000]
+K05311,Transcription factors [BR:ko03000]
+K05312,Ion channels [BR:ko04040]
+K02475,Two-component system [BR:ko02022]
+K02476,Enzymes [BR:ko01000]
+K02477,Two-component system [BR:ko02022]
+K02478,Enzymes [BR:ko01000]
+K02479,Two-component system [BR:ko02022]
+K12289,Secretion system [BR:ko02044]
+K01265,Enzymes [BR:ko01000]
+K11733,Transporters [BR:ko02000]
+K13580,NA
+K11732,Transporters [BR:ko02000]
+K13155,Spliceosome [BR:ko03041]
+K02494,NA
+K06903,NA
+K13154,Spliceosome [BR:ko03041]
+K09246,Transcription factors [BR:ko03000]
+K09247,Transcription factors [BR:ko03000]
+K09244,Transcription factors [BR:ko03000]
+K09242,Transcription factors [BR:ko03000]
+K09240,Transcription factors [BR:ko03000]
+K13075,Enzymes [BR:ko01000]
+K11737,Transporters [BR:ko02000]
+K09248,Transcription factors [BR:ko03000]
+K03874,Enzymes [BR:ko01000]
+K02052,KEGG modules [BR:ko00002]
+K05557,Transporters [BR:ko02000]
+K02050,KEGG modules [BR:ko00002]
+K02051,KEGG modules [BR:ko00002]
+K02056,KEGG modules [BR:ko00002]
+K11735,Transporters [BR:ko02000]
+K14079,Enzymes [BR:ko01000]
+K02055,KEGG modules [BR:ko00002]
+K03503,Enzymes [BR:ko01000]
+K03502,DNA repair and recombination proteins [BR:ko03400]
+K03501,Enzymes [BR:ko01000]
+K03500,Enzymes [BR:ko01000]
+K03507,DNA replication proteins [BR:ko03032]
+K12700,Enzymes [BR:ko01000]
+K05559,Transporters [BR:ko02000]
+K06870,NA
+K03893,Transporters [BR:ko02000]
+K06871,NA
+K09509,Chaperones and folding catalysts [BR:ko03110]
+K08220,Transporters [BR:ko02000]
+K11928,Transporters [BR:ko02000]
+K02278,Enzymes [BR:ko01000]
+K02279,Secretion system [BR:ko02044]
+K11276,Chromosome [BR:ko03036]
+K06023,Enzymes [BR:ko01000]
+K06022,Enzymes [BR:ko01000]
+K06021,Enzymes [BR:ko01000]
+K06020,Enzymes [BR:ko01000]
+K09747,NA
+K09746,NA
+K06024,Chromosome [BR:ko03036]
+K14055,NA
+K09155,NA
+K14054,NA
+K06877,NA
+K13292,Enzymes [BR:ko01000]
+K03477,Transcription factors [BR:ko03000]
+K11562,Chromosome [BR:ko03036]
+K14056,Transcription factors [BR:ko03000]
+K15136,Transcription machinery [BR:ko03021]
+K13108,Spliceosome [BR:ko03041]
+K07977,GTP-binding proteins [BR:ko04031]
+K13106,Spliceosome [BR:ko03041]
+K13107,Spliceosome [BR:ko03041]
+K12983,Enzymes [BR:ko01000]
+K12982,Enzymes [BR:ko01000]
+K13102,Spliceosome [BR:ko03041]
+K11560,Chromosome [BR:ko03036]
+K13100,Spliceosome [BR:ko03041]
+K13101,Spliceosome [BR:ko03041]
+K13854,Transporters [BR:ko02000]
+K13856,Transporters [BR:ko02000]
+K11293,Chromosome [BR:ko03036]
+K12508,Enzymes [BR:ko01000]
+K03095,NA
+K06975,NA
+K12507,Enzymes [BR:ko01000]
+K03091,Transcription machinery [BR:ko03021]
+K12500,Enzymes [BR:ko01000]
+K03093,Transcription machinery [BR:ko03021]
+K06974,Enzymes [BR:ko01000]
+K02852,Enzymes [BR:ko01000]
+K06115,Cytoskeleton proteins [BR:ko04812]
+K09634,Enzymes [BR:ko01000]
+K06113,Enzymes [BR:ko01000]
+K06977,NA
+K03528,Chromosome [BR:ko03036]
+K03256,Transfer RNA biogenesis [BR:ko03016]
+K03255,Translation factors [BR:ko03012]
+K06976,NA
+K13119,Spliceosome [BR:ko03041]
+K02851,Enzymes [BR:ko01000]
+K02856,Transporters [BR:ko02000]
+K11275,Chromosome [BR:ko03036]
+K14058,Transfer RNA biogenesis [BR:ko03016]
+K12211,Secretion system [BR:ko02044]
+K12213,Secretion system [BR:ko02044]
+K12212,Secretion system [BR:ko02044]
+K09950,NA
+K12214,Secretion system [BR:ko02044]
+K12217,Secretion system [BR:ko02044]
+K12216,Secretion system [BR:ko02044]
+K12218,Secretion system [BR:ko02044]
+K02587,NA
+K05864,Enzymes [BR:ko01000]
+K09729,NA
+K08696,NA
+K08697,NA
+K11748,Transporters [BR:ko02000]
+K11746,Transporters [BR:ko02000]
+K11747,Transporters [BR:ko02000]
+K08698,NA
+K11745,Transporters [BR:ko02000]
+K11742,KEGG modules [BR:ko00002]
+K11743,KEGG modules [BR:ko00002]
+K11740,NA
+K11741,Transporters [BR:ko02000]
+K06909,NA
+K08838,Enzymes [BR:ko01000]
+K13926,NA
+K15837,Chromosome [BR:ko03036]
+K13928,Transcription factors [BR:ko03000]
+K13929,Enzymes [BR:ko01000]
+K12433,Lipid biosynthesis proteins [BR:ko01004]
+K12432,Lipid biosynthesis proteins [BR:ko01004]
+K12435,Lipid biosynthesis proteins [BR:ko01004]
+K12434,Lipid biosynthesis proteins [BR:ko01004]
+K12437,Lipid biosynthesis proteins [BR:ko01004]
+K12436,Lipid biosynthesis proteins [BR:ko01004]
+K06203,NA
+K06202,NA
+K09921,NA
+K06200,NA
+K06207,NA
+K06206,NA
+K06205,NA
+K09924,NA
+K10973,Transcription factors [BR:ko03000]
+K09928,NA
+K15132,Transcription machinery [BR:ko03021]
+K03671,Chaperones and folding catalysts [BR:ko03110]
+K06595,Bacterial motility proteins [BR:ko02035]
+K03670,NA
+K06599,Transcription factors [BR:ko03000]
+K06951,NA
+K14838,Ribosome biogenesis [BR:ko03009]
+K06979,KEGG modules [BR:ko00002]
+K06978,NA
+K11568,Chromosome [BR:ko03036]
+K03672,Enzymes [BR:ko01000]
+K07978,Transcription factors [BR:ko03000]
+K07979,Transcription factors [BR:ko03000]
+K07976,GTP-binding proteins [BR:ko04031]
+K11291,Chromosome [BR:ko03036]
+K11292,Transcription machinery [BR:ko03021]
+K07975,GTP-binding proteins [BR:ko04031]
+K11566,Chromosome [BR:ko03036]
+K11295,Chromosome [BR:ko03036]
+K11296,Chromosome [BR:ko03036]
+K03674,Chaperones and folding catalysts [BR:ko03110]
+K07082,NA
+K07083,NA
+K07080,NA
+K07081,NA
+K07087,NA
+K07084,Transporters [BR:ko02000]
+K07085,NA
+K00752,Enzymes [BR:ko01000]
+K07088,NA
+K00750,Enzymes [BR:ko01000]
+K07577,NA
+K10907,Enzymes [BR:ko01000]
+K10906,Enzymes [BR:ko01000]
+K07570,NA
+K07571,NA
+K07576,NA
+K10902,Enzymes [BR:ko01000]
+K07574,Ribosome biogenesis [BR:ko03009]
+K10900,Enzymes [BR:ko01000]
+K06402,Enzymes [BR:ko01000]
+K09241,Transcription factors [BR:ko03000]
+K07575,NA
+K10908,Enzymes [BR:ko01000]
+K07473,Prokaryotic defense system [BR:ko02048]
+K11189,Transporters [BR:ko02000]
+K09819,KEGG modules [BR:ko00002]
+K09818,KEGG modules [BR:ko00002]
+K06377,NA
+K06376,NA
+K06374,NA
+K06373,NA
+K07471,Transcription factors [BR:ko03000]
+K06371,NA
+K06370,NA
+K11364,Transcription machinery [BR:ko03021]
+K11365,Transcription machinery [BR:ko03021]
+K11366,Enzymes [BR:ko01000]
+K11367,Enzymes [BR:ko01000]
+K11360,Transcription machinery [BR:ko03021]
+K11361,Transcription machinery [BR:ko03021]
+K11362,Transcription machinery [BR:ko03021]
+K02217,Enzymes [BR:ko01000]
+K10763,DNA replication proteins [BR:ko03032]
+K11369,Chromosome [BR:ko03036]
+K10761,Enzymes [BR:ko01000]
+K15833,NA
+K11166,Enzymes [BR:ko01000]
+K11164,Enzymes [BR:ko01000]
+K11165,Enzymes [BR:ko01000]
+K11162,Enzymes [BR:ko01000]
+K08607,Enzymes [BR:ko01000]
+K11161,Enzymes [BR:ko01000]
+K02669,Secretion system [BR:ko02044]
+K07474,NA
+K11168,Enzymes [BR:ko01000]
+K11169,Enzymes [BR:ko01000]
+K11849,Enzymes [BR:ko01000]
+K00354,Enzymes [BR:ko01000]
+K00351,Enzymes [BR:ko01000]
+K00350,Enzymes [BR:ko01000]
+K05952,NA
+K05953,Enzymes [BR:ko01000]
+K05956,Enzymes [BR:ko01000]
+K07791,Transporters [BR:ko02000]
+K07150,NA
+K10340,Ubiquitin system [BR:ko04121]
+K07152,Mitochondrial biogenesis [BR:ko03029]
+K07153,NA
+K07154,Enzymes [BR:ko01000]
+K07155,Enzymes [BR:ko01000]
+K07156,Transporters [BR:ko02000]
+K01166,Enzymes [BR:ko01000]
+K07158,NA
+K07159,NA
+K00683,Enzymes [BR:ko01000]
+K07402,NA
+K07403,NA
+K07400,NA
+K07401,NA
+K10231,Enzymes [BR:ko01000]
+K09102,Transcription factors [BR:ko03000]
+K09104,Transcription factors [BR:ko03000]
+K01163,NA
+K06378,NA
+K06875,NA
+K15469,Polyketide biosynthesis proteins [BR:ko01008]
+K05833,KEGG modules [BR:ko00002]
+K05832,KEGG modules [BR:ko00002]
+K05835,Transporters [BR:ko02000]
+K03189,NA
+K05837,Chromosome [BR:ko03036]
+K05836,Transcription factors [BR:ko03000]
+K05839,Prokaryotic defense system [BR:ko02048]
+K05838,Chaperones and folding catalysts [BR:ko03110]
+K02662,Secretion system [BR:ko02044]
+K15531,Enzymes [BR:ko01000]
+K15530,Enzymes [BR:ko01000]
+K15533,Enzymes [BR:ko01000]
+K15532,Enzymes [BR:ko01000]
+K15535,Enzymes [BR:ko01000]
+K15534,Enzymes [BR:ko01000]
+K15537,Enzymes [BR:ko01000]
+K15536,NA
+K15539,NA
+K15538,Enzymes [BR:ko01000]
+K01802,Enzymes [BR:ko01000]
+K03188,NA
+K10512,Ubiquitin system [BR:ko04121]
+K11846,Enzymes [BR:ko01000]
+K10523,KEGG modules [BR:ko00002]
+K11290,Chromosome [BR:ko03036]
+K14096,NA
+K03168,Enzymes [BR:ko01000]
+K14262,Enzymes [BR:ko01000]
+K14261,Enzymes [BR:ko01000]
+K09549,Chaperones and folding catalysts [BR:ko03110]
+K14098,NA
+K04591,G protein-coupled receptors [BR:ko04030]
+K12988,Enzymes [BR:ko01000]
+K06878,NA
+K08829,Enzymes [BR:ko01000]
+K05834,Transporters [BR:ko02000]
+K15629,Enzymes [BR:ko01000]
+K01337,Enzymes [BR:ko01000]
+K15198,Transcription machinery [BR:ko03021]
+K15197,Transcription machinery [BR:ko03021]
+K15196,Transcription machinery [BR:ko03021]
+K15193,Transcription machinery [BR:ko03021]
+K15192,Enzymes [BR:ko01000]
+K15191,Transcription machinery [BR:ko03021]
+K15190,Enzymes [BR:ko01000]
+K15463,Enzymes [BR:ko01000]
+K02681,Secretion system [BR:ko02044]
+K02680,Secretion system [BR:ko02044]
+K02687,Enzymes [BR:ko01000]
+K14860,Ribosome biogenesis [BR:ko03009]
+K14861,Ribosome biogenesis [BR:ko03009]
+K14862,Ribosome biogenesis [BR:ko03009]
+K14863,Ribosome biogenesis [BR:ko03009]
+K14864,Enzymes [BR:ko01000]
+K01795,Enzymes [BR:ko01000]
+K10762,NA
+K12303,Transporters [BR:ko02000]
+K13665,NA
+K13664,Enzymes [BR:ko01000]
+K13663,Enzymes [BR:ko01000]
+K13661,NA
+K13660,Enzymes [BR:ko01000]
+K00829,Enzymes [BR:ko01000]
+K13669,Enzymes [BR:ko01000]
+K13668,Enzymes [BR:ko01000]
+K05127,Enzymes [BR:ko01000]
+K12300,Transporters [BR:ko02000]
+K05120,Enzymes [BR:ko01000]
+K09327,Transcription factors [BR:ko03000]
+K12306,Transporters [BR:ko02000]
+K15449,Enzymes [BR:ko01000]
+K05790,NA
+K14668,Enzymes [BR:ko01000]
+K15441,Enzymes [BR:ko01000]
+K15440,Enzymes [BR:ko01000]
+K15443,Transfer RNA biogenesis [BR:ko03016]
+K15442,Transfer RNA biogenesis [BR:ko03016]
+K15445,Enzymes [BR:ko01000]
+K15444,Enzymes [BR:ko01000]
+K15447,Enzymes [BR:ko01000]
+K15446,Enzymes [BR:ko01000]
+K02469,Enzymes [BR:ko01000]
+K02468,Transcription factors [BR:ko03000]
+K02467,Enzymes [BR:ko01000]
+K02466,NA
+K05303,Enzymes [BR:ko01000]
+K01669,Enzymes [BR:ko01000]
+K01462,Enzymes [BR:ko01000]
+K01461,Enzymes [BR:ko01000]
+K12442,Lipid biosynthesis proteins [BR:ko01004]
+K09255,KEGG modules [BR:ko00002]
+K15265,Enzymes [BR:ko01000]
+K09257,Transcription factors [BR:ko03000]
+K02860,Ribosome biogenesis [BR:ko03009]
+K09250,Transcription factors [BR:ko03000]
+K15264,Enzymes [BR:ko01000]
+K13069,Enzymes [BR:ko01000]
+K15030,Translation factors [BR:ko03012]
+K02573,NA
+K15267,Ribosome biogenesis [BR:ko03009]
+K15031,Translation factors [BR:ko03012]
+K05545,Enzymes [BR:ko01000]
+K05012,Ion channels [BR:ko04040]
+K02043,Transcription factors [BR:ko03000]
+K05541,Enzymes [BR:ko01000]
+K05016,Protein phosphatases and associated proteins [BR:ko01009]
+K05543,Enzymes [BR:ko01000]
+K05542,Enzymes [BR:ko01000]
+K02049,KEGG modules [BR:ko00002]
+K15261,Enzymes [BR:ko01000]
+K05548,Transporters [BR:ko02000]
+K15260,Enzymes [BR:ko01000]
+K15263,Ribosome biogenesis [BR:ko03009]
+K03318,Transporters [BR:ko02000]
+K03319,NA
+K03316,NA
+K03317,NA
+K03314,Transporters [BR:ko02000]
+K03315,Transporters [BR:ko02000]
+K03312,Transporters [BR:ko02000]
+K03313,Transporters [BR:ko02000]
+K03310,NA
+K03311,NA
+K14640,Transporters [BR:ko02000]
+K05789,Lipopolysaccharide biosynthesis proteins [BR:ko01005]
+K03793,Enzymes [BR:ko01000]
+K03790,Enzymes [BR:ko01000]
+K05788,DNA replication proteins [BR:ko03032]
+K03796,NA
+K03797,Enzymes [BR:ko01000]
+K15269,Transporters [BR:ko02000]
+K03798,KEGG modules [BR:ko00002]
+K03799,KEGG modules [BR:ko00002]
+K13281,Enzymes [BR:ko01000]
+K13283,Transporters [BR:ko02000]
+K13282,Enzymes [BR:ko01000]
+K14716,Transporters [BR:ko02000]
+K14717,Transporters [BR:ko02000]
+K14715,Transporters [BR:ko02000]
+K14712,Transporters [BR:ko02000]
+K14713,Transporters [BR:ko02000]
+K14711,Transporters [BR:ko02000]
+K13115,Spliceosome [BR:ko03041]
+K13117,KEGG modules [BR:ko00002]
+K13116,Enzymes [BR:ko01000]
+K13111,Spliceosome [BR:ko03041]
+K13110,Spliceosome [BR:ko03041]
+K14718,Transporters [BR:ko02000]
+K14719,Transporters [BR:ko02000]
+K12538,KEGG modules [BR:ko00002]
+K12534,KEGG modules [BR:ko00002]
+K12535,KEGG modules [BR:ko00002]
+K08572,Enzymes [BR:ko01000]
+K12537,KEGG modules [BR:ko00002]
+K02315,DNA replication proteins [BR:ko03032]
+K09640,Enzymes [BR:ko01000]
+K09646,Enzymes [BR:ko01000]
+K12283,Secretion system [BR:ko02044]
+K06168,Enzymes [BR:ko01000]
+K06169,Enzymes [BR:ko01000]
+K03170,Enzymes [BR:ko01000]
+K09488,Chaperones and folding catalysts [BR:ko03110]
+K03177,Enzymes [BR:ko01000]
+K10342,Ubiquitin system [BR:ko04121]
+K12228,Secretion system [BR:ko02044]
+K12284,Secretion system [BR:ko02044]
+K13097,Enzymes [BR:ko01000]
+K12226,Secretion system [BR:ko02044]
+K12285,Secretion system [BR:ko02044]
+K06363,Enzymes [BR:ko01000]
+K12152,Enzymes [BR:ko01000]
+K11758,Transcription machinery [BR:ko03021]
+K12151,Prokaryotic defense system [BR:ko02048]
+K11757,Transcription machinery [BR:ko03021]
+K11756,Transcription machinery [BR:ko03021]
+K11750,Enzymes [BR:ko01000]
+K14666,KEGG modules [BR:ko00002]
+K10348,Ubiquitin system [BR:ko04121]
+K13936,Transporters [BR:ko02000]
+K13935,Enzymes [BR:ko01000]
+K13934,Enzymes [BR:ko01000]
+K13933,Enzymes [BR:ko01000]
+K13932,Enzymes [BR:ko01000]
+K13931,NA
+K13930,Enzymes [BR:ko01000]
+K08828,Enzymes [BR:ko01000]
+K06768,Cell adhesion molecules and their ligands [BR:ko04516]
+K06764,Cell adhesion molecules and their ligands [BR:ko04516]
+K00685,Enzymes [BR:ko01000]
+K05886,Enzymes [BR:ko01000]
+K06767,Cell adhesion molecules and their ligands [BR:ko04516]
+K06761,Cell adhesion molecules and their ligands [BR:ko04516]
+K06762,Cell adhesion molecules and their ligands [BR:ko04516]
+K00684,Enzymes [BR:ko01000]
+K11993,Enzymes [BR:ko01000]
+K09791,NA
+K09792,NA
+K09793,NA
+K11997,Ubiquitin system [BR:ko04121]
+K09795,NA
+K11995,Enzymes [BR:ko01000]
+K11994,Enzymes [BR:ko01000]
+K12080,Secretion system [BR:ko02044]
+K11628,Enzymes [BR:ko01000]
+K00686,Enzymes [BR:ko01000]
+K06561,Cellular antigens [BR:ko04090]
+K11578,Chromosome [BR:ko03036]
+K06784,Cell adhesion molecules and their ligands [BR:ko04516]
+K11573,Chromosome [BR:ko03036]
+K11575,Chromosome [BR:ko03036]
+K11574,Chromosome [BR:ko03036]
+K09610,Enzymes [BR:ko01000]
+K07090,NA
+K07093,NA
+K07092,NA
+K07095,NA
+K07094,Enzymes [BR:ko01000]
+K07097,NA
+K07096,NA
+K07099,NA
+K07098,NA
+K07561,Enzymes [BR:ko01000]
+K07560,Enzymes [BR:ko01000]
+K07565,Ribosome biogenesis [BR:ko03009]
+K04940,Enzymes [BR:ko01000]
+K07566,Enzymes [BR:ko01000]
+K07569,Ribosome biogenesis [BR:ko03009]
+K07568,Enzymes [BR:ko01000]
+K06308,NA
+K06309,NA
+K09862,NA
+K06300,NA
+K06301,NA
+K06306,NA
+K06307,NA
+K06304,NA
+K06305,NA
+K11373,Transfer RNA biogenesis [BR:ko03016]
+K11372,Chromosome [BR:ko03036]
+K00916,Enzymes [BR:ko01000]
+K15205,Transcription machinery [BR:ko03021]
+K11563,Chromosome [BR:ko03036]
+K08165,Transporters [BR:ko02000]
+K10710,Enzymes [BR:ko01000]
+K10711,Transcription factors [BR:ko03000]
+K10716,Transporters [BR:ko02000]
+K11170,Enzymes [BR:ko01000]
+K11173,Enzymes [BR:ko01000]
+K07890,Exosome [BR:ko04147]
+K10481,Ubiquitin system [BR:ko04121]
+K15782,Transcription factors [BR:ko03000]
+K01926,Transcription factors [BR:ko03000]
+K09373,Transcription factors [BR:ko03000]
+K00327,Enzymes [BR:ko01000]
+K15160,Transcription machinery [BR:ko03021]
+K05946,Enzymes [BR:ko01000]
+K06944,NA
+K06417,NA
+K06946,NA
+K06415,NA
+K06940,NA
+K06941,Enzymes [BR:ko01000]
+K06942,Ribosome biogenesis [BR:ko03009]
+K06411,NA
+K07147,Enzymes [BR:ko01000]
+K07146,NA
+K07145,Enzymes [BR:ko01000]
+K10377,Cytoskeleton proteins [BR:ko04812]
+K06948,Ribosome biogenesis [BR:ko03009]
+K06949,Enzymes [BR:ko01000]
+K10372,Cytoskeleton proteins [BR:ko04812]
+K06419,NA
+K10626,Enzymes [BR:ko01000]
+K10627,Enzymes [BR:ko01000]
+K11561,Chromosome [BR:ko03036]
+K10625,Enzymes [BR:ko01000]
+K09138,NA
+K09139,NA
+K09134,Enzymes [BR:ko01000]
+K13047,Enzymes [BR:ko01000]
+K09136,Ribosome biogenesis [BR:ko03009]
+K09137,NA
+K09131,NA
+K09132,NA
+K09133,NA
+K10397,Cytoskeleton proteins [BR:ko04812]
+K10394,Cytoskeleton proteins [BR:ko04812]
+K10395,Cytoskeleton proteins [BR:ko04812]
+K05808,Ribosome biogenesis [BR:ko03009]
+K05809,Ribosome biogenesis [BR:ko03009]
+K01811,Enzymes [BR:ko01000]
+K08518,SNAREs [BR:ko04131]
+K05804,KEGG modules [BR:ko00002]
+K05805,NA
+K05807,Transporters [BR:ko02000]
+K05800,Transcription factors [BR:ko03000]
+K05801,Chaperones and folding catalysts [BR:ko03110]
+K05802,Transporters [BR:ko02000]
+K05803,NA
+K04047,Chromosome [BR:ko03036]
+K04046,Chaperones and folding catalysts [BR:ko03110]
+K04045,Chaperones and folding catalysts [BR:ko03110]
+K04044,Chaperones and folding catalysts [BR:ko03110]
+K15508,Enzymes [BR:ko01000]
+K15509,Enzymes [BR:ko01000]
+K15504,Protein phosphatases and associated proteins [BR:ko01009]
+K15505,Enzymes [BR:ko01000]
+K15507,Enzymes [BR:ko01000]
+K02069,KEGG modules [BR:ko00002]
+K15502,Protein phosphatases and associated proteins [BR:ko01009]
+K15503,Protein phosphatases and associated proteins [BR:ko01009]
+K00782,NA
+K00783,Enzymes [BR:ko01000]
+K00785,Enzymes [BR:ko01000]
+K00786,Enzymes [BR:ko01000]
+K00533,Enzymes [BR:ko01000]
+K01258,Enzymes [BR:ko01000]
+K11432,Chromosome [BR:ko03036]
+K00532,Enzymes [BR:ko01000]
+K05568,Transporters [BR:ko02000]
+K01250,Enzymes [BR:ko01000]
+K14271,Enzymes [BR:ko01000]
+K09009,NA
+K09000,Prokaryotic defense system [BR:ko02048]
+K09001,Enzymes [BR:ko01000]
+K09002,Prokaryotic defense system [BR:ko02048]
+K09003,NA
+K09004,NA
+K09005,NA
+K03169,Enzymes [BR:ko01000]
+K05245,Transporters [BR:ko02000]
+K14809,Enzymes [BR:ko01000]
+K05563,Transporters [BR:ko02000]
+K00534,Enzymes [BR:ko01000]
+K08234,NA
+K08235,Enzymes [BR:ko01000]
+K08237,Enzymes [BR:ko01000]
+K08823,Enzymes [BR:ko01000]
+K05561,Transporters [BR:ko02000]
+K00256,Enzymes [BR:ko01000]
+K02679,Secretion system [BR:ko02044]
+K02674,Secretion system [BR:ko02044]
+K02672,Secretion system [BR:ko02044]
+K02673,Secretion system [BR:ko02044]
+K02670,Secretion system [BR:ko02044]
+K02671,Secretion system [BR:ko02044]
+K13612,Lipid biosynthesis proteins [BR:ko01004]
+K13613,Lipid biosynthesis proteins [BR:ko01004]
+K13611,Lipid biosynthesis proteins [BR:ko01004]
+K13616,Enzymes [BR:ko01000]
+K09311,Transcription factors [BR:ko03000]
+K13614,Lipid biosynthesis proteins [BR:ko01004]
+K09313,Transcription factors [BR:ko03000]
+K02531,Transcription factors [BR:ko03000]
+K02530,Transcription factors [BR:ko03000]
+K08304,NA
+K08305,NA
+K08306,NA
+K08307,NA
+K08301,Enzymes [BR:ko01000]
+K02532,Transporters [BR:ko02000]
+K08308,NA
+K08309,Enzymes [BR:ko01000]
+K15276,Transporters [BR:ko02000]
+K05795,NA
+K05796,NA
+K15275,Transporters [BR:ko02000]
+K15272,Transporters [BR:ko02000]
+K05791,NA
+K15270,Transporters [BR:ko02000]
+K15271,Enzymes [BR:ko01000]
+K15206,Transcription machinery [BR:ko03021]
+K05798,Transcription factors [BR:ko03000]
+K14670,Polyketide biosynthesis proteins [BR:ko01008]
+K15278,Transporters [BR:ko02000]
+K15279,Transporters [BR:ko02000]
+K01671,Enzymes [BR:ko01000]
+K05372,Transcription factors [BR:ko03000]
+K05373,Transporters [BR:ko02000]
+K11063,Bacterial toxins [BR:ko02042]
+K04908,Ion channels [BR:ko04040]
+K05374,Polyketide biosynthesis proteins [BR:ko01008]
+K02415,Bacterial motility proteins [BR:ko02035]
+K09263,Transcription factors [BR:ko03000]
+K13058,Enzymes [BR:ko01000]
+K13059,Enzymes [BR:ko01000]
+K13726,Enzymes [BR:ko01000]
+K13727,Enzymes [BR:ko01000]
+K13724,Enzymes [BR:ko01000]
+K13050,Enzymes [BR:ko01000]
+K13051,Enzymes [BR:ko01000]
+K13052,Chromosome [BR:ko03036]
+K13053,Chromosome [BR:ko03036]
+K05570,Transporters [BR:ko02000]
+K07356,Bacterial motility proteins [BR:ko02035]
+K01616,Enzymes [BR:ko01000]
+K02078,NA
+K07357,NA
+K02074,KEGG modules [BR:ko00002]
+K02075,KEGG modules [BR:ko00002]
+K02076,Transcription factors [BR:ko03000]
+K02077,KEGG modules [BR:ko00002]
+K02526,Transporters [BR:ko02000]
+K02255,NA
+K07355,Bacterial motility proteins [BR:ko02035]
+K02250,Secretion system [BR:ko02044]
+K02251,Secretion system [BR:ko02044]
+K02520,Translation factors [BR:ko03012]
+K02521,Transcription factors [BR:ko03000]
+K03305,NA
+K03304,Transporters [BR:ko02000]
+K03307,NA
+K14691,Transporters [BR:ko02000]
+K03300,NA
+K02528,Enzymes [BR:ko01000]
+K02529,Transcription factors [BR:ko03000]
+K13672,Enzymes [BR:ko01000]
+K02099,Transcription factors [BR:ko03000]
+K12053,Secretion system [BR:ko02044]
+K03789,Enzymes [BR:ko01000]
+K08833,Enzymes [BR:ko01000]
+K11713,Enzymes [BR:ko01000]
+K14705,Transporters [BR:ko02000]
+K14707,Transporters [BR:ko02000]
+K14701,Transporters [BR:ko02000]
+K14700,Transporters [BR:ko02000]
+K14703,Transporters [BR:ko02000]
+K13120,Spliceosome [BR:ko03041]
+K06831,Exosome [BR:ko04147]
+K13122,Spliceosome [BR:ko03041]
+K02281,Secretion system [BR:ko02044]
+K13124,Spliceosome [BR:ko03041]
+K13125,Spliceosome [BR:ko03041]
+K13127,Spliceosome [BR:ko03041]
+K01245,Enzymes [BR:ko01000]
+K03835,Transporters [BR:ko02000]
+K09651,Enzymes [BR:ko01000]
+K06221,Enzymes [BR:ko01000]
+K05996,Enzymes [BR:ko01000]
+K03834,Transporters [BR:ko02000]
+K06175,Enzymes [BR:ko01000]
+K06174,Ribosome biogenesis [BR:ko03009]
+K06177,Enzymes [BR:ko01000]
+K06189,Transporters [BR:ko02000]
+K06179,Enzymes [BR:ko01000]
+K06178,Enzymes [BR:ko01000]
+K03232,Translation factors [BR:ko03012]
+K03235,Translation factors [BR:ko03012]
+K03832,Transporters [BR:ko02000]
+K09493,Chaperones and folding catalysts [BR:ko03110]
+K09491,Chaperones and folding catalysts [BR:ko03110]
+K12058,Secretion system [BR:ko02044]
+K09497,Chaperones and folding catalysts [BR:ko03110]
+K09496,Chaperones and folding catalysts [BR:ko03110]
+K09495,Chaperones and folding catalysts [BR:ko03110]
+K09494,Chaperones and folding catalysts [BR:ko03110]
+K09499,Chaperones and folding catalysts [BR:ko03110]
+K09498,Chaperones and folding catalysts [BR:ko03110]
+K05997,NA
+K06923,NA
+K12899,Spliceosome [BR:ko03041]
+K12898,Spliceosome [BR:ko03041]
+K12232,Enzymes [BR:ko01000]
+K12895,Spliceosome [BR:ko03041]
+K12236,Transcription factors [BR:ko03000]
+K11768,Transcription machinery [BR:ko03021]
+K11769,Transcription machinery [BR:ko03021]
+K12147,NA
+K12146,Transcription factors [BR:ko03000]
+K12417,Enzymes [BR:ko01000]
+K12140,Enzymes [BR:ko01000]
+K15660,Polyketide biosynthesis proteins [BR:ko01008]
+K07995,Enzymes [BR:ko01000]
+K11760,Transcription machinery [BR:ko03021]
+K11761,Transcription machinery [BR:ko03021]
+K11762,Transcription machinery [BR:ko03021]
+K11764,Transcription machinery [BR:ko03021]
+K12148,Prokaryotic defense system [BR:ko02048]
+K11766,Transcription machinery [BR:ko03021]
+K11767,Transcription machinery [BR:ko03021]
+K07312,Transporters [BR:ko02000]
+K07313,Enzymes [BR:ko01000]
+K07311,Transporters [BR:ko02000]
+K07316,Enzymes [BR:ko01000]
+K03478,Enzymes [BR:ko01000]
+K07314,Enzymes [BR:ko01000]
+K07315,Enzymes [BR:ko01000]
+K08716,Transporters [BR:ko02000]
+K08837,Enzymes [BR:ko01000]
+K07318,Enzymes [BR:ko01000]
+K07319,Enzymes [BR:ko01000]
+K08832,Enzymes [BR:ko01000]
+K13947,Transporters [BR:ko02000]
+K08830,Enzymes [BR:ko01000]
+K08831,Enzymes [BR:ko01000]
+K06778,Enzymes [BR:ko01000]
+K10448,Ubiquitin system [BR:ko04121]
+K10997,Chromosome [BR:ko03036]
+K06777,Enzymes [BR:ko01000]
+K13782,Transporters [BR:ko02000]
+K06953,NA
+K06774,Cell adhesion molecules and their ligands [BR:ko04516]
+K00961,Enzymes [BR:ko01000]
+K12523,Secretion system [BR:ko02044]
+K12522,Secretion system [BR:ko02044]
+K12521,Secretion system [BR:ko02044]
+K12520,Secretion system [BR:ko02044]
+K09787,NA
+K09786,NA
+K11610,Enzymes [BR:ko01000]
+K10444,Ubiquitin system [BR:ko04121]
+K09781,NA
+K09780,NA
+K06795,Cell adhesion molecules and their ligands [BR:ko04516]
+K06794,Cell adhesion molecules and their ligands [BR:ko04516]
+K10445,Ubiquitin system [BR:ko04121]
+K06792,Cell adhesion molecules and their ligands [BR:ko04516]
+K07141,Enzymes [BR:ko01000]
+K06913,NA
+K02837,Translation factors [BR:ko03012]
+K06798,Cell adhesion molecules and their ligands [BR:ko04516]
+K10443,Ubiquitin system [BR:ko04121]
+K09942,NA
+K11310,Enzymes [BR:ko01000]
+K05880,Transcription factors [BR:ko03000]
+K08782,Enzymes [BR:ko01000]
+K08783,Enzymes [BR:ko01000]
+K08784,Enzymes [BR:ko01000]
+K08785,Enzymes [BR:ko01000]
+K08786,Enzymes [BR:ko01000]
+K08787,Enzymes [BR:ko01000]
+K10961,Secretion system [BR:ko02044]
+K04954,Ion channels [BR:ko04040]
+K10965,Secretion system [BR:ko02044]
+K07559,Enzymes [BR:ko01000]
+K07228,NA
+K07229,Enzymes [BR:ko01000]
+K07226,NA
+K07227,NA
+K07556,Mitochondrial biogenesis [BR:ko03029]
+K07225,NA
+K07222,NA
+K07223,NA
+K07220,NA
+K03675,Chaperones and folding catalysts [BR:ko03110]
+K06318,NA
+K09871,Transporters [BR:ko02000]
+K06310,NA
+K09873,Transporters [BR:ko02000]
+K06312,NA
+K09874,Transporters [BR:ko02000]
+K06317,NA
+K06316,Transporters [BR:ko02000]
+K10709,NA
+K08193,Transporters [BR:ko02000]
+K05739,NA
+K11380,Chromosome [BR:ko03036]
+K14340,Enzymes [BR:ko01000]
+K05985,Enzymes [BR:ko01000]
+K03755,Transcription factors [BR:ko03000]
+K11144,DNA replication proteins [BR:ko03032]
+K11145,Enzymes [BR:ko01000]
+K05972,Enzymes [BR:ko01000]
+K05984,Enzymes [BR:ko01000]
+K14614,Transporters [BR:ko02000]
+K10706,Enzymes [BR:ko01000]
+K08657,Enzymes [BR:ko01000]
+K08654,Enzymes [BR:ko01000]
+K08655,Enzymes [BR:ko01000]
+K08652,Enzymes [BR:ko01000]
+K08651,Enzymes [BR:ko01000]
+K14776,Enzymes [BR:ko01000]
+K11134,DNA replication proteins [BR:ko03032]
+K06405,NA
+K06404,NA
+K07138,NA
+K07139,NA
+K06401,NA
+K06400,NA
+K11810,Transporters [BR:ko02000]
+K11811,NA
+K07132,NA
+K07133,NA
+K06959,NA
+K07131,NA
+K11548,Chromosome [BR:ko03036]
+K07137,NA
+K07134,NA
+K07427,Cytochrome P450 [BR:ko00199]
+K07451,Enzymes [BR:ko01000]
+K10637,Enzymes [BR:ko01000]
+K09128,NA
+K10631,Enzymes [BR:ko01000]
+K00540,Enzymes [BR:ko01000]
+K07450,NA
+K09123,NA
+K09122,NA
+K09121,NA
+K14777,Enzymes [BR:ko01000]
+K10639,Enzymes [BR:ko01000]
+K09126,NA
+K09125,NA
+K09124,NA
+K10385,Cytoskeleton proteins [BR:ko04812]
+K10384,Cytoskeleton proteins [BR:ko04812]
+K05819,Transporters [BR:ko02000]
+K15288,Transporters [BR:ko02000]
+K10383,Cytoskeleton proteins [BR:ko04812]
+K01865,Enzymes [BR:ko01000]
+K15283,Transporters [BR:ko02000]
+K05812,NA
+K05811,NA
+K05810,NA
+K10389,Chromosome [BR:ko03036]
+K10388,Cytoskeleton proteins [BR:ko04812]
+K15285,Transporters [BR:ko02000]
+K04033,Transcription factors [BR:ko03000]
+K04030,NA
+K04031,NA
+K15048,Enzymes [BR:ko01000]
+K09706,NA
+K15513,Enzymes [BR:ko01000]
+K15511,Enzymes [BR:ko01000]
+K15510,Enzymes [BR:ko01000]
+K15515,Enzymes [BR:ko01000]
+K15514,Enzymes [BR:ko01000]
+K07047,NA
+K07045,NA
+K07042,Ribosome biogenesis [BR:ko03009]
+K07043,NA
+K07040,NA
+K07041,NA
+K01234,Enzymes [BR:ko01000]
+K07048,NA
+K06149,NA
+K09017,Transcription factors [BR:ko03000]
+K09016,Transporters [BR:ko02000]
+K09015,NA
+K09014,NA
+K09013,Transporters [BR:ko02000]
+K09012,Transcription factors [BR:ko03000]
+K14771,Ribosome biogenesis [BR:ko03009]
+K01260,Enzymes [BR:ko01000]
+K01261,Enzymes [BR:ko01000]
+K01262,Enzymes [BR:ko01000]
+K01263,Enzymes [BR:ko01000]
+K01264,Enzymes [BR:ko01000]
+K01147,Enzymes [BR:ko01000]
+K01266,Enzymes [BR:ko01000]
+K01267,Enzymes [BR:ko01000]
+K08227,Transporters [BR:ko02000]
+K08226,Transporters [BR:ko02000]
+K08225,Transporters [BR:ko02000]
+K08224,Transporters [BR:ko02000]
+K08223,Transporters [BR:ko02000]
+K08222,Transporters [BR:ko02000]
+K08221,Transporters [BR:ko02000]
+K06145,Transcription factors [BR:ko03000]
+K08989,NA
+K08229,Transporters [BR:ko02000]
+K06147,Transporters [BR:ko02000]
+K01143,Enzymes [BR:ko01000]
+K15601,Enzymes [BR:ko01000]
+K11435,Enzymes [BR:ko01000]
+K11512,Chromosome [BR:ko03036]
+K02585,NA
+K01318,Enzymes [BR:ko01000]
+K06142,NA
+K00243,NA
+K01317,Enzymes [BR:ko01000]
+K06826,Cell adhesion molecules and their ligands [BR:ko04516]
+K04766,Enzymes [BR:ko01000]
+K04767,NA
+K04764,DNA replication proteins [BR:ko03032]
+K14773,Ribosome biogenesis [BR:ko03009]
+K04762,Chaperones and folding catalysts [BR:ko03110]
+K04763,Chromosome [BR:ko03036]
+K04760,Transcription machinery [BR:ko03021]
+K04761,Transcription factors [BR:ko03000]
+K02665,Secretion system [BR:ko02044]
+K02664,Secretion system [BR:ko02044]
+K02666,Secretion system [BR:ko02044]
+K04768,NA
+K04769,Transcription factors [BR:ko03000]
+K00809,Enzymes [BR:ko01000]
+K08313,Enzymes [BR:ko01000]
+K15462,Transfer RNA biogenesis [BR:ko03016]
+K15461,Enzymes [BR:ko01000]
+K15460,Enzymes [BR:ko01000]
+K08317,Enzymes [BR:ko01000]
+K08316,Enzymes [BR:ko01000]
+K08315,Enzymes [BR:ko01000]
+K08314,Enzymes [BR:ko01000]
+K11438,Enzymes [BR:ko01000]
+K08319,Enzymes [BR:ko01000]
+K15468,Polyketide biosynthesis proteins [BR:ko01008]
+K14648,Enzymes [BR:ko01000]
+K05782,Transporters [BR:ko02000]
+K05781,NA
+K05787,DNA replication proteins [BR:ko03032]
+K05786,Transporters [BR:ko02000]
+K05785,Transcription factors [BR:ko03000]
+K15262,Ribosome biogenesis [BR:ko03009]
+K14392,Transporters [BR:ko02000]
+K14393,Transporters [BR:ko02000]
+K14390,Transporters [BR:ko02000]
+K14391,Transporters [BR:ko02000]
+K14644,Enzymes [BR:ko01000]
+K14645,Enzymes [BR:ko01000]
+K14394,Enzymes [BR:ko01000]
+K14647,Enzymes [BR:ko01000]
+K13196,Spliceosome [BR:ko03041]
+K02404,Bacterial motility proteins [BR:ko02035]
+K11940,Chromosome [BR:ko03036]
+K12144,Enzymes [BR:ko01000]
+K01446,Enzymes [BR:ko01000]
+K01447,Enzymes [BR:ko01000]
+K01449,Enzymes [BR:ko01000]
+K13049,Enzymes [BR:ko01000]
+K13048,Enzymes [BR:ko01000]
+K13043,Enzymes [BR:ko01000]
+K09273,Transcription factors [BR:ko03000]
+K13046,Enzymes [BR:ko01000]
+K13044,Spliceosome [BR:ko03041]
+K14802,Enzymes [BR:ko01000]
+K14803,Enzymes [BR:ko01000]
+K14800,Ribosome biogenesis [BR:ko03009]
+K14801,Ribosome biogenesis [BR:ko03009]
+K14806,Enzymes [BR:ko01000]
+K14807,Enzymes [BR:ko01000]
+K14804,Ribosome biogenesis [BR:ko03009]
+K14805,Enzymes [BR:ko01000]
+K05567,Transporters [BR:ko02000]
+K05566,Transporters [BR:ko02000]
+K08005,Enzymes [BR:ko01000]
+K08004,Enzymes [BR:ko01000]
+K08003,Enzymes [BR:ko01000]
+K08002,Enzymes [BR:ko01000]
+K08001,Enzymes [BR:ko01000]
+K02243,KEGG modules [BR:ko00002]
+K02242,KEGG modules [BR:ko00002]
+K02200,NA
+K02240,KEGG modules [BR:ko00002]
+K02247,KEGG modules [BR:ko00002]
+K02246,KEGG modules [BR:ko00002]
+K02533,Enzymes [BR:ko01000]
+K02244,KEGG modules [BR:ko00002]
+K02249,KEGG modules [BR:ko00002]
+K02248,KEGG modules [BR:ko00002]
+K02538,Transcription factors [BR:ko03000]
+K02086,NA
+K02081,Transcription factors [BR:ko03000]
+K02082,Enzymes [BR:ko01000]
+K12205,Secretion system [BR:ko02044]
+K02088,Enzymes [BR:ko01000]
+K03444,Transporters [BR:ko02000]
+K12956,Enzymes [BR:ko01000]
+K12957,Enzymes [BR:ko01000]
+K12954,Enzymes [BR:ko01000]
+K12955,Enzymes [BR:ko01000]
+K12952,Enzymes [BR:ko01000]
+K12953,Enzymes [BR:ko01000]
+K12950,Enzymes [BR:ko01000]
+K12951,Enzymes [BR:ko01000]
+K06950,NA
+K15158,Transcription machinery [BR:ko03021]
+K06993,NA
+K03424,Enzymes [BR:ko01000]
+K03427,Enzymes [BR:ko01000]
+K03932,NA
+K03933,NA
+K03930,Enzymes [BR:ko01000]
+K03931,NA
+K03756,Transporters [BR:ko02000]
+K03757,Transporters [BR:ko02000]
+K03206,Enzymes [BR:ko01000]
+K03207,Enzymes [BR:ko01000]
+K03752,Enzymes [BR:ko01000]
+K03753,NA
+K03750,Enzymes [BR:ko01000]
+K03208,NA
+K03758,Transporters [BR:ko02000]
+K03759,Transporters [BR:ko02000]
+K09668,Glycosyltransferases [BR:ko01003]
+K09669,Enzymes [BR:ko01000]
+K04924,Ion channels [BR:ko04040]
+K15152,Transcription machinery [BR:ko03021]
+K06144,Transporters [BR:ko02000]
+K02336,Enzymes [BR:ko01000]
+K06146,Transcription factors [BR:ko03000]
+K02334,Enzymes [BR:ko01000]
+K06140,Transcription factors [BR:ko03000]
+K06141,Transporters [BR:ko02000]
+K02331,Enzymes [BR:ko01000]
+K06143,NA
+K09529,Chaperones and folding catalysts [BR:ko03110]
+K09469,Amino acid related enzymes [BR:ko01007]
+K09466,Transcription factors [BR:ko03000]
+K15157,Transcription machinery [BR:ko03021]
+K09462,Enzymes [BR:ko01000]
+K11494,Chromosome [BR:ko03036]
+K03688,NA
+K12071,Secretion system [BR:ko02044]
+K12070,Secretion system [BR:ko02044]
+K11496,Chromosome [BR:ko03036]
+K03683,Enzymes [BR:ko01000]
+K03684,Enzymes [BR:ko01000]
+K03686,Chaperones and folding catalysts [BR:ko03110]
+K03687,Chaperones and folding catalysts [BR:ko03110]
+K12171,Enzymes [BR:ko01000]
+K09528,Spliceosome [BR:ko03041]
+K12176,Ubiquitin system [BR:ko04121]
+K05931,Enzymes [BR:ko01000]
+K10695,Enzymes [BR:ko01000]
+K07301,Transporters [BR:ko02000]
+K07300,Transporters [BR:ko02000]
+K07303,Enzymes [BR:ko01000]
+K07302,Enzymes [BR:ko01000]
+K07305,Enzymes [BR:ko01000]
+K07304,Enzymes [BR:ko01000]
+K14667,Enzymes [BR:ko01000]
+K08825,Enzymes [BR:ko01000]
+K08824,Enzymes [BR:ko01000]
+K08827,Enzymes [BR:ko01000]
+K08826,Enzymes [BR:ko01000]
+K13955,NA
+K14664,Enzymes [BR:ko01000]
+K13957,Ubiquitin system [BR:ko04121]
+K13956,Ubiquitin system [BR:ko04121]
+K13959,Ubiquitin system [BR:ko04121]
+K14665,Enzymes [BR:ko01000]
+K13958,Ubiquitin system [BR:ko04121]
+K03112,NA
+K14663,Enzymes [BR:ko01000]
+K11609,Enzymes [BR:ko01000]
+K11608,Enzymes [BR:ko01000]
+K14660,Enzymes [BR:ko01000]
+K11974,Enzymes [BR:ko01000]
+K12558,NA
+K11971,Enzymes [BR:ko01000]
+K11972,Enzymes [BR:ko01000]
+K08797,Enzymes [BR:ko01000]
+K08796,Enzymes [BR:ko01000]
+K08795,Enzymes [BR:ko01000]
+K08793,Enzymes [BR:ko01000]
+K06957,Enzymes [BR:ko01000]
+K08790,Enzymes [BR:ko01000]
+K08799,Enzymes [BR:ko01000]
+K08798,Enzymes [BR:ko01000]
+K13818,NA
+K08173,Transporters [BR:ko02000]
+K13819,NA
+K14118,NA
+K07942,GTP-binding proteins [BR:ko04031]
+K06892,Enzymes [BR:ko01000]
+K06893,NA
+K06890,NA
+K06891,NA
+K07239,NA
+K07238,Transporters [BR:ko02000]
+K06322,NA
+K06895,Transporters [BR:ko02000]
+K07234,NA
+K06898,NA
+K06899,Chromosome [BR:ko03036]
+K07231,NA
+K06329,NA
+K07233,NA
+K07232,NA
+K11777,NA
+K11776,Transcription machinery [BR:ko03021]
+K09684,Transcription factors [BR:ko03000]
+K09685,Transcription factors [BR:ko03000]
+K09682,Transcription factors [BR:ko03000]
+K09683,Transcription factors [BR:ko03000]
+K11771,Transcription machinery [BR:ko03021]
+K09681,Transcription factors [BR:ko03000]
+K10323,Ubiquitin system [BR:ko04121]
+K11399,Chromosome [BR:ko03036]
+K10321,Ubiquitin system [BR:ko04121]
+K02463,KEGG modules [BR:ko00002]
+K11397,Chromosome [BR:ko03036]
+K11396,Chromosome [BR:ko03036]
+K11391,Enzymes [BR:ko01000]
+K06325,NA
+K11393,Enzymes [BR:ko01000]
+K05302,Enzymes [BR:ko01000]
+K05962,Enzymes [BR:ko01000]
+K05967,NA
+K07076,NA
+K00490,Enzymes [BR:ko01000]
+K10295,Ubiquitin system [BR:ko04121]
+K08644,Enzymes [BR:ko01000]
+K08647,Enzymes [BR:ko01000]
+K08646,Enzymes [BR:ko01000]
+K08643,Enzymes [BR:ko01000]
+K08642,Enzymes [BR:ko01000]
+K00653,Enzymes [BR:ko01000]
+K11805,Ubiquitin system [BR:ko04121]
+K10829,Enzymes [BR:ko01000]
+K11551,Chromosome [BR:ko03036]
+K11550,Chromosome [BR:ko03036]
+K06434,NA
+K11556,Chromosome [BR:ko03036]
+K06436,NA
+K06437,NA
+K10820,Enzymes [BR:ko01000]
+K10821,Enzymes [BR:ko01000]
+K11559,Chromosome [BR:ko03036]
+K11558,Chromosome [BR:ko03036]
+K07125,NA
+K07124,NA
+K10826,Enzymes [BR:ko01000]
+K10827,Enzymes [BR:ko01000]
+K09166,NA
+K06327,NA
+K11886,Proteasome [BR:ko03051]
+K08152,Transporters [BR:ko02000]
+K14116,NA
+K06956,NA
+K04023,NA
+K04025,NA
+K04024,NA
+K04027,NA
+K04026,NA
+K15070,Ubiquitin system [BR:ko04121]
+K15071,Ubiquitin system [BR:ko04121]
+K15072,Ubiquitin system [BR:ko04121]
+K15073,Ubiquitin system [BR:ko04121]
+K15075,DNA repair and recombination proteins [BR:ko03400]
+K15076,DNA repair and recombination proteins [BR:ko03400]
+K10734,KEGG modules [BR:ko00002]
+K10735,KEGG modules [BR:ko00002]
+K10736,DNA replication proteins [BR:ko03032]
+K07056,Enzymes [BR:ko01000]
+K10730,Enzymes [BR:ko01000]
+K10731,DNA replication proteins [BR:ko03032]
+K07053,Enzymes [BR:ko01000]
+K14117,NA
+K09712,NA
+K10738,Enzymes [BR:ko01000]
+K07058,NA
+K12557,NA
+K09062,Transcription factors [BR:ko03000]
+K09772,Chromosome [BR:ko03036]
+K08252,Enzymes [BR:ko01000]
+K08253,Enzymes [BR:ko01000]
+K14258,Transporters [BR:ko02000]
+K08256,Enzymes [BR:ko01000]
+K08257,Enzymes [BR:ko01000]
+K15384,Polyketide biosynthesis proteins [BR:ko01008]
+K08255,Enzymes [BR:ko01000]
+K08258,Enzymes [BR:ko01000]
+K08259,Enzymes [BR:ko01000]
+K08494,SNAREs [BR:ko04131]
+K04798,Chaperones and folding catalysts [BR:ko03110]
+K15676,Polyketide biosynthesis proteins [BR:ko01008]
+K15677,Polyketide biosynthesis proteins [BR:ko01008]
+K15674,Polyketide biosynthesis proteins [BR:ko01008]
+K15675,Polyketide biosynthesis proteins [BR:ko01008]
+K15678,Polyketide biosynthesis proteins [BR:ko01008]
+K15679,Polyketide biosynthesis proteins [BR:ko01008]
+K04797,Chaperones and folding catalysts [BR:ko03110]
+K04796,NA
+K04795,Ribosome biogenesis [BR:ko03009]
+K04794,Enzymes [BR:ko01000]
+K00476,Enzymes [BR:ko01000]
+K03969,NA
+K01308,Enzymes [BR:ko01000]
+K06902,Transporters [BR:ko02000]
+K01303,Enzymes [BR:ko01000]
+K01301,Enzymes [BR:ko01000]
+K01306,Enzymes [BR:ko01000]
+K01305,Enzymes [BR:ko01000]
+K01304,Enzymes [BR:ko01000]
+K04775,Enzymes [BR:ko01000]
+K04774,Enzymes [BR:ko01000]
+K14768,Ribosome biogenesis [BR:ko03009]
+K04770,Enzymes [BR:ko01000]
+K04773,Enzymes [BR:ko01000]
+K04772,Enzymes [BR:ko01000]
+K01161,Enzymes [BR:ko01000]
+K11557,Chromosome [BR:ko03036]
+K02652,Secretion system [BR:ko02044]
+K02653,Secretion system [BR:ko02044]
+K02654,KEGG modules [BR:ko00002]
+K02655,Secretion system [BR:ko02044]
+K02656,Secretion system [BR:ko02044]
+K09794,NA
+K13638,Transcription factors [BR:ko03000]
+K13639,Transcription factors [BR:ko03000]
+K07037,NA
+K13634,Transcription factors [BR:ko03000]
+K13635,Transcription factors [BR:ko03000]
+K00870,NA
+K13723,Enzymes [BR:ko01000]
+K13630,NA
+K13631,KEGG modules [BR:ko00002]
+K05571,Transporters [BR:ko02000]
+K13633,Transcription factors [BR:ko03000]
+K14657,KEGG modules [BR:ko00002]
+K04485,DNA repair and recombination proteins [BR:ko03400]
+K14337,Enzymes [BR:ko01000]
+K04483,DNA repair and recombination proteins [BR:ko03400]
+K15498,Enzymes [BR:ko01000]
+K05544,Enzymes [BR:ko01000]
+K13698,Peptidases [BR:ko01002]
+K14659,KEGG modules [BR:ko00002]
+K04488,NA
+K01277,Enzymes [BR:ko01000]
+K01276,Enzymes [BR:ko01000]
+K06955,NA
+K01274,Enzymes [BR:ko01000]
+K15254,Enzymes [BR:ko01000]
+K15255,Enzymes [BR:ko01000]
+K15256,Enzymes [BR:ko01000]
+K15257,Enzymes [BR:ko01000]
+K15707,Enzymes [BR:ko01000]
+K14383,Transporters [BR:ko02000]
+K14382,Transporters [BR:ko02000]
+K14384,Transporters [BR:ko02000]
+K05540,Enzymes [BR:ko01000]
+K06802,Cell adhesion molecules and their ligands [BR:ko04516]
+K05015,Ion channels [BR:ko04040]
+K00906,Enzymes [BR:ko01000]
+K13692,Enzymes [BR:ko01000]
+K00905,Enzymes [BR:ko01000]
+K13658,Enzymes [BR:ko01000]
+K00903,Enzymes [BR:ko01000]
+K01459,Enzymes [BR:ko01000]
+K11773,Transcription machinery [BR:ko03021]
+K12291,Secretion system [BR:ko02044]
+K14032,Transcription factors [BR:ko03000]
+K03559,Transporters [BR:ko02000]
+K10324,Ubiquitin system [BR:ko04121]
+K13701,Peptidases [BR:ko01002]
+K13702,Enzymes [BR:ko01000]
+K13703,Peptidases [BR:ko01002]
+K13704,Enzymes [BR:ko01000]
+K13705,Peptidases [BR:ko01002]
+K13706,Peptidases [BR:ko01002]
+K04568,Enzymes [BR:ko01000]
+K14811,Enzymes [BR:ko01000]
+K14810,Enzymes [BR:ko01000]
+K05518,Enzymes [BR:ko01000]
+K01050,Enzymes [BR:ko01000]
+K14815,Ribosome biogenesis [BR:ko03009]
+K05464,Cytokines [BR:ko04052]
+K14816,Ribosome biogenesis [BR:ko03009]
+K14819,Enzymes [BR:ko01000]
+K14818,Ribosome biogenesis [BR:ko03009]
+K08070,Enzymes [BR:ko01000]
+K13695,Peptidases [BR:ko01002]
+K08076,Enzymes [BR:ko01000]
+K08077,Enzymes [BR:ko01000]
+K08075,Enzymes [BR:ko01000]
+K13090,Spliceosome [BR:ko03041]
+K13091,Spliceosome [BR:ko03041]
+K13092,Spliceosome [BR:ko03041]
+K02503,Exosome [BR:ko04147]
+K02504,Secretion system [BR:ko02044]
+K02505,Secretion system [BR:ko02044]
+K02506,Enzymes [BR:ko01000]
+K02507,Secretion system [BR:ko02044]
+K02508,Transcription factors [BR:ko03000]
+K13099,KEGG modules [BR:ko00002]
+K06328,NA
+K11477,NA
+K13143,Spliceosome [BR:ko03041]
+K09514,Chaperones and folding catalysts [BR:ko03110]
+K09515,Chaperones and folding catalysts [BR:ko03110]
+K09512,Chaperones and folding catalysts [BR:ko03110]
+K09513,Chaperones and folding catalysts [BR:ko03110]
+K09510,Chaperones and folding catalysts [BR:ko03110]
+K09511,Chaperones and folding catalysts [BR:ko03110]
+K12945,Enzymes [BR:ko01000]
+K12944,Enzymes [BR:ko01000]
+K13148,Enzymes [BR:ko01000]
+K13418,Enzymes [BR:ko01000]
+K09272,Transcription factors [BR:ko03000]
+K12943,NA
+K09519,Chaperones and folding catalysts [BR:ko03110]
+K02436,Transcription factors [BR:ko03000]
+K03438,Enzymes [BR:ko01000]
+K02430,Transcription factors [BR:ko03000]
+K03928,Enzymes [BR:ko01000]
+K14729,Enzymes [BR:ko01000]
+K14728,Enzymes [BR:ko01000]
+K03925,NA
+K03924,Enzymes [BR:ko01000]
+K03926,NA
+K03437,Transfer RNA biogenesis [BR:ko03016]
+K03436,Transcription factors [BR:ko03000]
+K03435,Transcription factors [BR:ko03000]
+K03745,NA
+K03212,Enzymes [BR:ko01000]
+K03747,NA
+K03746,Chromosome [BR:ko03036]
+K03741,Enzymes [BR:ko01000]
+K03216,Enzymes [BR:ko01000]
+K03215,Enzymes [BR:ko01000]
+K03214,Enzymes [BR:ko01000]
+K07224,Transporters [BR:ko02000]
+K03218,Enzymes [BR:ko01000]
+K03749,NA
+K03748,NA
+K02383,Bacterial motility proteins [BR:ko02035]
+K04076,Enzymes [BR:ko01000]
+K09679,Enzymes [BR:ko01000]
+K06158,Translation factors [BR:ko03012]
+K03669,Enzymes [BR:ko01000]
+K06320,NA
+K02381,NA
+K02346,Enzymes [BR:ko01000]
+K04074,Chromosome [BR:ko03036]
+K06155,Transporters [BR:ko02000]
+K06897,Enzymes [BR:ko01000]
+K03697,Chaperones and folding catalysts [BR:ko03110]
+K03696,Chaperones and folding catalysts [BR:ko03110]
+K04075,Enzymes [BR:ko01000]
+K08896,Enzymes [BR:ko01000]
+K03690,NA
+K07038,NA
+K06323,NA
+K03699,Bacterial toxins [BR:ko02042]
+K03698,Enzymes [BR:ko01000]
+K03327,Transporters [BR:ko02000]
+K03326,Transporters [BR:ko02000]
+K03325,NA
+K03324,Transporters [BR:ko02000]
+K06188,Transporters [BR:ko02000]
+K03322,Transporters [BR:ko02000]
+K03321,Transporters [BR:ko02000]
+K03320,Transporters [BR:ko02000]
+K05499,Transcription factors [BR:ko03000]
+K03329,Transporters [BR:ko02000]
+K03328,NA
+K13964,NA
+K13965,NA
+K13966,NA
+K12169,Enzymes [BR:ko01000]
+K12166,Enzymes [BR:ko01000]
+K12164,Ubiquitin system [BR:ko04121]
+K12163,Ubiquitin system [BR:ko04121]
+K07230,Transporters [BR:ko02000]
+K08818,Enzymes [BR:ko01000]
+K08819,Enzymes [BR:ko01000]
+K07338,NA
+K07339,Enzymes [BR:ko01000]
+K08810,Enzymes [BR:ko01000]
+K08811,Enzymes [BR:ko01000]
+K08812,Enzymes [BR:ko01000]
+K08813,Enzymes [BR:ko01000]
+K08815,Enzymes [BR:ko01000]
+K08816,Enzymes [BR:ko01000]
+K07333,Secretion system [BR:ko02044]
+K06555,Cellular antigens [BR:ko04090]
+K04691,Enzymes [BR:ko01000]
+K11775,Transcription machinery [BR:ko03021]
+K06559,Cellular antigens [BR:ko04090]
+K01056,Enzymes [BR:ko01000]
+K06873,NA
+K12540,KEGG modules [BR:ko00002]
+K12543,KEGG modules [BR:ko00002]
+K12542,KEGG modules [BR:ko00002]
+K12544,NA
+K12547,NA
+K12546,NA
+K12549,NA
+K12548,NA
+K03496,Chromosome [BR:ko03036]
+K11772,Transcription machinery [BR:ko03021]
+K05346,Transcription factors [BR:ko03000]
+K08864,Enzymes [BR:ko01000]
+K11018,Bacterial toxins [BR:ko02042]
+K11014,Bacterial toxins [BR:ko02042]
+K11770,Transcription machinery [BR:ko03021]
+K07107,Enzymes [BR:ko01000]
+K03791,NA
+K06888,NA
+K09965,NA
+K06333,NA
+K06880,Enzymes [BR:ko01000]
+K06883,NA
+K06882,NA
+K06337,NA
+K06884,NA
+K06887,NA
+K06334,NA
+K06889,NA
+K04976,Ion channels [BR:ko04040]
+K09859,NA
+K09858,NA
+K10947,Transcription factors [BR:ko03000]
+K11701,Enzymes [BR:ko01000]
+K13696,NA
+K07591,NA
+K07592,Transcription factors [BR:ko03000]
+K11527,Enzymes [BR:ko01000]
+K07599,NA
+K13651,Prokaryotic defense system [BR:ko02048]
+K11257,Enzymes [BR:ko01000]
+K05998,Enzymes [BR:ko01000]
+K11122,DNA replication proteins [BR:ko03032]
+K11123,DNA replication proteins [BR:ko03032]
+K05994,Enzymes [BR:ko01000]
+K05995,Enzymes [BR:ko01000]
+K05992,Enzymes [BR:ko01000]
+K11127,DNA replication proteins [BR:ko03032]
+K05991,Enzymes [BR:ko01000]
+K07442,Enzymes [BR:ko01000]
+K07115,Enzymes [BR:ko01000]
+K07116,Enzymes [BR:ko01000]
+K07117,NA
+K07446,Enzymes [BR:ko01000]
+K07447,Enzymes [BR:ko01000]
+K07112,NA
+K07445,NA
+K00313,Enzymes [BR:ko01000]
+K07448,Prokaryotic defense system [BR:ko02048]
+K07449,NA
+K07118,NA
+K07119,NA
+K11163,Enzymes [BR:ko01000]
+K11833,Enzymes [BR:ko01000]
+K11835,Enzymes [BR:ko01000]
+K11836,Enzymes [BR:ko01000]
+K11837,Enzymes [BR:ko01000]
+K06426,NA
+K06425,NA
+K07939,Exosome [BR:ko04147]
+K06423,NA
+K06422,NA
+K06421,NA
+K06420,NA
+K12940,Peptidases [BR:ko01002]
+K06874,NA
+K14209,Transporters [BR:ko02000]
+K10301,Ubiquitin system [BR:ko04121]
+K06218,Prokaryotic defense system [BR:ko02048]
+K11390,Enzymes [BR:ko01000]
+K14635,Enzymes [BR:ko01000]
+K11392,Enzymes [BR:ko01000]
+K04018,NA
+K04014,NA
+K04015,NA
+K04016,NA
+K04017,NA
+K04013,NA
+K07060,Enzymes [BR:ko01000]
+K07061,Prokaryotic defense system [BR:ko02048]
+K07062,NA
+K07063,NA
+K07064,NA
+K07065,NA
+K07066,NA
+K07067,Enzymes [BR:ko01000]
+K07068,NA
+K07069,NA
+K10729,DNA replication proteins [BR:ko03032]
+K13112,Spliceosome [BR:ko03041]
+K02519,Translation factors [BR:ko03012]
+K15390,Polyketide biosynthesis proteins [BR:ko01008]
+K15393,Enzymes [BR:ko01000]
+K15395,Polyketide biosynthesis proteins [BR:ko01008]
+K15394,Polyketide biosynthesis proteins [BR:ko01008]
+K15396,Enzymes [BR:ko01000]
+K15451,Enzymes [BR:ko01000]
+K09129,NA
+K10057,Lectins [BR:ko04091]
+K08482,NA
+K03145,Transcription machinery [BR:ko03021]
+K04893,Ion channels [BR:ko04040]
+K12986,Enzymes [BR:ko01000]
+K01992,KEGG modules [BR:ko00002]
+K01993,NA
+K01990,KEGG modules [BR:ko00002]
+K01991,Transporters [BR:ko02000]
+K01994,Transcription factors [BR:ko03000]
+K04744,Transporters [BR:ko02000]
+K04748,NA
+K04749,Transcription machinery [BR:ko03021]
+K08851,Enzymes [BR:ko01000]
+K15720,Enzymes [BR:ko01000]
+K13629,Transporters [BR:ko02000]
+K13628,Transfer RNA biogenesis [BR:ko03016]
+K03485,Transcription factors [BR:ko03000]
+K15457,Transfer RNA biogenesis [BR:ko03016]
+K11547,Chromosome [BR:ko03036]
+K13620,NA
+K13626,Bacterial motility proteins [BR:ko02035]
+K14623,DNA repair and recombination proteins [BR:ko03400]
+K04343,KEGG modules [BR:ko00002]
+K05167,Cytokine receptors [BR:ko04050]
+K03387,Enzymes [BR:ko01000]
+K15725,Transporters [BR:ko02000]
+K01200,Enzymes [BR:ko01000]
+K15727,Transporters [BR:ko02000]
+K15711,Enzymes [BR:ko01000]
+K15710,Enzymes [BR:ko01000]
+K15712,Enzymes [BR:ko01000]
+K05038,Transporters [BR:ko02000]
+K01144,Enzymes [BR:ko01000]
+K13715,Enzymes [BR:ko01000]
+K13714,Enzymes [BR:ko01000]
+K01422,Enzymes [BR:ko01000]
+K01420,Transcription factors [BR:ko03000]
+K01421,NA
+K03220,KEGG modules [BR:ko00002]
+K13718,Enzymes [BR:ko01000]
+K09219,Transcription factors [BR:ko03000]
+K07129,NA
+K09269,Transcription factors [BR:ko03000]
+K11552,Chromosome [BR:ko03036]
+K00221,Enzymes [BR:ko01000]
+K11807,Ubiquitin system [BR:ko04121]
+K09216,Transcription factors [BR:ko03000]
+K02647,Transcription factors [BR:ko03000]
+K14281,Chromosome [BR:ko03036]
+K14282,Chromosome [BR:ko03036]
+K11806,Ribosome biogenesis [BR:ko03009]
+K14828,Ribosome biogenesis [BR:ko03009]
+K14829,Ribosome biogenesis [BR:ko03009]
+K14287,Enzymes [BR:ko01000]
+K05501,Transcription factors [BR:ko03000]
+K14825,Ribosome biogenesis [BR:ko03009]
+K14826,Enzymes [BR:ko01000]
+K14827,Ribosome biogenesis [BR:ko03009]
+K14820,Ribosome biogenesis [BR:ko03009]
+K14821,Ribosome biogenesis [BR:ko03009]
+K14822,Ribosome biogenesis [BR:ko03009]
+K14823,Ribosome biogenesis [BR:ko03009]
+K07022,NA
+K03597,Transcription machinery [BR:ko03021]
+K11555,Chromosome [BR:ko03036]
+K03592,Peptidases [BR:ko01002]
+K03593,Chromosome [BR:ko03036]
+K05236,Exosome [BR:ko04147]
+K03598,Transcription machinery [BR:ko03021]
+K03599,Transcription machinery [BR:ko03021]
+K02511,Transporters [BR:ko02000]
+K07121,NA
+K01732,Enzymes [BR:ko01000]
+K07120,NA
+K06049,NA
+K07123,NA
+K03710,Transcription factors [BR:ko03000]
+K09728,NA
+K12978,Enzymes [BR:ko01000]
+K13150,Spliceosome [BR:ko03041]
+K09506,Ribosome biogenesis [BR:ko03009]
+K00479,NA
+K09500,Chaperones and folding catalysts [BR:ko03110]
+K13157,Spliceosome [BR:ko03041]
+K13159,Spliceosome [BR:ko03041]
+K13158,Messenger RNA biogenesis [BR:ko03019]
+K12974,Enzymes [BR:ko01000]
+K12976,Enzymes [BR:ko01000]
+K12977,Enzymes [BR:ko01000]
+K03918,Enzymes [BR:ko01000]
+K03919,Enzymes [BR:ko01000]
+K05340,Transporters [BR:ko02000]
+K02427,Enzymes [BR:ko01000]
+K00537,Enzymes [BR:ko01000]
+K02425,Bacterial motility proteins [BR:ko02035]
+K11905,KEGG modules [BR:ko00002]
+K02429,Transporters [BR:ko02000]
+K07126,NA
+K08119,Proteoglycans [BR:ko00535]
+K06047,Enzymes [BR:ko01000]
+K03770,Enzymes [BR:ko01000]
+K03771,Enzymes [BR:ko01000]
+K03772,Enzymes [BR:ko01000]
+K03773,Enzymes [BR:ko01000]
+K03774,Enzymes [BR:ko01000]
+K03775,Enzymes [BR:ko01000]
+K12376,Enzymes [BR:ko01000]
+K11900,KEGG modules [BR:ko00002]
+K12374,Enzymes [BR:ko01000]
+K12375,Enzymes [BR:ko01000]
+K11901,KEGG modules [BR:ko00002]
+K02358,Translation factors [BR:ko03012]
+K11902,KEGG modules [BR:ko00002]
+K02351,NA
+K03716,Enzymes [BR:ko01000]
+K02352,Enzymes [BR:ko01000]
+K02355,Translation factors [BR:ko03012]
+K02357,Translation factors [BR:ko03012]
+K02356,Translation factors [BR:ko03012]
+K11045,Bacterial toxins [BR:ko02042]
+K08174,Transporters [BR:ko02000]
+K09861,NA
+K13574,Enzymes [BR:ko01000]
+K13573,Proteasome [BR:ko03051]
+K13572,Proteasome [BR:ko03051]
+K13571,KEGG modules [BR:ko00002]
+K13570,Ubiquitin system [BR:ko04121]
+K13655,Transcription factors [BR:ko03000]
+K08804,Enzymes [BR:ko01000]
+K08802,Enzymes [BR:ko01000]
+K08801,Enzymes [BR:ko01000]
+K08800,Enzymes [BR:ko01000]
+K12113,Transcription factors [BR:ko03000]
+K13979,Enzymes [BR:ko01000]
+K12117,Ubiquitin system [BR:ko04121]
+K08809,Enzymes [BR:ko01000]
+K08808,Enzymes [BR:ko01000]
+K09992,NA
+K12288,Secretion system [BR:ko02044]
+K07328,Secretion system [BR:ko02044]
+K10429,Protein phosphatases and associated proteins [BR:ko01009]
+K09994,Enzymes [BR:ko01000]
+K12282,Secretion system [BR:ko02044]
+K07322,NA
+K07321,NA
+K07320,Enzymes [BR:ko01000]
+K07327,Secretion system [BR:ko02044]
+K12287,Secretion system [BR:ko02044]
+K07325,Secretion system [BR:ko02044]
+K07324,Secretion system [BR:ko02044]
+K14835,Enzymes [BR:ko01000]
+K12227,Secretion system [BR:ko02044]
+K14112,NA
+K14113,NA
+K15172,Transcription machinery [BR:ko03021]
+K08194,Transporters [BR:ko02000]
+K15175,Transcription machinery [BR:ko03021]
+K13888,KEGG modules [BR:ko00002]
+K12026,Enzymes [BR:ko01000]
+K11008,Bacterial toxins [BR:ko02042]
+K12020,Ubiquitin system [BR:ko04121]
+K11005,Transporters [BR:ko02000]
+K08191,Transporters [BR:ko02000]
+K11000,Enzymes [BR:ko01000]
+K08190,Transporters [BR:ko02000]
+K07217,NA
+K07216,NA
+K10382,Cytoskeleton proteins [BR:ko04812]
+K07214,NA
+K07212,NA
+K11759,Transcription machinery [BR:ko03021]
+K01146,NA
+K08192,Transporters [BR:ko02000]
+K04083,Chaperones and folding catalysts [BR:ko03110]
+K07219,NA
+K07218,NA
+K11480,Enzymes [BR:ko01000]
+K11483,Enzymes [BR:ko01000]
+K11482,Enzymes [BR:ko01000]
+K11484,Enzymes [BR:ko01000]
+K08297,Enzymes [BR:ko01000]
+K04902,Ion channels [BR:ko04040]
+K04903,Ion channels [BR:ko04040]
+K04900,Ion channels [BR:ko04040]
+K04901,Ion channels [BR:ko04040]
+K04904,Ion channels [BR:ko04040]
+K06180,Enzymes [BR:ko01000]
+K06181,Enzymes [BR:ko01000]
+K06182,Enzymes [BR:ko01000]
+K06183,Enzymes [BR:ko01000]
+K06184,Translation factors [BR:ko03012]
+K06185,Ribosome biogenesis [BR:ko03009]
+K06186,Transporters [BR:ko02000]
+K11719,Transporters [BR:ko02000]
+K15342,DNA repair and recombination proteins [BR:ko03400]
+K07110,NA
+K15831,NA
+K15832,NA
+K07589,Enzymes [BR:ko01000]
+K07588,Enzymes [BR:ko01000]
+K10446,Ubiquitin system [BR:ko04121]
+K07586,NA
+K07585,NA
+K07584,NA
+K07583,Enzymes [BR:ko01000]
+K05914,Enzymes [BR:ko01000]
+K07581,NA
+K07580,NA
+K11139,Bacterial toxins [BR:ko02042]
+K05989,Enzymes [BR:ko01000]
+K05988,Enzymes [BR:ko01000]
+K13652,Transcription factors [BR:ko03000]
+K07111,NA
+K11133,DNA replication proteins [BR:ko03032]
+K05986,Enzymes [BR:ko01000]
+K11135,Ribosome biogenesis [BR:ko03009]
+K15425,Protein phosphatases and associated proteins [BR:ko01009]
+K05982,Enzymes [BR:ko01000]
+K07103,NA
+K09897,NA
+K07453,NA
+K07100,NA
+K07455,DNA repair and recombination proteins [BR:ko03400]
+K07454,NA
+K07105,NA
+K00670,Enzymes [BR:ko01000]
+K00671,Enzymes [BR:ko01000]
+K07109,NA
+K07108,NA
+K00675,Enzymes [BR:ko01000]
+K05100,Enzymes [BR:ko01000]
+K06988,NA
+K04029,NA
+K10530,Enzymes [BR:ko01000]
+K04593,G protein-coupled receptors [BR:ko04030]
+K02054,KEGG modules [BR:ko00002]
+K06980,Transfer RNA biogenesis [BR:ko03016]
+K14834,Ribosome biogenesis [BR:ko03009]
+K06984,Enzymes [BR:ko01000]
+K06986,NA
+K06987,NA
+K03468,Transporters [BR:ko02000]
+K10669,Enzymes [BR:ko01000]
+K09891,NA
+K09890,Translation factors [BR:ko03012]
+K10667,Enzymes [BR:ko01000]
+K02569,NA
+K00586,Enzymes [BR:ko01000]
+K15014,Transporters [BR:ko02000]
+K10520,Ubiquitin system [BR:ko04121]
+K01855,Enzymes [BR:ko01000]
+K02116,Photosynthesis proteins [BR:ko00194]
+K07055,Enzymes [BR:ko01000]
+K00076,Enzymes [BR:ko01000]
+K05777,KEGG modules [BR:ko00002]
+K07054,NA
+K14119,NA
+K07057,Enzymes [BR:ko01000]
+K07242,NA
+K07079,NA
+K07078,NA
+K07077,NA
+K07051,NA
+K07075,NA
+K07074,NA
+K10280,Ubiquitin system [BR:ko04121]
+K10281,Ubiquitin system [BR:ko04121]
+K07071,NA
+K07050,Enzymes [BR:ko01000]
+K10065,Lectins [BR:ko04091]
+K10060,Lectins [BR:ko04091]
+K10061,Lectins [BR:ko04091]
+K07052,NA
+K12941,Peptidases [BR:ko01002]
+K09043,Transcription factors [BR:ko03000]
+K08279,NA
+K10367,Cytoskeleton proteins [BR:ko04812]
+K08276,NA
+K08277,Transcription factors [BR:ko03000]
+K10268,Ubiquitin system [BR:ko04121]
+K05775,NA
+K15658,Polyketide biosynthesis proteins [BR:ko01008]
+K15659,Polyketide biosynthesis proteins [BR:ko01008]
+K00298,Enzymes [BR:ko01000]
+K12517,Secretion system [BR:ko02044]
+K15657,Polyketide biosynthesis proteins [BR:ko01008]
+K15651,Polyketide biosynthesis proteins [BR:ko01008]
+K15120,Transporters [BR:ko02000]
+K08471,G protein-coupled receptors [BR:ko04030]
+K01989,KEGG modules [BR:ko00002]
+K00107,Enzymes [BR:ko01000]
+K03818,Enzymes [BR:ko01000]
+K04759,Transporters [BR:ko02000]
+K04758,Transporters [BR:ko02000]
+K04757,Enzymes [BR:ko01000]
+K04756,NA
+K04755,NA
+K04754,NA
+K04753,NA
+K04752,NA
+K04750,NA
+K06763,Cell adhesion molecules and their ligands [BR:ko04516]
+K01181,Enzymes [BR:ko01000]
+K01180,Enzymes [BR:ko01000]
+K01185,Enzymes [BR:ko01000]
+K14638,Transporters [BR:ko02000]
+K09190,NA
+K09191,Transcription factors [BR:ko03000]
+K11991,Enzymes [BR:ko01000]
+K09194,Transcription factors [BR:ko03000]
+K01215,Enzymes [BR:ko01000]
+K01214,Enzymes [BR:ko01000]
+K01216,Enzymes [BR:ko01000]
+K01219,Enzymes [BR:ko01000]
+K15721,Transporters [BR:ko02000]
+K15722,NA
+K15723,NA
+K15724,NA
+K08587,Enzymes [BR:ko01000]
+K15726,Transporters [BR:ko02000]
+K08585,Enzymes [BR:ko01000]
+K13007,Enzymes [BR:ko01000]
+K06568,Exosome [BR:ko04147]
+K06156,Transporters [BR:ko02000]
+K13006,Enzymes [BR:ko01000]
+K09797,NA
+K02742,NA
+K09947,NA
+K09224,Transcription factors [BR:ko03000]
+K06566,Transporters [BR:ko02000]
+K00924,Enzymes [BR:ko01000]
+K09252,Enzymes [BR:ko01000]
+K12081,Secretion system [BR:ko02044]
+K13168,Spliceosome [BR:ko03041]
+K09228,Transcription factors [BR:ko03000]
+K09229,Transcription factors [BR:ko03000]
+K02592,NA
+K15382,Transporters [BR:ko02000]
+K15383,Transporters [BR:ko02000]
+K09857,NA
+K13000,Enzymes [BR:ko01000]
+K05539,Enzymes [BR:ko01000]
+K10393,Chromosome [BR:ko03036]
+K15834,NA
+K15835,Transcription factors [BR:ko03000]
+K15836,Transcription factors [BR:ko03000]
+K08251,Enzymes [BR:ko01000]
+K15830,NA
+K08293,Enzymes [BR:ko01000]
+K15340,DNA repair and recombination proteins [BR:ko03400]
+K15341,Enzymes [BR:ko01000]
+K14833,Ribosome biogenesis [BR:ko03009]
+K14832,Ribosome biogenesis [BR:ko03009]
+K04597,G protein-coupled receptors [BR:ko04030]
+K14830,Ribosome biogenesis [BR:ko03009]
+K14837,Ribosome biogenesis [BR:ko03009]
+K14836,Ribosome biogenesis [BR:ko03009]
+K08298,Enzymes [BR:ko01000]
+K08299,Enzymes [BR:ko01000]
+K03580,Enzymes [BR:ko01000]
+K03586,Chromosome [BR:ko03036]
+K11471,Chromosome [BR:ko03036]
+K02562,Transcription factors [BR:ko03000]
+K02566,NA
+K01023,Enzymes [BR:ko01000]
+K02565,Transcription factors [BR:ko03000]
+K01724,Enzymes [BR:ko01000]
+K01727,Enzymes [BR:ko01000]
+K12961,Chromosome [BR:ko03036]
+K13008,Enzymes [BR:ko01000]
+K09531,Chaperones and folding catalysts [BR:ko03110]
+K09533,Spliceosome [BR:ko03041]
+K09534,Chaperones and folding catalysts [BR:ko03110]
+K13169,Spliceosome [BR:ko03041]
+K09536,Chaperones and folding catalysts [BR:ko03110]
+K02026,KEGG modules [BR:ko00002]
+K09538,Chaperones and folding catalysts [BR:ko03110]
+K09539,Chaperones and folding catalysts [BR:ko03110]
+K13166,Spliceosome [BR:ko03041]
+K13167,Transcription machinery [BR:ko03021]
+K02025,KEGG modules [BR:ko00002]
+K13162,Messenger RNA biogenesis [BR:ko03019]
+K13163,Spliceosome [BR:ko03041]
+K08120,Proteoglycans [BR:ko00535]
+K08121,Proteoglycans [BR:ko00535]
+K08123,Proteoglycans [BR:ko00535]
+K08124,Proteoglycans [BR:ko00535]
+K08125,Proteoglycans [BR:ko00535]
+K08126,Proteoglycans [BR:ko00535]
+K11479,Enzymes [BR:ko01000]
+K08129,Proteoglycans [BR:ko00535]
+K14743,Enzymes [BR:ko01000]
+K14742,Transfer RNA biogenesis [BR:ko03016]
+K14744,Enzymes [BR:ko01000]
+K02182,Enzymes [BR:ko01000]
+K02022,NA
+K13186,Spliceosome [BR:ko03041]
+K13184,Enzymes [BR:ko01000]
+K13185,Enzymes [BR:ko01000]
+K13183,Enzymes [BR:ko01000]
+K03769,Enzymes [BR:ko01000]
+K03768,Enzymes [BR:ko01000]
+K03765,Transcription factors [BR:ko03000]
+K03764,Transcription factors [BR:ko03000]
+K03762,Transporters [BR:ko02000]
+K03761,Transporters [BR:ko02000]
+K13189,Spliceosome [BR:ko03041]
+K09456,NA
+K09454,Transcription factors [BR:ko03000]
+K09453,Transcription factors [BR:ko03000]
+K09364,Transcription factors [BR:ko03000]
+K13244,Enzymes [BR:ko01000]
+K04080,Chaperones and folding catalysts [BR:ko03110]
+K05909,Enzymes [BR:ko01000]
+K06324,NA
+K03346,DNA replication proteins [BR:ko03032]
+K02028,KEGG modules [BR:ko00002]
+K09856,NA
+K08870,NA
+K08876,Protein kinases [BR:ko01001]
+K13982,Enzymes [BR:ko01000]
+K13983,Enzymes [BR:ko01000]
+K13981,Enzymes [BR:ko01000]
+K09981,NA
+K09980,NA
+K09982,NA
+K09985,NA
+K09987,NA
+K09989,NA
+K09988,NA
+K03163,Enzymes [BR:ko01000]
+K03164,Enzymes [BR:ko01000]
+K03167,Enzymes [BR:ko01000]
+K03166,Enzymes [BR:ko01000]
+K11922,Transcription factors [BR:ko03000]
+K06530,Cellular antigens [BR:ko04090]
+K11920,Transcription factors [BR:ko03000]
+K11921,Transcription factors [BR:ko03000]
+K11926,Transcription factors [BR:ko03000]
+K10392,Cytoskeleton proteins [BR:ko04812]
+K11925,Transcription factors [BR:ko03000]
+K09934,NA
+K13181,Enzymes [BR:ko01000]
+K08639,Peptidases [BR:ko01002]
+K13216,Enzymes [BR:ko01000]
+K13217,Spliceosome [BR:ko03041]
+K03603,Transcription factors [BR:ko03000]
+K13212,Spliceosome [BR:ko03041]
+K13210,Messenger RNA biogenesis [BR:ko03019]
+K13211,Spliceosome [BR:ko03041]
+K03676,Chaperones and folding catalysts [BR:ko03110]
+K13219,Protein phosphatases and associated proteins [BR:ko01009]
+K04946,Ion channels [BR:ko04040]
+K01167,Enzymes [BR:ko01000]
+K12740,Chaperones and folding catalysts [BR:ko03110]
+K13003,Enzymes [BR:ko01000]
+K04947,Ion channels [BR:ko04040]
+K15431,Enzymes [BR:ko01000]
+K11032,Transporters [BR:ko02000]
+K11033,Bacterial toxins [BR:ko02042]
+K11034,Bacterial toxins [BR:ko02042]
+K11035,Bacterial toxins [BR:ko02042]
+K11036,Bacterial toxins [BR:ko02042]
+K11037,Bacterial toxins [BR:ko02042]
+K07262,Enzymes [BR:ko01000]
+K07263,Enzymes [BR:ko01000]
+K07261,Enzymes [BR:ko01000]
+K07266,NA
+K07267,Transporters [BR:ko02000]
+K12583,Enzymes [BR:ko01000]
+K12582,Enzymes [BR:ko01000]
+K07268,NA
+K07269,NA
+K08900,Mitochondrial biogenesis [BR:ko03029]
+K10974,Transporters [BR:ko02000]
+K02167,Transcription factors [BR:ko03000]
+K04910,Ion channels [BR:ko04040]
+K10462,Ubiquitin system [BR:ko04121]
+K10975,Transporters [BR:ko02000]
+K11728,Chromosome [BR:ko03036]
+K11729,NA
+K06199,NA
+K06198,NA
+K11724,Protein kinases [BR:ko01001]
+K06196,Transporters [BR:ko02000]
+K06195,NA
+K11727,Enzymes [BR:ko01000]
+K06193,NA
+K11721,Protein kinases [BR:ko01001]
+K11722,Protein kinases [BR:ko01001]
+K06190,NA
+K11456,Chromosome [BR:ko03036]
+K11105,Transporters [BR:ko02000]
+K11106,Transporters [BR:ko02000]
+K11107,NA
+K10459,Ubiquitin system [BR:ko04121]
+K10458,Ubiquitin system [BR:ko04121]
+K11450,Enzymes [BR:ko01000]
+K10455,Ubiquitin system [BR:ko04121]
+K10454,Ubiquitin system [BR:ko04121]
+K07862,Transporters [BR:ko02000]
+K02208,Enzymes [BR:ko01000]
+K10451,Ubiquitin system [BR:ko04121]
+K10450,Ubiquitin system [BR:ko04121]
+K10453,Ubiquitin system [BR:ko04121]
+K10452,Ubiquitin system [BR:ko04121]
+K00666,Enzymes [BR:ko01000]
+K00664,Enzymes [BR:ko01000]
+K00663,Enzymes [BR:ko01000]
+K00662,Enzymes [BR:ko01000]
+K00661,Enzymes [BR:ko01000]
+K11044,Enzymes [BR:ko01000]
+K06997,NA
+K06996,NA
+K10999,Enzymes [BR:ko01000]
+K06994,NA
+K07468,Enzymes [BR:ko01000]
+K07469,Enzymes [BR:ko01000]
+K06991,NA
+K10856,Enzymes [BR:ko01000]
+K07464,Enzymes [BR:ko01000]
+K07465,NA
+K07467,NA
+K07460,NA
+K07461,NA
+K06999,NA
+K07463,NA
+K11589,Chromosome [BR:ko03036]
+K11858,Enzymes [BR:ko01000]
+K09946,NA
+K07918,GTP-binding proteins [BR:ko04031]
+K14388,Transporters [BR:ko02000]
+K09678,Enzymes [BR:ko01000]
+K11852,Enzymes [BR:ko01000]
+K11853,Enzymes [BR:ko01000]
+K06442,Enzymes [BR:ko01000]
+K11857,Enzymes [BR:ko01000]
+K11854,Enzymes [BR:ko01000]
+K11855,Enzymes [BR:ko01000]
+K07486,NA
+K07487,NA
+K07484,NA
+K07485,NA
+K07482,NA
+K07483,NA
+K07480,NA
+K07481,NA
+K08674,Enzymes [BR:ko01000]
+K10670,Enzymes [BR:ko01000]
+K10673,KEGG modules [BR:ko00002]
+K02282,Secretion system [BR:ko02044]
+K10677,Enzymes [BR:ko01000]
+K07489,NA
+K15001,Enzymes [BR:ko01000]
+K10503,Ubiquitin system [BR:ko04121]
+K15003,Enzymes [BR:ko01000]
+K00597,Enzymes [BR:ko01000]
+K00596,Enzymes [BR:ko01000]
+K00599,Enzymes [BR:ko01000]
+K00598,Enzymes [BR:ko01000]
+K15318,Polyketide biosynthesis proteins [BR:ko01008]
+K00063,Enzymes [BR:ko01000]
+K11059,Bacterial toxins [BR:ko02042]
+K03286,Transporters [BR:ko02000]
+K09939,NA
+K08721,KEGG modules [BR:ko00002]
+K09949,NA
+K01288,Enzymes [BR:ko01000]
+K07009,NA
+K03665,Ribosome biogenesis [BR:ko03009]
+K07002,NA
+K07003,NA
+K07000,NA
+K07001,NA
+K07006,NA
+K07007,NA
+K07004,NA
+K07005,NA
+K10077,Glycosaminoglycan binding proteins [BR:ko00536]
+K05881,Transporters [BR:ko02000]
+K10078,Lectins [BR:ko04091]
+K10275,Ubiquitin system [BR:ko04121]
+K10276,Enzymes [BR:ko01000]
+K10271,Ubiquitin system [BR:ko04121]
+K10270,Ubiquitin system [BR:ko04121]
+K10273,Ubiquitin system [BR:ko04121]
+K10272,Ubiquitin system [BR:ko04121]
+K10279,Ubiquitin system [BR:ko04121]
+K13636,Transcription factors [BR:ko03000]
+K13637,Transcription factors [BR:ko03000]
+K02168,Transporters [BR:ko02000]
+K08465,G protein-coupled receptors [BR:ko04030]
+K15134,Transcription machinery [BR:ko03021]
+K08466,G protein-coupled receptors [BR:ko04030]
+K08461,G protein-coupled receptors [BR:ko04030]
+K15130,Transcription machinery [BR:ko03021]
+K15645,Polyketide biosynthesis proteins [BR:ko01008]
+K08462,G protein-coupled receptors [BR:ko04030]
+K13026,Enzymes [BR:ko01000]
+K00280,Enzymes [BR:ko01000]
+K00118,Enzymes [BR:ko01000]
+K03402,Transcription factors [BR:ko03000]
+K00842,Enzymes [BR:ko01000]
+K11378,Enzymes [BR:ko01000]
+K01530,Enzymes [BR:ko01000]
+K01531,Enzymes [BR:ko01000]
+K01533,Enzymes [BR:ko01000]
+K01534,Enzymes [BR:ko01000]
+K01536,Enzymes [BR:ko01000]
+K01537,Enzymes [BR:ko01000]
+K15458,Transfer RNA biogenesis [BR:ko03016]
+K10398,Chromosome [BR:ko03036]
+K04484,DNA repair and recombination proteins [BR:ko03400]
+K14191,Enzymes [BR:ko01000]
+K15737,NA
+K15736,Enzymes [BR:ko01000]
+K15735,Transcription factors [BR:ko03000]
+K15733,Enzymes [BR:ko01000]
+K15732,Enzymes [BR:ko01000]
+K14358,Peptidases [BR:ko01002]
+K09181,NA
+K14607,Enzymes [BR:ko01000]
+K14352,Transporters [BR:ko02000]
+K09184,Transcription factors [BR:ko03000]
+K14350,Enzymes [BR:ko01000]
+K14351,Enzymes [BR:ko01000]
+K11985,Enzymes [BR:ko01000]
+K15221,Transcription machinery [BR:ko03021]
+K15220,Transcription machinery [BR:ko03021]
+K15223,Transcription machinery [BR:ko03021]
+K08592,Enzymes [BR:ko01000]
+K15224,Transcription machinery [BR:ko03021]
+K08596,Enzymes [BR:ko01000]
+K01156,Enzymes [BR:ko01000]
+K01405,Enzymes [BR:ko01000]
+K01154,Enzymes [BR:ko01000]
+K01407,Enzymes [BR:ko01000]
+K01400,Enzymes [BR:ko01000]
+K01153,Enzymes [BR:ko01000]
+K01150,Enzymes [BR:ko01000]
+K14998,Mitochondrial biogenesis [BR:ko03029]
+K01409,Enzymes [BR:ko01000]
+K09232,Transcription factors [BR:ko03000]
+K09230,Transcription factors [BR:ko03000]
+K00936,Enzymes [BR:ko01000]
+K09239,Transcription factors [BR:ko03000]
+K09238,Transcription factors [BR:ko03000]
+K05882,Enzymes [BR:ko01000]
+K14389,Transporters [BR:ko02000]
+K05521,Enzymes [BR:ko01000]
+K05520,Enzymes [BR:ko01000]
+K05527,NA
+K12518,Secretion system [BR:ko02044]
+K05524,NA
+K14726,Transporters [BR:ko02000]
+K04985,Cytoskeleton proteins [BR:ko04812]
+K13179,Enzymes [BR:ko01000]
+K02621,Enzymes [BR:ko01000]
+K08284,Transporters [BR:ko02000]
+K08287,Enzymes [BR:ko01000]
+K08286,Enzymes [BR:ko01000]
+K02625,Transporters [BR:ko02000]
+K02624,Transcription factors [BR:ko03000]
+K08282,Enzymes [BR:ko01000]
+K01273,Enzymes [BR:ko01000]
+K15829,NA
+K15828,NA
+K12514,Secretion system [BR:ko02044]
+K07024,NA
+K12515,Secretion system [BR:ko02044]
+K01271,Enzymes [BR:ko01000]
+K03578,Enzymes [BR:ko01000]
+K03579,Enzymes [BR:ko01000]
+K03576,Transcription factors [BR:ko03000]
+K03577,KEGG modules [BR:ko00002]
+K03574,Enzymes [BR:ko01000]
+K05779,KEGG modules [BR:ko00002]
+K02574,NA
+K03570,Chromosome [BR:ko03036]
+K03571,Chromosome [BR:ko03036]
+K12510,Secretion system [BR:ko02044]
+K15259,Enzymes [BR:ko01000]
+K12511,Secretion system [BR:ko02044]
+K03972,NA
+K03973,Transcription factors [BR:ko03000]
+K03970,Prokaryotic defense system [BR:ko02048]
+K03971,NA
+K03976,Enzymes [BR:ko01000]
+K03977,Ribosome biogenesis [BR:ko03009]
+K03974,Transcription factors [BR:ko03000]
+K03975,NA
+K09527,Chaperones and folding catalysts [BR:ko03110]
+K13172,Spliceosome [BR:ko03041]
+K03978,Chromosome [BR:ko03036]
+K03979,Enzymes [BR:ko01000]
+K14778,Enzymes [BR:ko01000]
+K14779,Enzymes [BR:ko01000]
+K09520,Chaperones and folding catalysts [BR:ko03110]
+K02199,Chaperones and folding catalysts [BR:ko03110]
+K02198,Transporters [BR:ko02000]
+K08138,Transporters [BR:ko02000]
+K08137,Transporters [BR:ko02000]
+K02192,NA
+K08134,Chaperones and folding catalysts [BR:ko03110]
+K02197,NA
+K03650,Enzymes [BR:ko01000]
+K08130,Proteoglycans [BR:ko00535]
+K13195,Spliceosome [BR:ko03041]
+K03718,Transcription factors [BR:ko03000]
+K03719,Transcription factors [BR:ko03000]
+K13191,Transcription machinery [BR:ko03021]
+K13192,Protein phosphatases and associated proteins [BR:ko01009]
+K03712,Transcription factors [BR:ko03000]
+K03713,Transcription factors [BR:ko03000]
+K02379,NA
+K03711,Transcription factors [BR:ko03000]
+K13199,Spliceosome [BR:ko03041]
+K03717,Transcription factors [BR:ko03000]
+K00046,Enzymes [BR:ko01000]
+K09422,Transcription factors [BR:ko03000]
+K09423,Transcription factors [BR:ko03000]
+K03488,Transcription factors [BR:ko03000]
+K03489,Transcription factors [BR:ko03000]
+K09426,Transcription factors [BR:ko03000]
+K02173,NA
+K12290,Secretion system [BR:ko02044]
+K03482,Transcription factors [BR:ko03000]
+K03483,Transcription factors [BR:ko03000]
+K03480,Transcription factors [BR:ko03000]
+K03481,Transcription factors [BR:ko03000]
+K03486,Transcription factors [BR:ko03000]
+K03487,Transcription factors [BR:ko03000]
+K03484,Transcription factors [BR:ko03000]
+K03658,Enzymes [BR:ko01000]
+K06416,NA
+K06945,NA
+K12262,NA
+K14611,Transporters [BR:ko02000]
+K12684,Enzymes [BR:ko01000]
+K11285,Chromosome [BR:ko03036]
+K07128,NA
+K02525,Transcription factors [BR:ko03000]
+K06947,Enzymes [BR:ko01000]
+K02283,Secretion system [BR:ko02044]
+K12297,Enzymes [BR:ko01000]
+K03808,NA
+K02280,Secretion system [BR:ko02044]
+K03806,NA
+K06412,NA
+K03804,Chromosome [BR:ko03036]
+K03805,Chaperones and folding catalysts [BR:ko03110]
+K03802,Enzymes [BR:ko01000]
+K03803,Transcription machinery [BR:ko03021]
+K06413,NA
+K03626,NA
+K03627,NA
+K03624,Transcription machinery [BR:ko03021]
+K03625,Transcription machinery [BR:ko03021]
+K08865,Enzymes [BR:ko01000]
+K06410,NA
+K08867,Enzymes [BR:ko01000]
+K11923,Transcription factors [BR:ko03000]
+K08869,Protein kinases [BR:ko01001]
+K07148,NA
+K03395,Enzymes [BR:ko01000]
+K06298,NA
+K06299,NA
+K06294,NA
+K06295,NA
+K06296,Transporters [BR:ko02000]
+K06297,NA
+K06290,NA
+K06291,NA
+K06292,Transporters [BR:ko02000]
+K06293,NA
+K11931,Enzymes [BR:ko01000]
+K11930,NA
+K11933,Enzymes [BR:ko01000]
+K11932,NA
+K11935,NA
+K11934,Transporters [BR:ko02000]
+K11937,NA
+K11936,Enzymes [BR:ko01000]
+K11939,Transporters [BR:ko02000]
+K11938,Enzymes [BR:ko01000]
+K09735,NA
+K09732,NA
+K09730,NA
+K07142,Enzymes [BR:ko01000]
+K13205,Spliceosome [BR:ko03041]
+K13207,Spliceosome [BR:ko03041]
+K13206,Spliceosome [BR:ko03041]
+K13201,Messenger RNA biogenesis [BR:ko03019]
+K06418,NA
+K07140,NA
+K13208,Messenger RNA biogenesis [BR:ko03019]
+K11929,Transporters [BR:ko02000]
+K02426,NA
+K07470,NA
+K12007,Enzymes [BR:ko01000]
+K11210,Enzymes [BR:ko01000]
+K10624,Enzymes [BR:ko01000]
+K07271,Enzymes [BR:ko01000]
+K07270,NA
+K07273,NA
+K07272,Enzymes [BR:ko01000]
+K07275,NA
+K07274,Transporters [BR:ko02000]
+K07277,Mitochondrial biogenesis [BR:ko03029]
+K07276,NA
+K07279,Transporters [BR:ko02000]
+K07278,Transporters [BR:ko02000]
+K07016,Prokaryotic defense system [BR:ko02048]
+K09888,Chromosome [BR:ko03036]
+K09889,Ribosome biogenesis [BR:ko03009]
+K09707,NA
+K12979,Enzymes [BR:ko01000]
+K12203,Secretion system [BR:ko02044]
+K09884,Transporters [BR:ko02000]
+K09885,Transporters [BR:ko02000]
+K12136,Enzymes [BR:ko01000]
+K12137,Enzymes [BR:ko01000]
+K06610,Transporters [BR:ko02000]
+K12206,Secretion system [BR:ko02044]
+K11730,NA
+K12138,Enzymes [BR:ko01000]
+K12139,Enzymes [BR:ko01000]
+K06616,Enzymes [BR:ko01000]
+K11734,Transporters [BR:ko02000]
+K10468,Ubiquitin system [BR:ko04121]
+K10469,Ubiquitin system [BR:ko04121]
+K06872,NA
+K11446,Enzymes [BR:ko01000]
+K11117,DNA replication proteins [BR:ko03032]
+K12204,Secretion system [BR:ko02044]
+K06876,NA
+K11442,Enzymes [BR:ko01000]
+K10460,Ubiquitin system [BR:ko04121]
+K10461,Ubiquitin system [BR:ko04121]
+K11119,DNA replication proteins [BR:ko03032]
+K11118,DNA replication proteins [BR:ko03032]
+K10464,Ubiquitin system [BR:ko04121]
+K10465,Ubiquitin system [BR:ko04121]
+K10466,Ubiquitin system [BR:ko04121]
+K10467,Ubiquitin system [BR:ko04121]
+K00612,Enzymes [BR:ko01000]
+K02482,Enzymes [BR:ko01000]
+K08177,Transporters [BR:ko02000]
+K10629,Enzymes [BR:ko01000]
+K07856,GTP-binding proteins [BR:ko04031]
+K02484,Enzymes [BR:ko01000]
+K08608,Enzymes [BR:ko01000]
+K07479,NA
+K07478,NA
+K15116,Transporters [BR:ko02000]
+K10864,DNA repair and recombination proteins [BR:ko03400]
+K08600,Enzymes [BR:ko01000]
+K08603,Enzymes [BR:ko01000]
+K08602,Enzymes [BR:ko01000]
+K07476,NA
+K10862,Enzymes [BR:ko01000]
+K10863,Enzymes [BR:ko01000]
+K09956,NA
+K11848,Enzymes [BR:ko01000]
+K09954,NA
+K09955,NA
+K09952,Enzymes [BR:ko01000]
+K09953,Lipopolysaccharide biosynthesis proteins [BR:ko01005]
+K11021,Bacterial toxins [BR:ko02042]
+K09951,Prokaryotic defense system [BR:ko02048]
+K11840,Enzymes [BR:ko01000]
+K11843,Enzymes [BR:ko01000]
+K11842,Enzymes [BR:ko01000]
+K09200,Transcription factors [BR:ko03000]
+K09958,NA
+K10513,Ubiquitin system [BR:ko04121]
+K07495,NA
+K07494,NA
+K07497,NA
+K07496,NA
+K07491,NA
+K07490,Transporters [BR:ko02000]
+K07493,NA
+K07492,NA
+K07499,NA
+K07498,NA
+K09207,Transcription factors [BR:ko03000]
+K11209,Enzymes [BR:ko01000]
+K11208,NA
+K15034,Translation factors [BR:ko03012]
+K11203,KEGG modules [BR:ko00002]
+K11202,KEGG modules [BR:ko00002]
+K11201,KEGG modules [BR:ko00002]
+K10254,Enzymes [BR:ko01000]
+K13300,NA
+K12032,Ubiquitin system [BR:ko04121]
+K14813,Enzymes [BR:ko01000]
+K07019,NA
+K07018,NA
+K14812,Enzymes [BR:ko01000]
+K15119,Transporters [BR:ko02000]
+K07871,GTP-binding proteins [BR:ko04031]
+K07011,NA
+K07010,Peptidases [BR:ko01002]
+K07013,NA
+K07012,Enzymes [BR:ko01000]
+K07015,NA
+K15415,Polyketide biosynthesis proteins [BR:ko01008]
+K07017,NA
+K07878,GTP-binding proteins [BR:ko04031]
+K05793,NA
+K09788,NA
+K04281,NA
+K08073,Enzymes [BR:ko01000]
+K15108,Transporters [BR:ko02000]
+K15109,Transporters [BR:ko02000]
+K08071,Enzymes [BR:ko01000]
+K15100,Transporters [BR:ko02000]
+K05516,Chaperones and folding catalysts [BR:ko03110]
+K15102,Transporters [BR:ko02000]
+K15104,Transporters [BR:ko02000]
+K15105,Transporters [BR:ko02000]
+K05517,Transporters [BR:ko02000]
+K10644,Enzymes [BR:ko01000]
+K10645,Enzymes [BR:ko01000]
+K10641,Enzymes [BR:ko01000]
+K10642,Enzymes [BR:ko01000]
+K00433,Enzymes [BR:ko01000]
+K00436,Enzymes [BR:ko01000]
+K00437,Enzymes [BR:ko01000]
+K15691,Enzymes [BR:ko01000]
+K15693,Ubiquitin system [BR:ko04121]
+K07472,NA
+K07265,NA
+K06379,Enzymes [BR:ko01000]
+K07183,NA
+K14189,Enzymes [BR:ko01000]
+K13093,Spliceosome [BR:ko03041]
+K15050,Mitochondrial biogenesis [BR:ko03029]
+K07182,NA
+K13094,Spliceosome [BR:ko03041]
+K15051,NA
+K13095,Spliceosome [BR:ko03041]
+K15743,Enzymes [BR:ko01000]
+K15216,Transcription machinery [BR:ko03021]
+K07180,NA
+K15210,Transcription machinery [BR:ko03021]
+K14348,Transcription factors [BR:ko03000]
+K15212,Transcription machinery [BR:ko03021]
+K07731,Transcription factors [BR:ko03000]
+K14613,Transporters [BR:ko02000]
+K14347,Transporters [BR:ko02000]
+K14453,Transporters [BR:ko02000]
+K15218,Transcription machinery [BR:ko03021]
+K15219,Transcription machinery [BR:ko03021]
+K14343,Transporters [BR:ko02000]
+K13918,NA
+K01238,Enzymes [BR:ko01000]
+K08675,Enzymes [BR:ko01000]
+K01894,Enzymes [BR:ko01000]
+K04601,G protein-coupled receptors [BR:ko04030]
+K04600,G protein-coupled receptors [BR:ko04030]
+K01235,Enzymes [BR:ko01000]
+K04602,G protein-coupled receptors [BR:ko04030]
+K01413,Enzymes [BR:ko01000]
+K01412,Enzymes [BR:ko01000]
+K01411,Enzymes [BR:ko01000]
+K01410,Enzymes [BR:ko01000]
+K01417,Enzymes [BR:ko01000]
+K01416,Enzymes [BR:ko01000]
+K01415,Enzymes [BR:ko01000]
+K01414,Enzymes [BR:ko01000]
+K01419,Enzymes [BR:ko01000]
+K06216,Transporters [BR:ko02000]
+K06217,NA
+K09930,NA
+K03441,Transporters [BR:ko02000]
+K00947,NA
+K09931,NA
+K06212,Transporters [BR:ko02000]
+K01090,Enzymes [BR:ko01000]
+K09933,Peptidases [BR:ko01002]
+K01098,Enzymes [BR:ko01000]
+K01526,Enzymes [BR:ko01000]
+K15368,NA
+K15369,NA
+K02616,Transcription factors [BR:ko03000]
+K02617,NA
+K11066,Enzymes [BR:ko01000]
+K03569,Chromosome [BR:ko03036]
+K03568,Peptidases [BR:ko01002]
+K15314,Polyketide biosynthesis proteins [BR:ko01008]
+K03565,DNA repair and recombination proteins [BR:ko03400]
+K03564,Enzymes [BR:ko01000]
+K03567,Transcription factors [BR:ko03000]
+K03566,Transcription factors [BR:ko03000]
+K03561,Transporters [BR:ko02000]
+K03560,Transporters [BR:ko02000]
+K03562,Transporters [BR:ko02000]
+K10297,Ubiquitin system [BR:ko04121]
+K07821,Transporters [BR:ko02000]
+K14763,Ribosome biogenesis [BR:ko03009]
+K14762,Ribosome biogenesis [BR:ko03009]
+K14761,Ribosome biogenesis [BR:ko03009]
+K14767,Ribosome biogenesis [BR:ko03009]
+K14766,Ribosome biogenesis [BR:ko03009]
+K14765,Ribosome biogenesis [BR:ko03009]
+K14764,Ribosome biogenesis [BR:ko03009]
+K09552,Enzymes [BR:ko01000]
+K15356,Transporters [BR:ko02000]
+K14769,Ribosome biogenesis [BR:ko03009]
+K06365,Enzymes [BR:ko01000]
+K14165,Enzymes [BR:ko01000]
+K08148,Transporters [BR:ko02000]
+K08149,Transporters [BR:ko02000]
+K14161,DNA repair and recombination proteins [BR:ko03400]
+K14160,DNA repair and recombination proteins [BR:ko03400]
+K14162,Enzymes [BR:ko01000]
+K08142,Transporters [BR:ko02000]
+K13693,Enzymes [BR:ko01000]
+K08141,Transporters [BR:ko02000]
+K08146,Transporters [BR:ko02000]
+K08147,Transporters [BR:ko02000]
+K08144,Transporters [BR:ko02000]
+K08145,Transporters [BR:ko02000]
+K03709,Transcription factors [BR:ko03000]
+K03708,Transcription factors [BR:ko03000]
+K03700,DNA repair and recombination proteins [BR:ko03400]
+K02385,Bacterial motility proteins [BR:ko02035]
+K03705,Transcription factors [BR:ko03000]
+K03704,Transcription factors [BR:ko03000]
+K02380,NA
+K03706,Transcription factors [BR:ko03000]
+K03499,Transporters [BR:ko02000]
+K03498,Transporters [BR:ko02000]
+K13141,Spliceosome [BR:ko03041]
+K09434,Transcription factors [BR:ko03000]
+K03491,Transcription factors [BR:ko03000]
+K03490,Transcription factors [BR:ko03000]
+K03493,Transcription factors [BR:ko03000]
+K03492,Transcription factors [BR:ko03000]
+K03495,Transfer RNA biogenesis [BR:ko03016]
+K03497,Transcription factors [BR:ko03000]
+K13411,Enzymes [BR:ko01000]
+K09008,Mitochondrial biogenesis [BR:ko03029]
+K06194,NA
+K14270,Amino acid related enzymes [BR:ko01007]
+K06192,NA
+K07555,Mitochondrial biogenesis [BR:ko03029]
+K03819,Enzymes [BR:ko01000]
+K06191,NA
+K03817,Enzymes [BR:ko01000]
+K03811,Transporters [BR:ko02000]
+K03810,NA
+K03813,Enzymes [BR:ko01000]
+K03812,Ribosome biogenesis [BR:ko03009]
+K03634,NA
+K03631,DNA repair and recombination proteins [BR:ko03400]
+K03630,NA
+K03633,Chromosome [BR:ko03036]
+K03632,Chromosome [BR:ko03036]
+K08855,Enzymes [BR:ko01000]
+K08856,Enzymes [BR:ko01000]
+K08857,Enzymes [BR:ko01000]
+K08850,Enzymes [BR:ko01000]
+K03638,NA
+K13419,Enzymes [BR:ko01000]
+K10028,Enzymes [BR:ko01000]
+K06289,Transporters [BR:ko02000]
+K06288,NA
+K06283,Transcription factors [BR:ko03000]
+K11452,Ubiquitin system [BR:ko04121]
+K12942,NA
+K06287,NA
+K06286,Chromosome [BR:ko03036]
+K06285,Transcription factors [BR:ko03000]
+K06284,Transcription factors [BR:ko03000]
+K06983,NA
+K06518,Transporters [BR:ko02000]
+K11908,Transcription factors [BR:ko03000]
+K06048,Enzymes [BR:ko01000]
+K12034,Enzymes [BR:ko01000]
+K09724,NA
+K09727,NA
+K09726,NA
+K09721,NA
+K09720,NA
+K09723,DNA replication proteins [BR:ko03032]
+K11062,Bacterial toxins [BR:ko02042]
+K12346,Transporters [BR:ko02000]
+K14808,Enzymes [BR:ko01000]
+K13236,Enzymes [BR:ko01000]
+K03929,Enzymes [BR:ko01000]
+K11515,Chromosome [BR:ko03036]
+K02431,Enzymes [BR:ko01000]
+K03534,Enzymes [BR:ko01000]
+K06849,Cell adhesion molecules and their ligands [BR:ko04516]
+K11699,Enzymes [BR:ko01000]
+K13164,Spliceosome [BR:ko03041]
+K04933,Ion channels [BR:ko04040]
+K09896,NA
+K04931,Ion channels [BR:ko04040]
+K09894,NA
+K09893,Messenger RNA biogenesis [BR:ko03019]
+K09892,Chromosome [BR:ko03036]
+K04935,Ion channels [BR:ko04040]
+K04934,Ion channels [BR:ko04040]
+K07244,Transporters [BR:ko02000]
+K07245,Transporters [BR:ko02000]
+K03034,Proteasome [BR:ko03051]
+K07240,Transporters [BR:ko02000]
+K07241,Transporters [BR:ko02000]
+K09899,NA
+K09898,NA
+K06607,Enzymes [BR:ko01000]
+K08671,Enzymes [BR:ko01000]
+K06605,NA
+K14724,Transporters [BR:ko02000]
+K06603,Bacterial motility proteins [BR:ko02035]
+K06602,Bacterial motility proteins [BR:ko02035]
+K06601,Bacterial motility proteins [BR:ko02035]
+K09790,NA
+K11060,Bacterial toxins [BR:ko02042]
+K13165,Spliceosome [BR:ko03041]
+K06609,Transporters [BR:ko02000]
+K06608,Transcription factors [BR:ko03000]
+K03923,NA
+K08672,Enzymes [BR:ko01000]
+K01269,Enzymes [BR:ko01000]
+K06438,NA
+K11474,Transcription factors [BR:ko03000]
+K11475,Transcription factors [BR:ko03000]
+K11476,Transcription factors [BR:ko03000]
+K03744,NA
+K06867,NA
+K06866,NA
+K06865,NA
+K06864,NA
+K06862,NA
+K06860,NA
+K08635,Peptidases [BR:ko01002]
+K08637,Enzymes [BR:ko01000]
+K08630,Enzymes [BR:ko01000]
+K08632,Enzymes [BR:ko01000]
+K08633,Enzymes [BR:ko01000]
+K06905,NA
+K08638,Enzymes [BR:ko01000]
+K08673,Enzymes [BR:ko01000]
+K06439,NA
+K11874,Enzymes [BR:ko01000]
+K08840,Enzymes [BR:ko01000]
+K11870,Enzymes [BR:ko01000]
+K11871,Enzymes [BR:ko01000]
+K11872,Enzymes [BR:ko01000]
+K11873,Enzymes [BR:ko01000]
+K11879,Proteasome [BR:ko03051]
+K09945,NA
+K11738,Transporters [BR:ko02000]
+K07398,NA
+K07399,NA
+K09940,NA
+K11054,NA
+K11055,NA
+K07392,NA
+K07393,NA
+K07390,Chaperones and folding catalysts [BR:ko03110]
+K07391,NA
+K07396,NA
+K07397,NA
+K07394,NA
+K07395,NA
+K08995,NA
+K07506,Transcription factors [BR:ko03000]
+K15594,Enzymes [BR:ko01000]
+K10899,Enzymes [BR:ko01000]
+K07505,NA
+K03667,Chaperones and folding catalysts [BR:ko03110]
+K15029,Translation factors [BR:ko03012]
+K08996,NA
+K09650,Enzymes [BR:ko01000]
+K11273,Enzymes [BR:ko01000]
+K11270,Chromosome [BR:ko03036]
+K11271,Chromosome [BR:ko03036]
+K15027,Translation factors [BR:ko03012]
+K15026,Messenger RNA biogenesis [BR:ko03019]
+K11274,Chromosome [BR:ko03036]
+K08990,NA
+K08700,NA
+K07025,NA
+K07027,NA
+K07020,NA
+K07501,NA
+K08706,Transcription factors [BR:ko03000]
+K07023,NA
+K07500,NA
+K07028,NA
+K02348,NA
+K06005,Enzymes [BR:ko01000]
+K10476,Ubiquitin system [BR:ko04121]
+K02349,Enzymes [BR:ko01000]
+K10473,Ubiquitin system [BR:ko04121]
+K07807,NA
+K10471,Ubiquitin system [BR:ko04121]
+K08676,Enzymes [BR:ko01000]
+K09776,NA
+K10338,Ubiquitin system [BR:ko04121]
+K07101,NA
+K09775,NA
+K11306,Enzymes [BR:ko01000]
+K11307,Enzymes [BR:ko01000]
+K15115,Transporters [BR:ko02000]
+K15114,Transporters [BR:ko02000]
+K15113,Mitochondrial biogenesis [BR:ko03029]
+K08677,Peptidases [BR:ko01002]
+K15110,Transporters [BR:ko02000]
+K06998,Enzymes [BR:ko01000]
+K09796,Chaperones and folding catalysts [BR:ko03110]
+K11308,Enzymes [BR:ko01000]
+K15118,Transporters [BR:ko02000]
+K09800,Transporters [BR:ko02000]
+K09801,NA
+K06157,Transporters [BR:ko02000]
+K09802,NA
+K15381,Transporters [BR:ko02000]
+K02347,DNA repair and recombination proteins [BR:ko03400]
+K07730,Transcription factors [BR:ko03000]
+K00428,Enzymes [BR:ko01000]
+K07733,Transcription factors [BR:ko03000]
+K07734,Transcription factors [BR:ko03000]
+K07735,Transcription factors [BR:ko03000]
+K07736,Transcription factors [BR:ko03000]
+K05889,Enzymes [BR:ko01000]
+K07738,Transcription factors [BR:ko03000]
+K07739,Enzymes [BR:ko01000]
+K06154,Transcription factors [BR:ko03000]
+K01073,Enzymes [BR:ko01000]
+K00427,Transporters [BR:ko02000]
+K09805,NA
+K01396,Enzymes [BR:ko01000]
+K01390,Enzymes [BR:ko01000]
+K09806,NA
+K15687,Enzymes [BR:ko01000]
+K11184,NA
+K09807,NA
+K06011,Enzymes [BR:ko01000]
+K06441,Enzymes [BR:ko01000]
+K03694,Chaperones and folding catalysts [BR:ko03110]
+K09809,Enzymes [BR:ko01000]
+K09798,NA
+K12149,DNA repair and recombination proteins [BR:ko03400]
+K03692,Enzymes [BR:ko01000]
+K15202,Transcription machinery [BR:ko03021]
+K15201,Transcription machinery [BR:ko03021]
+K15200,Transcription machinery [BR:ko03021]
+K15207,Transcription machinery [BR:ko03021]
+K05896,Chromosome [BR:ko03036]
+K05727,NA
+K15204,Transcription machinery [BR:ko03021]
+K15208,Transcription machinery [BR:ko03021]
+K00555,Enzymes [BR:ko01000]
+K00554,Enzymes [BR:ko01000]
+K00557,Enzymes [BR:ko01000]
+K00556,Enzymes [BR:ko01000]
+K09799,NA
+K09649,Enzymes [BR:ko01000]
+K13617,Enzymes [BR:ko01000]
+K01170,Enzymes [BR:ko01000]
+K01172,Enzymes [BR:ko01000]
+K04413,Enzymes [BR:ko01000]
+K01174,Enzymes [BR:ko01000]
+K01175,Enzymes [BR:ko01000]
+K04417,KEGG modules [BR:ko00002]
+K12512,Secretion system [BR:ko02044]
+K13615,Lipid biosynthesis proteins [BR:ko01004]
+K14972,Chromosome [BR:ko03036]
+K14971,Chromosome [BR:ko03036]
+K14086,NA
+K14087,NA
+K14088,NA
+K14089,NA
+K13751,Transporters [BR:ko02000]
+K13754,Transporters [BR:ko02000]
+K12513,Secretion system [BR:ko02044]
+K09093,Transcription factors [BR:ko03000]
+K14723,Transporters [BR:ko02000]
+K04255,G protein-coupled receptors [BR:ko04030]
+K12410,Enzymes [BR:ko01000]
+K06197,NA
+K14441,Enzymes [BR:ko01000]
+K10293,Ubiquitin system [BR:ko04121]
+K02601,Transcription machinery [BR:ko03021]
+K02600,Transcription machinery [BR:ko03021]
+K10333,Ubiquitin system [BR:ko04121]
+K13178,Enzymes [BR:ko01000]
+K02972,Ribosome biogenesis [BR:ko03009]
+K03558,NA
+K07135,NA
+K03731,Enzymes [BR:ko01000]
+K02572,NA
+K03552,DNA repair and recombination proteins [BR:ko03400]
+K03554,DNA repair and recombination proteins [BR:ko03400]
+K03556,Transcription factors [BR:ko03000]
+K03557,Transcription factors [BR:ko03000]
+K12989,Enzymes [BR:ko01000]
+K07488,NA
+K11736,Transporters [BR:ko02000]
+K15471,Enzymes [BR:ko01000]
+K13357,Enzymes [BR:ko01000]
+K09548,Chaperones and folding catalysts [BR:ko03110]
+K06894,NA
+K14798,Ribosome biogenesis [BR:ko03009]
+K14799,Ribosome biogenesis [BR:ko03009]
+K14796,Ribosome biogenesis [BR:ko03009]
+K14797,Ribosome biogenesis [BR:ko03009]
+K14794,Ribosome biogenesis [BR:ko03009]
+K14795,Ribosome biogenesis [BR:ko03009]
+K14792,Ribosome biogenesis [BR:ko03009]
+K14793,Ribosome biogenesis [BR:ko03009]
+K14790,Ribosome biogenesis [BR:ko03009]
+K14791,Ribosome biogenesis [BR:ko03009]
+K13689,Enzymes [BR:ko01000]
+K13688,Enzymes [BR:ko01000]
+K08151,KEGG modules [BR:ko00002]
+K13680,Enzymes [BR:ko01000]
+K13683,Enzymes [BR:ko01000]
+K13682,Enzymes [BR:ko01000]
+K13684,Enzymes [BR:ko01000]
+K08157,Transporters [BR:ko02000]
+K08156,Transporters [BR:ko02000]
+K11216,Enzymes [BR:ko01000]
+K02395,Bacterial motility proteins [BR:ko02035]
+K15268,Transporters [BR:ko02000]
+K09409,Transcription factors [BR:ko03000]
+K11655,Chromosome [BR:ko03036]
+K09404,Transcription factors [BR:ko03000]
+K05794,NA
+K13531,Enzymes [BR:ko01000]
+K13530,Enzymes [BR:ko01000]
+K13678,Enzymes [BR:ko01000]
+K15418,Polyketide biosynthesis proteins [BR:ko01008]
+K10332,Ubiquitin system [BR:ko04121]
+K03828,Enzymes [BR:ko01000]
+K03829,Enzymes [BR:ko01000]
+K01551,Enzymes [BR:ko01000]
+K03820,Enzymes [BR:ko01000]
+K14679,Enzymes [BR:ko01000]
+K03822,Enzymes [BR:ko01000]
+K10369,Cytoskeleton proteins [BR:ko04812]
+K03824,Enzymes [BR:ko01000]
+K03825,Enzymes [BR:ko01000]
+K03826,Enzymes [BR:ko01000]
+K03827,Enzymes [BR:ko01000]
+K03600,NA
+K08848,Enzymes [BR:ko01000]
+K03604,Transcription factors [BR:ko03000]
+K05792,NA
+K03606,NA
+K03607,NA
+K12246,Enzymes [BR:ko01000]
+K03609,Chromosome [BR:ko03036]
+K09991,NA
+K12245,Enzymes [BR:ko01000]
+K12242,Polyketide biosynthesis proteins [BR:ko01008]
+K12243,Transcription factors [BR:ko03000]
+K06952,NA
+K00062,Enzymes [BR:ko01000]
+K06406,NA
+K09718,NA
+K11919,KEGG modules [BR:ko00002]
+K09710,Ribosome biogenesis [BR:ko03009]
+K09711,NA
+K11911,KEGG modules [BR:ko00002]
+K11910,KEGG modules [BR:ko00002]
+K11917,Transcription factors [BR:ko03000]
+K11916,Enzymes [BR:ko01000]
+K09716,Enzymes [BR:ko01000]
+K11914,Transcription factors [BR:ko03000]
+K03734,Enzymes [BR:ko01000]
+K14673,Polyketide biosynthesis proteins [BR:ko01008]
+K03733,Chromosome [BR:ko03036]
+K09537,Chaperones and folding catalysts [BR:ko03110]
+K14672,Polyketide biosynthesis proteins [BR:ko01008]
+K11682,Chromosome [BR:ko03036]
+K11681,Enzymes [BR:ko01000]
+K11680,Chromosome [BR:ko03036]
+K11687,Enzymes [BR:ko01000]
+K11686,Chromosome [BR:ko03036]
+K11685,Chromosome [BR:ko03036]
+K11684,Chromosome [BR:ko03036]
+K12062,Secretion system [BR:ko02044]
+K12063,Secretion system [BR:ko02044]
+K12060,Secretion system [BR:ko02044]
+K12061,Secretion system [BR:ko02044]
+K12066,Secretion system [BR:ko02044]
+K12067,Secretion system [BR:ko02044]
+K12064,Secretion system [BR:ko02044]
+K12065,Secretion system [BR:ko02044]
+K13825,NA
+K07334,NA
+K06380,NA
+K06381,NA
+K06386,NA
+K06387,NA
+K06384,NA
+K07335,NA
+K06388,NA
+K07257,NA
+K07336,Enzymes [BR:ko01000]
+K11374,Transfer RNA biogenesis [BR:ko03016]
+K07254,Enzymes [BR:ko01000]
+K00348,Enzymes [BR:ko01000]
+K11359,Transcription machinery [BR:ko03021]
+K07337,NA
+K07164,NA
+K15032,Translation factors [BR:ko03012]
+K06006,Chaperones and folding catalysts [BR:ko03110]
+K06403,NA
+K07332,Secretion system [BR:ko02044]
+K07161,NA
+K08817,Enzymes [BR:ko01000]
+K08118,Proteoglycans [BR:ko00535]
+K07160,NA
+K06819,Cell adhesion molecules and their ligands [BR:ko04516]
+K11469,Chromosome [BR:ko03036]
+K06812,Cell adhesion molecules and their ligands [BR:ko04516]
+K14946,Spliceosome [BR:ko03041]
+K11465,Chromosome [BR:ko03036]
+K07162,NA
+K06817,Cell adhesion molecules and their ligands [BR:ko04516]
+K08622,Enzymes [BR:ko01000]
+K08621,Enzymes [BR:ko01000]
+K00638,Enzymes [BR:ko01000]
+K08626,Enzymes [BR:ko01000]
+K08625,Enzymes [BR:ko01000]
+K08624,Enzymes [BR:ko01000]
+K15378,Transporters [BR:ko02000]
+K12949,Enzymes [BR:ko01000]
+K00633,Enzymes [BR:ko01000]
+K10290,Ubiquitin system [BR:ko04121]
+K11865,Peptidases [BR:ko01002]
+K06499,Exosome [BR:ko04147]
+K07169,NA
+K11869,Enzymes [BR:ko01000]
+K13442,Enzymes [BR:ko01000]
+K10296,Ubiquitin system [BR:ko04121]
+K07388,NA
+K09973,NA
+K09974,NA
+K09975,NA
+K09976,NA
+K09977,NA
+K09978,NA
+K09979,NA
+K02030,KEGG modules [BR:ko00002]
+K06992,NA
+K07387,Enzymes [BR:ko01000]
+K07386,Enzymes [BR:ko01000]
+K06926,NA
+K06927,Enzymes [BR:ko01000]
+K06924,NA
+K06925,Transfer RNA biogenesis [BR:ko03016]
+K06922,NA
+K01336,Enzymes [BR:ko01000]
+K13694,Peptidases [BR:ko01002]
+K10316,Ubiquitin system [BR:ko04121]
+K10317,Ubiquitin system [BR:ko04121]
+K07186,NA
+K06929,NA
+K11269,Chromosome [BR:ko03036]
+K11268,Enzymes [BR:ko01000]
+K08321,Enzymes [BR:ko01000]
+K11267,Chromosome [BR:ko03036]
+K07033,NA
+K07149,NA
+K07030,NA
+K02497,NA
+K11068,Bacterial toxins [BR:ko02042]
+K07035,NA
+K10854,Enzymes [BR:ko01000]
+K08717,Transporters [BR:ko02000]
+K00701,Enzymes [BR:ko01000]
+K08715,Transporters [BR:ko02000]
+K08714,Transporters [BR:ko02000]
+K08713,Transporters [BR:ko02000]
+K07452,Enzymes [BR:ko01000]
+K10402,Chromosome [BR:ko03036]
+K10400,Cytoskeleton proteins [BR:ko04812]
+K07812,Enzymes [BR:ko01000]
+K10406,Cytoskeleton proteins [BR:ko04812]
+K07814,Two-component system [BR:ko02022]
+K10405,Chromosome [BR:ko03036]
+K06990,Cytoskeleton proteins [BR:ko04812]
+K09362,Transcription factors [BR:ko03000]
+K00091,Enzymes [BR:ko01000]
+K01066,Enzymes [BR:ko01000]
+K07184,NA
+K00098,Enzymes [BR:ko01000]
+K10360,Cytoskeleton proteins [BR:ko04812]
+K11315,Transcription machinery [BR:ko03021]
+K11314,Transcription machinery [BR:ko03021]
+K10972,Transcription factors [BR:ko03000]
+K08436,G protein-coupled receptors [BR:ko04030]
+K08437,G protein-coupled receptors [BR:ko04030]
+K11312,NA
+K12984,Enzymes [BR:ko01000]
+K10649,Ubiquitin system [BR:ko04121]
+K11319,Chromosome [BR:ko03036]
+K15163,Transcription machinery [BR:ko03021]
+K00142,Enzymes [BR:ko01000]
+K02068,KEGG modules [BR:ko00002]
+K09895,NA
+K06409,Transporters [BR:ko02000]
+K10728,DNA replication proteins [BR:ko03032]
+K03190,NA
+K07729,Transcription factors [BR:ko03000]
+K07728,Transcription factors [BR:ko03000]
+K07727,Transcription factors [BR:ko03000]
+K07726,Transcription factors [BR:ko03000]
+K07724,Transcription factors [BR:ko03000]
+K07723,Transcription factors [BR:ko03000]
+K07722,Transcription factors [BR:ko03000]
+K07721,Transcription factors [BR:ko03000]
+K00898,Enzymes [BR:ko01000]
+K04028,NA
+K10463,Ubiquitin system [BR:ko04121]
+K01387,Enzymes [BR:ko01000]
+K01385,Enzymes [BR:ko01000]
+K08853,Enzymes [BR:ko01000]
+K13722,Enzymes [BR:ko01000]
+K09391,Transcription factors [BR:ko03000]
+K00897,Enzymes [BR:ko01000]
+K13720,Enzymes [BR:ko01000]
+K09158,NA
+K09159,Prokaryotic defense system [BR:ko02048]
+K08384,NA
+K09157,NA
+K09154,NA
+K13721,Enzymes [BR:ko01000]
+K09152,NA
+K09153,NA
+K09150,NA
+K07760,KEGG modules [BR:ko00002]
+K08159,Transporters [BR:ko02000]
+K02623,Transcription factors [BR:ko03000]
+K08158,Transporters [BR:ko02000]
+K05715,Enzymes [BR:ko01000]
+K05716,Enzymes [BR:ko01000]
+K15185,Transcription machinery [BR:ko03021]
+K00561,Enzymes [BR:ko01000]
+K00563,Enzymes [BR:ko01000]
+K00564,Enzymes [BR:ko01000]
+K12687,Transporters [BR:ko02000]
+K15562,Enzymes [BR:ko01000]
+K15563,Transcription machinery [BR:ko03021]
+K15560,Transcription machinery [BR:ko03021]
+K15561,Transcription machinery [BR:ko03021]
+K12685,Enzymes [BR:ko01000]
+K00960,Enzymes [BR:ko01000]
+K14968,Chromosome [BR:ko03036]
+K01169,Enzymes [BR:ko01000]
+K15781,Enzymes [BR:ko01000]
+K14965,Chromosome [BR:ko03036]
+K14964,Chromosome [BR:ko03036]
+K14967,Chromosome [BR:ko03036]
+K08017,Cytoskeleton proteins [BR:ko04812]
+K14961,Chromosome [BR:ko03036]
+K14960,Transcription factors [BR:ko03000]
+K14963,Chromosome [BR:ko03036]
+K01160,Enzymes [BR:ko01000]
+K14091,NA
+K14090,NA
+K14093,NA
+K14092,NA
+K14095,NA
+K14094,NA
+K14097,NA
+K08150,Transporters [BR:ko02000]
+K14099,NA
+K15526,Enzymes [BR:ko01000]
+K03608,Chromosome [BR:ko03036]
+K08153,KEGG modules [BR:ko00002]
+K15527,Enzymes [BR:ko01000]
+K07458,Enzymes [BR:ko01000]
+K05778,KEGG modules [BR:ko00002]
+K15289,Transporters [BR:ko02000]
+K08095,Enzymes [BR:ko01000]
+K08154,Transporters [BR:ko02000]
+K12445,Enzymes [BR:ko01000]
+K10769,Enzymes [BR:ko01000]
+K15640,NA
+K02019,Transcription factors [BR:ko03000]
+K05048,Transporters [BR:ko02000]
+K02014,Transporters [BR:ko02000]
+K15646,Enzymes [BR:ko01000]
+K09574,Enzymes [BR:ko01000]
+K09575,Enzymes [BR:ko01000]
+K15165,Transcription machinery [BR:ko03021]
+K09577,Enzymes [BR:ko01000]
+K09570,Enzymes [BR:ko01000]
+K09572,Enzymes [BR:ko01000]
+K03309,NA
+K15644,Polyketide biosynthesis proteins [BR:ko01008]
+K01766,Enzymes [BR:ko01000]
+K08164,Transporters [BR:ko02000]
+K02493,Enzymes [BR:ko01000]
+K08166,Transporters [BR:ko02000]
+K08167,KEGG modules [BR:ko00002]
+K08160,Transporters [BR:ko02000]
+K08161,Transporters [BR:ko02000]
+K08162,Transporters [BR:ko02000]
+K08163,Transporters [BR:ko02000]
+K14784,Ribosome biogenesis [BR:ko03009]
+K02498,NA
+K02499,Chromosome [BR:ko03036]
+K08168,KEGG modules [BR:ko00002]
+K08169,Transporters [BR:ko02000]
+K14783,Ribosome biogenesis [BR:ko03009]
+K14782,Ribosome biogenesis [BR:ko03009]
+K15416,Polyketide biosynthesis proteins [BR:ko01008]
+K15417,Polyketide biosynthesis proteins [BR:ko01008]
+K08364,Transporters [BR:ko02000]
+K08365,Transcription factors [BR:ko03000]
+K08363,Transporters [BR:ko02000]
+K14415,Enzymes [BR:ko01000]
+K14414,Transcription factors [BR:ko03000]
+K08368,Transporters [BR:ko02000]
+K08369,Transporters [BR:ko02000]
+K10457,Ubiquitin system [BR:ko04121]
+K11492,Chromosome [BR:ko03036]
+K03306,NA
+K06332,NA
+K03098,Exosome [BR:ko04147]
+K06331,NA
+K09419,Transcription factors [BR:ko03000]
+K06330,NA
+K03303,Transporters [BR:ko02000]
+K04064,NA
+K06885,NA
+K13177,Enzymes [BR:ko01000]
+K09417,Transcription factors [BR:ko03000]
+K09416,Transcription factors [BR:ko03000]
+K09415,Transcription factors [BR:ko03000]
+K06336,Peptidases [BR:ko01002]
+K03837,Transporters [BR:ko02000]
+K03836,Transporters [BR:ko02000]
+K11941,Enzymes [BR:ko01000]
+K14166,Transporters [BR:ko02000]
+K03833,Translation factors [BR:ko03012]
+K06335,NA
+K03830,Enzymes [BR:ko01000]
+K06886,NA
+K03839,NA
+K03838,Transporters [BR:ko02000]
+K03547,DNA repair and recombination proteins [BR:ko03400]
+K03546,DNA repair and recombination proteins [BR:ko03400]
+K03545,NA
+K13783,Transporters [BR:ko02000]
+K03543,KEGG modules [BR:ko00002]
+K02835,Translation factors [BR:ko03012]
+K02836,Translation factors [BR:ko03012]
+K13140,Spliceosome [BR:ko03041]
+K02838,Translation factors [BR:ko03012]
+K02839,Translation factors [BR:ko03012]
+K04062,NA
+K11498,Protein phosphatases and associated proteins [BR:ko01009]
+K03549,Transporters [BR:ko02000]
+K03548,Transporters [BR:ko02000]
+K00389,NA
+K06338,NA
+K03619,NA
+K03618,NA
+K03617,NA
+K03616,NA
+K03615,NA
+K03614,NA
+K03613,NA
+K03612,NA
+K03611,Chaperones and folding catalysts [BR:ko03110]
+K03610,Chromosome [BR:ko03036]
+K02236,KEGG modules [BR:ko00002]
+K02237,KEGG modules [BR:ko00002]
+K09705,NA
+K09704,NA
+K09703,NA
+K08881,Enzymes [BR:ko01000]
+K09701,NA
+K09700,NA
+K14430,Transporters [BR:ko02000]
+K02238,KEGG modules [BR:ko00002]
+K02239,KEGG modules [BR:ko00002]
+K09918,NA
+K12072,Secretion system [BR:ko02044]
+K03722,Enzymes [BR:ko01000]
+K03721,Transcription factors [BR:ko03000]
+K03720,Transcription factors [BR:ko03000]
+K03727,Enzymes [BR:ko01000]
+K03726,Enzymes [BR:ko01000]
+K03725,Enzymes [BR:ko01000]
+K03724,Enzymes [BR:ko01000]
+K13252,Enzymes [BR:ko01000]
+K06382,Enzymes [BR:ko01000]
+K13256,NA
+K13254,Enzymes [BR:ko01000]
+K13255,NA
+K12078,Secretion system [BR:ko02044]
+K08941,KEGG modules [BR:ko00002]
+K11676,Chromosome [BR:ko03036]
+K11677,Chromosome [BR:ko03036]
+K08948,Photosynthesis proteins [BR:ko00194]
+K11675,Chromosome [BR:ko03036]
+K11672,Chromosome [BR:ko03036]
+K11673,Chromosome [BR:ko03036]
+K11671,Chromosome [BR:ko03036]
+K06391,NA
+K06390,NA
+K06393,NA
+K06392,NA
+K06395,NA
+K06394,NA
+K06397,NA
+K06396,NA
+K06399,Enzymes [BR:ko01000]
+K06398,NA
+K11061,Bacterial toxins [BR:ko02042]
+K03057,NA
+K09911,NA
+K10378,Cytoskeleton proteins [BR:ko04812]
+K12048,Secretion system [BR:ko02044]
+K11049,NA
+K09917,NA
+K06222,Enzymes [BR:ko01000]
+K05519,Transcription factors [BR:ko03000]
+K11065,Enzymes [BR:ko01000]
+K10300,Enzymes [BR:ko01000]
+K05799,Transcription factors [BR:ko03000]
+K11064,NA
+K11535,Transporters [BR:ko02000]
+K10379,Cytoskeleton proteins [BR:ko04812]
+K06901,Transporters [BR:ko02000]
+K11412,Enzymes [BR:ko01000]
+K12678,Transporters [BR:ko02000]
+K06804,Cell adhesion molecules and their ligands [BR:ko04516]
+K11414,Enzymes [BR:ko01000]
+K11415,Enzymes [BR:ko01000]
+K11789,Ubiquitin system [BR:ko04121]
+K06904,NA
+K11786,Enzymes [BR:ko01000]
+K08656,Enzymes [BR:ko01000]
+K02553,Messenger RNA biogenesis [BR:ko03019]
+K08892,Enzymes [BR:ko01000]
+K08894,Enzymes [BR:ko01000]
+K11898,Secretion system [BR:ko02044]
+K08897,Enzymes [BR:ko01000]
+K11896,KEGG modules [BR:ko00002]
+K11897,KEGG modules [BR:ko00002]
+K11894,Secretion system [BR:ko02044]
+K11895,KEGG modules [BR:ko00002]
+K11893,KEGG modules [BR:ko00002]
+K11890,Secretion system [BR:ko02044]
+K06908,NA
+K09702,NA
+K02550,Transporters [BR:ko02000]
+K09968,NA
+K09967,NA
+K06714,Transcription factors [BR:ko03000]
+K03090,Transcription machinery [BR:ko03021]
+K09964,NA
+K09963,NA
+K09962,NA
+K09961,NA
+K09960,NA
+K06935,NA
+K06934,NA
+K06937,Enzymes [BR:ko01000]
+K06936,NA
+K06931,NA
+K06930,NA
+K06933,NA
+K06932,Enzymes [BR:ko01000]
+K10307,Ubiquitin system [BR:ko04121]
+K10306,Ubiquitin system [BR:ko04121]
+K06939,NA
+K06938,NA
+K00713,Enzymes [BR:ko01000]
+K00712,Enzymes [BR:ko01000]
+K02558,Enzymes [BR:ko01000]
+K15731,Enzymes [BR:ko01000]
+K14709,Transporters [BR:ko02000]
+K14708,Transporters [BR:ko02000]
+K07280,NA
+K07282,NA
+K07283,NA
+K07284,Enzymes [BR:ko01000]
+K07285,NA
+K07286,NA
+K07287,Transporters [BR:ko02000]
+K07288,NA
+K07289,NA
+K08805,Enzymes [BR:ko01000]
+K07533,Enzymes [BR:ko01000]
+K07822,Secretion system [BR:ko02044]
+K09778,NA
+K09185,Transcription factors [BR:ko03000]
+K00085,Enzymes [BR:ko01000]
+K11320,Enzymes [BR:ko01000]
+K11321,Chromosome [BR:ko03036]
+K11322,Chromosome [BR:ko03036]
+K11323,Enzymes [BR:ko01000]
+K11324,Chromosome [BR:ko03036]
+K11325,NA
+K15177,Transcription machinery [BR:ko03021]
+K15176,Transcription machinery [BR:ko03021]
+K15179,Transcription machinery [BR:ko03021]
+K15178,Transcription machinery [BR:ko03021]
+K15738,Transporters [BR:ko02000]
+K11120,DNA replication proteins [BR:ko03032]
+K03605,Enzymes [BR:ko01000]
+K00153,Enzymes [BR:ko01000]
+K00154,Enzymes [BR:ko01000]
+K05910,Enzymes [BR:ko01000]
+K01973,Enzymes [BR:ko01000]
+K01974,Enzymes [BR:ko01000]
+K01975,Enzymes [BR:ko01000]
+K05919,Enzymes [BR:ko01000]
+K14996,Transporters [BR:ko02000]
+K08843,Enzymes [BR:ko01000]
+K07752,Enzymes [BR:ko01000]
+K07757,Enzymes [BR:ko01000]
+K07755,Enzymes [BR:ko01000]
+K07114,Transporters [BR:ko02000]
+K09388,NA
+K07443,NA
+K01376,Enzymes [BR:ko01000]
+K09380,Transcription factors [BR:ko03000]
+K01372,Enzymes [BR:ko01000]
+K09386,NA
+K09384,NA
+K01224,Enzymes [BR:ko01000]
+K08399,G protein-coupled receptors [BR:ko04030]
+K10834,Enzymes [BR:ko01000]
+K10121,KEGG modules [BR:ko00002]
+K10120,KEGG modules [BR:ko00002]
+K10122,KEGG modules [BR:ko00002]
+K09145,NA
+K09144,NA
+K09146,NA
+K09141,NA
+K09140,Ribosome biogenesis [BR:ko03009]
+K09143,NA
+K09142,NA
+K04652,Chaperones and folding catalysts [BR:ko03110]
+K04653,NA
+K15222,Transcription machinery [BR:ko03021]
+K04656,NA
+K07444,Enzymes [BR:ko01000]
+K04654,NA
+K04655,NA
+K15773,Transcription factors [BR:ko03000]
+K07113,NA
+K06173,Enzymes [BR:ko01000]
+K04613,G protein-coupled receptors [BR:ko04030]
+K04094,Enzymes [BR:ko01000]
+K04095,Chromosome [BR:ko03036]
+K04096,NA
+K04090,Enzymes [BR:ko01000]
+K09655,Enzymes [BR:ko01000]
+K00574,Enzymes [BR:ko01000]
+K00573,Enzymes [BR:ko01000]
+K00311,Enzymes [BR:ko01000]
+K00571,Enzymes [BR:ko01000]
+K09654,Enzymes [BR:ko01000]
+K01118,Enzymes [BR:ko01000]
+K00646,Polyketide biosynthesis proteins [BR:ko01008]
+K15790,NA
+K14995,Transporters [BR:ko02000]
+K01112,Enzymes [BR:ko01000]
+K14951,Enzymes [BR:ko01000]
+K01111,Enzymes [BR:ko01000]
+K06000,Enzymes [BR:ko01000]
+K04477,NA
+K08087,NA
+K08086,NA
+K08085,Secretion system [BR:ko02044]
+K01155,Enzymes [BR:ko01000]
+K01282,Enzymes [BR:ko01000]
+K01152,NA
+K01280,Enzymes [BR:ko01000]
+K01281,Enzymes [BR:ko01000]
+K01286,Enzymes [BR:ko01000]
+K01284,Enzymes [BR:ko01000]
+K06346,NA
+K01402,Enzymes [BR:ko01000]
+K09824,NA
+K15319,Polyketide biosynthesis proteins [BR:ko01008]
+K14587,Enzymes [BR:ko01000]
+K06345,NA
+K15311,Polyketide biosynthesis proteins [BR:ko01008]
+K06342,NA
+K15313,Polyketide biosynthesis proteins [BR:ko01008]
+K15312,Polyketide biosynthesis proteins [BR:ko01008]
+K14857,Enzymes [BR:ko01000]
+K15317,Polyketide biosynthesis proteins [BR:ko01008]
+K06343,NA
+K06078,NA
+K01751,Enzymes [BR:ko01000]
+K14997,Transporters [BR:ko02000]
+K01021,Enzymes [BR:ko01000]
+K02005,NA
+K02004,KEGG modules [BR:ko00002]
+K14831,Ribosome biogenesis [BR:ko03009]
+K06428,NA
+K02003,KEGG modules [BR:ko00002]
+K09563,Enzymes [BR:ko01000]
+K04308,G protein-coupled receptors [BR:ko04030]
+K09560,Chaperones and folding catalysts [BR:ko03110]
+K09566,Enzymes [BR:ko01000]
+K09569,Enzymes [BR:ko01000]
+K09568,Enzymes [BR:ko01000]
+K02481,Two-component system [BR:ko02022]
+K02480,Enzymes [BR:ko01000]
+K02483,Two-component system [BR:ko02022]
+K08170,KEGG modules [BR:ko00002]
+K02485,Two-component system [BR:ko02022]
+K08176,Transporters [BR:ko02000]
+K08175,Transporters [BR:ko02000]
+K02486,Enzymes [BR:ko01000]
+K08179,Transporters [BR:ko02000]
+K08178,Transporters [BR:ko02000]
+K09368,Transcription factors [BR:ko03000]
+K04309,G protein-coupled receptors [BR:ko04030]
+K14428,Transporters [BR:ko02000]
+K14429,Transporters [BR:ko02000]
+K13772,Transcription factors [BR:ko03000]
+K10422,Cytoskeleton proteins [BR:ko04812]
+K08373,G protein-coupled receptors [BR:ko04030]
+K07572,NA
+K10423,Cytoskeleton proteins [BR:ko04812]
+K14136,Enzymes [BR:ko01000]
+K06072,Enzymes [BR:ko01000]
+K06349,NA
+K09713,NA
+K03448,Transporters [BR:ko02000]
+K02859,NA
+K03446,KEGG modules [BR:ko00002]
+K03447,Transporters [BR:ko02000]
+K06077,NA
+K03445,Transporters [BR:ko02000]
+K03442,Transporters [BR:ko02000]
+K03443,Transporters [BR:ko02000]
+K06075,Transcription factors [BR:ko03000]
+K06076,Transporters [BR:ko02000]
+K09717,NA
+K10753,Chromosome [BR:ko03036]
+K03840,NA
+K14780,Enzymes [BR:ko01000]
+K11104,Transporters [BR:ko02000]
+K06971,NA
+K13770,Transcription factors [BR:ko03000]
+K02518,Translation factors [BR:ko03012]
+K03530,DNA replication proteins [BR:ko03032]
+K03536,Enzymes [BR:ko01000]
+K09505,Chaperones and folding catalysts [BR:ko03110]
+K03535,Transporters [BR:ko02000]
+K13796,NA
+K13795,NA
+K13794,Transcription factors [BR:ko03000]
+K13021,Transporters [BR:ko02000]
+K13023,Peptidases [BR:ko01002]
+K13022,Enzymes [BR:ko01000]
+K12268,Secretion system [BR:ko02044]
+K12269,Secretion system [BR:ko02044]
+K03668,NA
+K07014,NA
+K04899,Ion channels [BR:ko04040]
+K06970,Enzymes [BR:ko01000]
+K13679,Enzymes [BR:ko01000]
+K12260,Enzymes [BR:ko01000]
+K03192,NA
+K12263,NA
+K04890,Ion channels [BR:ko04040]
+K04891,Ion channels [BR:ko04040]
+K03664,NA
+K12267,Enzymes [BR:ko01000]
+K06012,Enzymes [BR:ko01000]
+K09773,Enzymes [BR:ko01000]
+K09770,NA
+K09771,Transporters [BR:ko02000]
+K02221,Secretion system [BR:ko02044]
+K09777,NA
+K09774,Transporters [BR:ko02000]
+K06015,Enzymes [BR:ko01000]
+K06018,Enzymes [BR:ko01000]
+K09779,NA
+K12231,Enzymes [BR:ko01000]
+K04651,Chaperones and folding catalysts [BR:ko03110]
+K08084,Secretion system [BR:ko02044]
+K06973,NA
+K07243,Transporters [BR:ko02000]
+K07944,Chromosome [BR:ko03036]
+K14788,Ribosome biogenesis [BR:ko03009]
+K03288,Transporters [BR:ko02000]
+K03289,Transporters [BR:ko02000]
+K11259,Enzymes [BR:ko01000]
+K03284,Transporters [BR:ko02000]
+K03285,NA
+K13243,Enzymes [BR:ko01000]
+K03287,NA
+K12310,Enzymes [BR:ko01000]
+K03281,NA
+K03282,Transporters [BR:ko02000]
+K13246,Enzymes [BR:ko01000]
+K08951,Photosynthesis proteins [BR:ko00194]
+K12145,Enzymes [BR:ko01000]
+K08953,Photosynthesis proteins [BR:ko00194]
+K08952,Photosynthesis proteins [BR:ko00194]
+K08954,Photosynthesis proteins [BR:ko00194]
+K08956,Enzymes [BR:ko01000]
+K11665,Enzymes [BR:ko01000]
+K11664,Chromosome [BR:ko03036]
+K11661,Enzymes [BR:ko01000]
+K11660,Chromosome [BR:ko03036]
+K11663,Chromosome [BR:ko03036]
+K10876,Enzymes [BR:ko01000]
+K12069,Secretion system [BR:ko02044]
+K03263,Translation factors [BR:ko03012]
+K03261,Translation factors [BR:ko03012]
+K12141,Enzymes [BR:ko01000]
+K11020,Enzymes [BR:ko01000]
+K14693,Transporters [BR:ko02000]
+K02241,KEGG modules [BR:ko00002]
+K12143,NA
+K09608,Enzymes [BR:ko01000]
+K09609,Enzymes [BR:ko01000]
+K09606,Enzymes [BR:ko01000]
+K09607,Enzymes [BR:ko01000]
+K09604,Enzymes [BR:ko01000]
+K12142,Enzymes [BR:ko01000]
+K01121,Enzymes [BR:ko01000]
+K09601,Enzymes [BR:ko01000]
+K02622,Enzymes [BR:ko01000]
+K08582,Enzymes [BR:ko01000]
+K11281,Chromosome [BR:ko03036]
+K15827,NA
+K02853,Enzymes [BR:ko01000]
+K08280,Enzymes [BR:ko01000]
+K12689,Transporters [BR:ko02000]
+K12686,Transporters [BR:ko02000]
+K11400,Chromosome [BR:ko03036]
+K11403,Chromosome [BR:ko03036]
+K11402,Chromosome [BR:ko03036]
+K12682,Transporters [BR:ko02000]
+K12440,Lipid biosynthesis proteins [BR:ko01004]
+K15452,Enzymes [BR:ko01000]
+K14692,Transporters [BR:ko02000]
+K12443,Lipid biosynthesis proteins [BR:ko01004]
+K12444,Lipid biosynthesis proteins [BR:ko01004]
+K00567,Enzymes [BR:ko01000]
+K03439,Enzymes [BR:ko01000]
+K11791,Ubiquitin system [BR:ko04121]
+K11102,Transporters [BR:ko02000]
+K11795,Ubiquitin system [BR:ko04121]
+K15450,Enzymes [BR:ko01000]
+K11797,Ubiquitin system [BR:ko04121]
+K02805,Enzymes [BR:ko01000]
+K04876,Ion channels [BR:ko04040]
+K04877,Ion channels [BR:ko04040]
+K04874,Ion channels [BR:ko04040]
+K04875,Ion channels [BR:ko04040]
+K06407,NA
+K08889,Enzymes [BR:ko01000]
+K06383,Enzymes [BR:ko01000]
+K11885,Proteasome [BR:ko03051]
+K15456,Transfer RNA biogenesis [BR:ko03016]
+K11887,Proteasome [BR:ko03051]
+K08884,Enzymes [BR:ko01000]
+K08883,Enzymes [BR:ko01000]
+K11880,Proteasome [BR:ko03051]
+K04878,Ion channels [BR:ko04040]
+K04879,Protein phosphatases and associated proteins [BR:ko01009]
+K12046,Cytoskeleton proteins [BR:ko04812]
+K09919,NA
+K12041,Transporters [BR:ko02000]
+K09912,NA
+K09913,NA
+K09910,NA
+K06723,Cellular antigens [BR:ko04090]
+K09916,NA
+K12049,Secretion system [BR:ko02044]
+K09914,NA
+K09915,NA
+K06900,NA
+K11534,Transcription factors [BR:ko03000]
+K11537,Transporters [BR:ko02000]
+K07059,NA
+K11531,Transcription factors [BR:ko03000]
+K11530,Enzymes [BR:ko01000]
+K06906,NA
+K06907,NA
+K10330,Ubiquitin system [BR:ko04121]
+K10331,Ubiquitin system [BR:ko04121]
+K11249,Transporters [BR:ko02000]
+K06385,NA
+K11539,Enzymes [BR:ko01000]
+K10335,Ubiquitin system [BR:ko04121]
+K10336,Ubiquitin system [BR:ko04121]
+K07039,NA
+K02245,KEGG modules [BR:ko00002]
+K04479,Enzymes [BR:ko01000]
+K08778,Enzymes [BR:ko01000]
+K07578,NA
+K08777,Enzymes [BR:ko01000]
+K08776,Enzymes [BR:ko01000]
+K09826,Transcription factors [BR:ko03000]
+K06344,NA
+K09825,Transcription factors [BR:ko03000]
+K09822,NA
+K09823,Transcription factors [BR:ko03000]
+K09820,KEGG modules [BR:ko00002]
+K02570,NA
+K10727,DNA replication proteins [BR:ko03032]
+K05569,Transporters [BR:ko02000]
+K10421,Chromosome [BR:ko03036]
+K06348,NA
+K07290,NA
+K07579,NA
+K10752,Chromosome [BR:ko03036]
+K10725,DNA replication proteins [BR:ko03032]
+K10750,Chromosome [BR:ko03036]
+K10751,Chromosome [BR:ko03036]
+K10349,Ubiquitin system [BR:ko04121]
+K10758,Enzymes [BR:ko01000]
+K10759,Enzymes [BR:ko01000]
+K12519,Secretion system [BR:ko02044]
+K11339,Chromosome [BR:ko03036]
+K11338,Enzymes [BR:ko01000]
+K15145,Transcription machinery [BR:ko03021]
+K15147,Transcription machinery [BR:ko03021]
+K14950,Enzymes [BR:ko01000]
+K05905,Enzymes [BR:ko01000]
+K10683,Messenger RNA biogenesis [BR:ko03019]
+K01482,Enzymes [BR:ko01000]
+K03308,NA
+K06176,Enzymes [BR:ko01000]
+K06219,NA
+K07749,Enzymes [BR:ko01000]
+K10689,Enzymes [BR:ko01000]
+K00369,NA
+K07741,NA
+K07740,NA
+K07742,NA
+K07745,NA
+K07744,NA
+K07746,Prokaryotic defense system [BR:ko02048]
