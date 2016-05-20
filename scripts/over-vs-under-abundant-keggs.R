@@ -7,9 +7,8 @@ setwd("~/Documents/KEGG-study/")
 
 df.meta = read.csv("./data/kegg-levels-id-subjects.csv", header = TRUE, stringsAsFactors = FALSE)
 
-
 ###-------------------------------------------------------------------------------
-# KS list
+# Take random 50% samples and generate KS list
 ###-------------------------------------------------------------------------------
 
 library(broom)
@@ -24,7 +23,6 @@ training.indx = sample(10012,.5*10012)
 
 KEGGs.ks.tests = ldply(lapply(df.T[,-c(training.indx, 10013, 10014)], FUN = function(x) 
   tidy(ks.test(x[which(df.T$subject.type == "healthy")], x[which(df.T$subject.type == "sick")]))))
-
 
 
 head(KEGGs.ks.tests[order(KEGGs.ks.tests$statistic, decreasing = TRUE),], 100)
@@ -87,20 +85,52 @@ ggplot(df.meta, aes(x = reorder(kegg, -over), y = over, colour =kegg.selected)) 
   geom_point() + xlab("") + 
   ylab("Confidence of model on healthy having over abundance of kegg")-> p
 
+######### 
+# visualize results
+#########
+training.set.results.from.ks = subset(df.meta, kegg.selected != "0 Test set")
+training.over.50 = head(training.set.results.from.ks[order(training.set.results.from.ks$over, decreasing = TRUE),], 50)
+training.under.50 = tail(training.set.results.from.ks[order(training.set.results.from.ks$over, decreasing = TRUE),], 50)
+training.over.50$group = "TS over"
+training.under.50$group = "TS under"
+hold.out.set.results = subset(df.meta, kegg.selected %in% c("0 Test set"))
+hold.out.set.results = hold.out.set.results[order(hold.out.set.results$over, decreasing = TRUE),]
+hold.out.over.50 = head(hold.out.set.results, 50)
+hold.out.under.50 = tail(hold.out.set.results, 50)
+hold.out.over.50$group = "HS over"
+hold.out.under.50$group = "HS under"
+
+rf.res.top50 = rbind(training.over.50, training.under.50, hold.out.over.50, hold.out.under.50)
+
+df.kegg.m = melt(rf.res.top50, id.vars = c(1:5, 69:71))
+df.kegg.m$variable = as.character(df.kegg.m$variable)
+df.kegg.m$subject.type = "HE"
+df.kegg.m$subject.type[grep("LS", df.kegg.m$variable)] = "LS"
+df.kegg.m$subject.type[grep("CD.", df.kegg.m$variable)] = "CD"
+df.kegg.m$subject.type[grep("UC.", df.kegg.m$variable)] = "UC"
+df.kegg.m$subject.type[grep("HE.", df.kegg.m$variable)] = "HE"
+
+ggplot(df.kegg.m, aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() + 
+  ggtitle("Relative abundance of KEGGs from hold out set and training set") +xlab("") + facet_wrap(~group)-> p
+ggplotly(p)
+plotly_POST(p, filename = "Keggs-from-hold-out-and-train-sets", fileopt = "overwrite")
+######### 
+# PCA style visualization
+#########
 numeric.df = df.meta[,-c(1:5, 69,70)]
 pca.df = prcomp(log10(1e-11 + as.matrix(numeric.df)))
 pca.res = cbind(df.meta$X, df.meta$over, as.data.frame(pca.df$x))
 names(pca.res)[1] = "kegg"
 names(pca.res)[2] = "over.abundant.health.conf"
 ggplot(pca.res, aes(x = PC1, y = PC2, colour = over.abundant.health.conf)) + geom_point() -> p
-plotly_POST(p, filename = "Keggs-pca-across-keggs", fileopt = "overwrite")
+#plotly_POST(p, filename = "Keggs-pca-across-keggs", fileopt = "overwrite")
 
 pca.res$over.conv.level = .5
 pca.res$over.conv.level[which(pca.res$over.abundant.health.conf > .75)] = "> 0.75"
 pca.res$over.conv.level[which(pca.res$over.abundant.health.conf < .25)] = "< 0.25"
 
 ggplot(pca.res, aes(x = PC1, y = PC2, colour = over.conv.level, label = kegg)) + geom_text() -> p
-plotly_POST(p, filename = "Keggs-pca-across-keggs-conf", fileopt = "overwrite")
+#plotly_POST(p, filename = "Keggs-pca-across-keggs-conf", fileopt = "overwrite")
 
 
 
@@ -122,4 +152,6 @@ df.kegg.m$value = as.numeric(df.kegg.m$value)
 ggplot(df.kegg.m, aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() + 
   ggtitle("RF KEGGS from KS moelling") +xlab("") + facet_wrap(~abundant)-> p
 ggplotly(p)
-plotly_POST(p, filename = "RF KEGGs from KS model", fileopt = "overwrite")
+#plotly_POST(p, filename = "RF KEGGs from KS model", fileopt = "overwrite")
+
+#write.csv(df.meta, file = "./data/keggs_RF_conf_scores.csv", row.names = FALSE, quote = TRUE)
