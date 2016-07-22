@@ -6,6 +6,10 @@
 setwd("~/Documents/KEGG-study/")
 
 df.meta = read.csv("./data/kegg-levels-id-subjects.csv", header = TRUE, stringsAsFactors = FALSE)
+#####
+## remove healthy sick subject
+#####
+df.meta = df.meta[,-ncol(df.meta)]
 
 ###-------------------------------------------------------------------------------
 # Take random 50% samples and generate KS list
@@ -19,6 +23,7 @@ df.T$subject = names(df.meta)[c(6:ncol(df.meta))]
 df.T$subject.type = "sick"
 df.T$subject.type[grep("HE", df.T$subject)] = "healthy"
 
+set.seed(1000)
 training.indx = sample(10012,.5*10012)
 
 KEGGs.ks.tests = ldply(lapply(df.T[,-c(training.indx, 10013, 10014)], FUN = function(x) 
@@ -44,11 +49,14 @@ df.kegg.m$health.state = "healthy"
 df.kegg.m$health.state[which(df.kegg.m$subject.type != "HE")] ="sick"
 
 ggplot(df.kegg.m, aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() + 
-  ggtitle("KS KEGGS list")-> p
+  ggtitle("KS KEGGS list from 50% random selection")-> p
 ggplotly(p)
 
 
 
+##---------------------------------------------------------
+# label KS Keggs as over or under abundant
+##---------------------------------------------------------
 library(dplyr)
 
 df.kegg.m %>%
@@ -67,7 +75,7 @@ print(table(kegg.abundance$healthy.abundance))
 training.set = merge(df.kegg.list, kegg.abundance)
 library(randomForest)
 training.set$healthy.abundance = as.factor(training.set$healthy.abundance)
-rf = randomForest(x = training.set[,c(6:68)], y = training.set$healthy.abundance)
+rf = randomForest(x = training.set[,c(6:67)], y = training.set$healthy.abundance)
 
 rf.preds = predict(rf, df.meta[,-c(1:5)], type = "prob")
 
@@ -102,7 +110,7 @@ hold.out.under.50$group = "HS under"
 
 rf.res.top50 = rbind(training.over.50, training.under.50, hold.out.over.50, hold.out.under.50)
 
-df.kegg.m = melt(rf.res.top50, id.vars = c(1:5, 69:71))
+df.kegg.m = melt(rf.res.top50, id.vars = c(1:5, 68:70))
 df.kegg.m$variable = as.character(df.kegg.m$variable)
 df.kegg.m$subject.type = "HE"
 df.kegg.m$subject.type[grep("LS", df.kegg.m$variable)] = "LS"
@@ -111,9 +119,108 @@ df.kegg.m$subject.type[grep("UC.", df.kegg.m$variable)] = "UC"
 df.kegg.m$subject.type[grep("HE.", df.kegg.m$variable)] = "HE"
 
 ggplot(df.kegg.m, aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() + 
-  ggtitle("Relative abundance of KEGGs from hold out set and training set") +xlab("") + facet_wrap(~group)-> p
+  ggtitle("Relative abundance of KEGGs from hold out set and training set") +xlab("") + facet_wrap(~group, ncol = 1)-> p
 ggplotly(p)
-plotly_POST(p, filename = "Keggs-from-hold-out-and-train-sets", fileopt = "overwrite")
+#plotly_POST(p, filename = "Keggs-from-hold-out-and-train-sets-HE-sick-removed", fileopt = "overwrite")
+#plotly_POST(p, filename = "Keggs-from-hold-out-and-train-sets", fileopt = "overwrite")
+TS.over = subset(df.kegg.m, group == "TS over")
+ggplot(TS.over, aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() -> p
+ggplotly(p)
+TS.under = subset(df.kegg.m, group == "TS under")
+ggplot(TS.under,  aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() -> p
+ggplotly(p)
+
+HS.over = subset(df.kegg.m, group == "HS over")
+ggplot(HS.over,  aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() -> p
+ggplotly(p)
+
+HS.under = subset(df.kegg.m, group == "HS under")
+ggplot(HS.under,  aes(x = X, y = log10(1e-8+value), colour = subject.type)) + geom_point() -> p
+ggplotly(p)
+
+bryn.over = c("K03480", "K03483", "K03475", "K02794", "K03753")
+bryn.under = c("K01847", "K01711", "K00971", "K12111")
+
+
+TS.over.list = c("K12111",
+                 "K12257",
+                 "K13683",
+                 "K00971",
+                 "K01847",
+                 "K00712",
+                 "K01206")
+
+HS.over.list = c("K07696",
+                 "K01412",
+                 "K02199",
+                 "K01711",
+                 "K02199",
+                 "K00957",
+                 "K13002")
+
+TS.under.list = c("K03480",
+                  "K03483",
+                  "K03750",
+                  "K03753",
+                  "K06351",
+                  "K07469",
+                  "K09963")
+
+HS.under.list = c("K07757",
+                  "K10793",
+                  "K02794",
+                  "K03475",
+                  "K04028",
+                  "K06924",
+                  "K12527")
+
+
+# disease.under = rbind(subset(training.set.results.from.ks, kegg %in% TS.over.list), 
+#                       subset(hold.out.set.results,  kegg %in% HS.over.list))
+
+melt.helper = function(input.df, col.indx){
+  df.kegg.m = melt(input.df, id.vars = col.indx)
+  df.kegg.m$variable = as.character(df.kegg.m$variable)
+  df.kegg.m$subject.type = "HE"
+  df.kegg.m$subject.type[grep("LS", df.kegg.m$variable)] = "LS"
+  df.kegg.m$subject.type[grep("CD.", df.kegg.m$variable)] = "CD"
+  df.kegg.m$subject.type[grep("UC.", df.kegg.m$variable)] = "UC"
+  df.kegg.m$subject.type[grep("HE.", df.kegg.m$variable)] = "HE"
+  return(df.kegg.m)
+}
+
+
+
+
+disease.under = rbind(subset(df.meta, kegg %in% unique(TS.over.list)[c(1:5)]), 
+                      subset(df.meta,  kegg %in% unique(HS.over.list)[c(1:5)]))
+disease.under$group = "Hold out set under abundant"
+disease.under$group[c(1:5)] = "Training set under abundant" 
+
+disease.under.m = melt.helper(disease.under, c(1:5, 68:70))
+
+ggplot(disease.under.m,  aes(y = kegg, x = log10(1e-8+value), colour = subject.type)) + geom_point() + 
+  ggtitle("Disease Under") + facet_wrap(~group, ncol = 1) +ylab("")-> p
+ggplotly(p)
+#plotly_POST(p, filename = "Sick-patient-under-5-keggs", fileopt = "overwrite")
+
+disease.over = rbind(subset(df.meta, kegg %in% unique(TS.under.list)[c(1:5)]), 
+                    subset(df.meta,  kegg %in% unique(HS.under.list)[c(1:5)]))
+disease.over$group = "Hold out set over abundant"
+disease.over$group[c(1:5)] = "Training set over abundant" 
+
+disease.over.m = melt.helper(disease.over, c(1:5, 68:70))
+ggplot(disease.over.m,  aes(y = kegg, x = log10(1e-8+value), colour = subject.type)) + geom_point() + 
+  ggtitle("Disease Over") + facet_wrap(~group, ncol = 1) +ylab("")-> p
+ggplotly(p)
+
+diseases = rbind(disease.over, disease.under)
+diseases.m = melt.helper(diseases, c(1:5, 68:70))
+ggplot(diseases.m,  aes(y = kegg, x = log10(1e-8+value), colour = subject.type)) + geom_point() + 
+  facet_wrap(~group, ncol = 1) +ylab("")-> p
+ggplotly(p)
+plotly_POST(p, filename = "Sick-patient-under-5-keggs", fileopt = "overwrite")
+
 ######### 
 # PCA style visualization
 #########
