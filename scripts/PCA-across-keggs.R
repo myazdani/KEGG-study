@@ -3,7 +3,7 @@
 ## PCA across keggs
 ##
 
-setwd("~/Documents/KEGG-study/")
+setwd("~/Documents/KEGG-IEEE-BigData/")
 
 df = read.csv("./data/table-kegg-clean.csv", header = TRUE, stringsAsFactors = FALSE)
 
